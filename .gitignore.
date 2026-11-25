@@ -1,0 +1,15 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Secrets — ne jamais publier
+.env
+*.key
+credentials*.json

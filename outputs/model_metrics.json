@@ -1,0 +1,104 @@
+{
+  "jeu_de_donnees": {
+    "clients": 1500,
+    "taux_churn": 0.232,
+    "apprentissage": 1125,
+    "test": 375,
+    "separation": "stratifiée, 75/25, random_state=42"
+  },
+  "variables": [
+    "age",
+    "days_since_last_order",
+    "orders_12m",
+    "avg_order_value_eur",
+    "sessions_90d",
+    "taux_clic_email",
+    "returns_12m",
+    "support_tickets_90d",
+    "satisfaction_score",
+    "sans_commande",
+    "part_achats_mobile",
+    "part_achats_magasin",
+    "region_Hauts-de-France",
+    "region_Nouvelle-Aquitaine",
+    "region_Occitanie",
+    "region_Île-de-France",
+    "acquisition_channel_Email",
+    "acquisition_channel_Paid Social",
+    "acquisition_channel_Referral",
+    "acquisition_channel_SEO"
+  ],
+  "modeles": {
+    "regression_logistique_seuil_0.5": {
+      "accuracy": 0.8533,
+      "precision": 0.6951,
+      "recall": 0.6552,
+      "f1": 0.6746,
+      "roc_auc": 0.8796,
+      "matrice_confusion": {
+        "vrais_negatifs": 263,
+        "faux_positifs": 25,
+        "faux_negatifs": 30,
+        "vrais_positifs": 57
+      }
+    },
+    "arbre_decision_profondeur_4_seuil_0.5": {
+      "accuracy": 0.8507,
+      "precision": 0.7013,
+      "recall": 0.6207,
+      "f1": 0.6585,
+      "roc_auc": 0.8341,
+      "matrice_confusion": {
+        "vrais_negatifs": 265,
+        "faux_positifs": 23,
+        "faux_negatifs": 33,
+        "vrais_positifs": 54
+      }
+    },
+    "regression_logistique_seuil_0.2": {
+      "accuracy": 0.8347,
+      "precision": 0.6126,
+      "recall": 0.7816,
+      "f1": 0.6869,
+      "roc_auc": 0.8796,
+      "matrice_confusion": {
+        "vrais_negatifs": 245,
+        "faux_positifs": 43,
+        "faux_negatifs": 19,
+        "vrais_positifs": 68
+      }
+    }
+  },
+  "modele_retenu": "regression_logistique",
+  "seuil": {
+    "valeur": 0.2,
+    "methode": "minimisation du coût des erreurs en validation croisée (apprentissage)",
+    "cout_faux_negatif_eur": 100,
+    "cout_faux_positif_eur": 20
+  },
+  "robustesse": {
+    "roc_auc_sans_recence": 0.8396
+  },
+  "top_variables_logistique": [
+    "days_since_last_order",
+    "orders_12m",
+    "support_tickets_90d",
+    "sessions_90d",
+    "satisfaction_score",
+    "acquisition_channel_Paid Social"
+  ],
+  "campagne": {
+    "P1": {
+      "clients": 41,
+      "budget_eur": 1025
+    },
+    "P2": {
+      "clients": 252,
+      "budget_eur": 2520
+    },
+    "P3": {
+      "clients": 156,
+      "budget_eur": 312
+    }
+  }
+}

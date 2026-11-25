@@ -1,0 +1,12 @@
+fichier,constat,transformation,justification
+Toutes,"Aucun doublon, aucune valeur manquante",Aucune suppression,Contrôle étape 2
+"transactions, reviews, content",Dates stockées en texte,Conversion en datetime,Calculs temporels possibles
+"customers, transactions",Variables catégorielles en texte,Type category,Préparer l'encodage (missions 3-4)
+customers,80 clients à 0 commande avec un panier moyen non nul,Panier moyen mis à 0 + indicateur sans_commande,Cohérence avec CA = 0 ; segment à part en mission 3
+customers / transactions,Somme des transactions ≠ revenue_12m (écart moyen ≈ 25 €),customers.csv retenu comme référence,C'est la table qui porte la cible churn
+customers / transactions,Récence non recalculable depuis les transactions,days_since_last_order conservé tel quel,Date de référence inconnue
+customers,revenue = orders × panier moyen (redondance),Ne pas utiliser les 3 ensemble en clustering,Éviter de compter 2 fois la même information
+customers,"CA, sessions, récence très asymétriques","Ajout de log_revenue, log_sessions, log_days",Limiter le poids des valeurs extrêmes en K-Means
+customers,Valeurs extrêmes (IQR),Conservées,Plausibles : gros clients
+customers + transactions,Comportement d'achat absent de customers,"Ajout nb_categories, categorie_principale, parts mobile/magasin",Utile pour segmentation et recommandation
+customers,Engagement email brut,Ajout taux_clic_email,Indicateur comparable entre clients

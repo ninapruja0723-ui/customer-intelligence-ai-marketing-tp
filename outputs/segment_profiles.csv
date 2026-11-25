@@ -1,0 +1,6 @@
+segment,clients,part_base_%,recence_jours,commandes_12m,CA_moyen_eur,CA_total_eur,part_CA_%,panier_moyen_eur,sessions_90j,satisfaction,tickets_support,retours_12m,taux_clic_email,nb_categories,taux_churn
+Fidèles premium,236,15.7,21.5,11.1,1628.0,384208.7,53.8,146.3,89.4,4.6,0.5,1.0,0.2,5.2,3.8
+Réguliers satisfaits,516,34.4,58.0,5.2,443.3,228726.0,32.0,85.0,46.5,4.1,0.6,0.4,0.2,3.6,7.9
+Occasionnels récents,274,18.3,27.8,1.9,142.6,39064.7,5.5,73.5,20.6,3.9,0.6,0.1,0.2,1.7,10.2
+En décrochage,394,26.3,154.3,2.5,156.9,61825.1,8.7,62.8,27.0,2.7,1.8,0.3,0.2,2.1,66.2
+Nouveaux à activer,80,5.3,14.6,0.0,0.0,0.0,0.0,0.0,9.3,3.8,0.6,0.0,0.2,0.0,11.2

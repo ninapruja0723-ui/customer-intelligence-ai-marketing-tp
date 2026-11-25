@@ -1,0 +1,11 @@
+review_text,nb_avis,part_avis_pct,sentiment_lexique,score_lexique,sentiment_manuel,themes,taux_churn_clients_pct,satisfaction_moyenne,accord_lexique_manuel
+Conforme à mes attentes,76,10.9,neutre,0,neutre,Général (sans thème),31.6,3.76,oui
+"Produit correct, sans plus",74,10.6,positif,1,neutre,Qualité produit,25.7,3.7,non
+Commande incomplète et remboursement compliqué,75,10.7,négatif,-2,négatif,Commande & remboursement,32.0,3.7,oui
+"Colis arrivé en retard, expérience frustrante",68,9.7,négatif,-2,négatif,Livraison,25.0,3.64,oui
+"Déçu par la qualité, je ne rachèterai pas",59,8.4,négatif,-1,négatif,Qualité produit,20.3,3.95,oui
+La navigation du site est compliquée,58,8.3,négatif,-1,négatif,Site & navigation,27.6,3.72,oui
+J'adore cette marque et les nouveautés,88,12.6,positif,1,positif,Marque & nouveautés,17.0,3.99,oui
+Bon rapport qualité prix,70,10.0,positif,1,positif,Qualité produit | Prix,20.0,3.72,oui
+"Service client très réactif, expérience parfaite",70,10.0,positif,2,positif,Service client,20.0,3.79,oui
+"Très bon produit, livraison rapide et je recommande",62,8.9,positif,3,positif,Livraison | Qualité produit,21.0,3.86,oui

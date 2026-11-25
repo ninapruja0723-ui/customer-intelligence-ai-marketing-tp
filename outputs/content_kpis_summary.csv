@@ -1,0 +1,10 @@
+niveau,groupe,nb_contenus,portee,conversions,cout_eur,taux_engagement_pct,ctr_pct,taux_conversion_pct,cpl_eur
+canal,Instagram,15.0,249450.0,1275.0,6227.5,9.44,6.41,7.97,4.88
+canal,Blog,12.0,163850.0,792.0,5407.8,11.46,8.54,5.66,6.83
+canal,Newsletter,7.0,79202.0,377.0,3620.18,9.85,7.14,6.67,9.6
+canal,LinkedIn,11.0,154851.0,294.0,4878.66,8.84,4.12,4.61,16.59
+format,education,10.0,155387.0,525.0,3822.3,11.93,5.23,6.46,7.28
+format,product,9.0,102625.0,420.0,4501.59,8.67,6.04,6.78,10.72
+format,promotion,12.0,115805.0,425.0,5799.45,8.77,5.98,6.13,13.65
+format,storytelling,14.0,273536.0,1368.0,6010.8,9.59,7.59,6.59,4.39
+global,Tous les contenus,45.0,647353.0,2738.0,20134.14,9.86,6.49,6.52,7.35

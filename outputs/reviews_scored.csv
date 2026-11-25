@@ -1,0 +1,701 @@
+review_id,customer_id,review_text,date,score_lexique,mots_positifs,mots_negatifs,sentiment_lexique,sentiment_manuel,churn_90d,satisfaction_score,support_tickets_90d,segment,themes
+R00001,C00326,Commande incomplète et remboursement compliqué,2025-01-15,-2,,"incomplète, compliqué",négatif,négatif,1,3.0,0,En décrochage,Commande & remboursement
+R00002,C00314,Conforme à mes attentes,2025-02-02,0,,,neutre,neutre,1,3.9,2,Réguliers satisfaits,Général (sans thème)
+R00003,C00972,J'adore cette marque et les nouveautés,2025-04-10,1,adore,,positif,positif,0,4.6,0,Fidèles premium,Marque & nouveautés
+R00004,C00210,"Service client très réactif, expérience parfaite",2025-06-07,2,"réactif, parfaite",,positif,positif,1,4.5,1,Réguliers satisfaits,Service client
+R00005,C00536,"Produit correct, sans plus",2025-12-04,1,correct,,positif,neutre,0,4.1,0,Occasionnels récents,Qualité produit
+R00006,C01311,Conforme à mes attentes,2025-07-21,0,,,neutre,neutre,0,4.9,0,Réguliers satisfaits,Général (sans thème)
+R00007,C00375,Conforme à mes attentes,2025-09-28,0,,,neutre,neutre,0,4.6,1,Fidèles premium,Général (sans thème)
+R00008,C00923,Commande incomplète et remboursement compliqué,2025-01-27,-2,,"incomplète, compliqué",négatif,négatif,0,2.1,1,En décrochage,Commande & remboursement
+R00009,C01390,"Déçu par la qualité, je ne rachèterai pas",2025-04-08,-1,,déçu,négatif,négatif,0,5.0,1,Fidèles premium,Qualité produit
+R00010,C01029,"Colis arrivé en retard, expérience frustrante",2025-11-19,-2,,"retard, frustrante",négatif,négatif,0,3.1,1,En décrochage,Livraison
+R00011,C01214,"Colis arrivé en retard, expérience frustrante",2025-08-13,-2,,"retard, frustrante",négatif,négatif,0,3.3,0,Réguliers satisfaits,Livraison
+R00012,C00840,"Déçu par la qualité, je ne rachèterai pas",2025-12-18,-1,,déçu,négatif,négatif,0,3.9,1,Réguliers satisfaits,Qualité produit
+R00013,C01488,Conforme à mes attentes,2025-01-27,0,,,neutre,neutre,0,5.0,1,Réguliers satisfaits,Général (sans thème)
+R00014,C00713,La navigation du site est compliquée,2025-06-14,-1,,compliquée,négatif,négatif,0,2.4,2,En décrochage,Site & navigation
+R00015,C01009,"Produit correct, sans plus",2025-07-03,1,correct,,positif,neutre,1,2.2,1,En décrochage,Qualité produit
+R00016,C00590,"Très bon produit, livraison rapide et je recommande",2025-12-03,3,"bon, rapide, recommande",,positif,positif,0,4.9,0,Fidèles premium,Livraison | Qualité produit
+R00017,C00333,"Déçu par la qualité, je ne rachèterai pas",2025-02-10,-1,,déçu,négatif,négatif,1,2.8,1,En décrochage,Qualité produit
+R00018,C01216,Bon rapport qualité prix,2025-10-20,1,bon,,positif,positif,0,4.5,1,Réguliers satisfaits,Qualité produit | Prix
+R00019,C01455,"Très bon produit, livraison rapide et je recommande",2025-11-22,3,"bon, rapide, recommande",,positif,positif,1,3.3,0,Réguliers satisfaits,Livraison | Qualité produit
+R00020,C01295,La navigation du site est compliquée,2025-10-26,-1,,compliquée,négatif,négatif,0,3.8,0,Occasionnels récents,Site & navigation
+R00021,C01059,"Très bon produit, livraison rapide et je recommande",2025-11-29,3,"bon, rapide, recommande",,positif,positif,0,3.9,1,En décrochage,Livraison | Qualité produit
+R00022,C01366,J'adore cette marque et les nouveautés,2025-01-16,1,adore,,positif,positif,0,3.2,2,Occasionnels récents,Marque & nouveautés
+R00023,C01460,J'adore cette marque et les nouveautés,2025-07-25,1,adore,,positif,positif,0,3.8,0,Réguliers satisfaits,Marque & nouveautés
+R00024,C00431,"Produit correct, sans plus",2025-10-18,1,correct,,positif,neutre,0,5.0,0,Occasionnels récents,Qualité produit
+R00025,C00566,Conforme à mes attentes,2025-07-01,0,,,neutre,neutre,1,2.6,2,En décrochage,Général (sans thème)
+R00026,C00950,"Produit correct, sans plus",2025-06-18,1,correct,,positif,neutre,0,4.0,0,Réguliers satisfaits,Qualité produit
+R00027,C01486,Bon rapport qualité prix,2025-04-23,1,bon,,positif,positif,0,4.4,0,Fidèles premium,Qualité produit | Prix
+R00028,C00833,"Service client très réactif, expérience parfaite",2025-07-03,2,"réactif, parfaite",,positif,positif,0,3.8,1,Réguliers satisfaits,Service client
+R00029,C00233,"Produit correct, sans plus",2025-02-11,1,correct,,positif,neutre,1,4.0,2,Occasionnels récents,Qualité produit
+R00030,C01085,"Produit correct, sans plus",2025-07-19,1,correct,,positif,neutre,0,4.1,0,Occasionnels récents,Qualité produit
+R00031,C00205,Bon rapport qualité prix,2025-12-12,1,bon,,positif,positif,0,5.0,3,Réguliers satisfaits,Qualité produit | Prix
+R00032,C00998,Commande incomplète et remboursement compliqué,2025-10-30,-2,,"incomplète, compliqué",négatif,négatif,0,3.8,0,Réguliers satisfaits,Commande & remboursement
+R00033,C01225,Conforme à mes attentes,2025-06-25,0,,,neutre,neutre,0,5.0,0,Fidèles premium,Général (sans thème)
+R00034,C00632,Bon rapport qualité prix,2025-02-21,1,bon,,positif,positif,1,2.2,3,En décrochage,Qualité produit | Prix
+R00035,C00933,Conforme à mes attentes,2025-10-15,0,,,neutre,neutre,0,4.1,0,Réguliers satisfaits,Général (sans thème)
+R00036,C00510,Commande incomplète et remboursement compliqué,2025-10-05,-2,,"incomplète, compliqué",négatif,négatif,0,5.0,0,Fidèles premium,Commande & remboursement
+R00037,C01065,"Colis arrivé en retard, expérience frustrante",2025-10-26,-2,,"retard, frustrante",négatif,négatif,0,3.0,0,Réguliers satisfaits,Livraison
+R00038,C00713,Commande incomplète et remboursement compliqué,2025-09-23,-2,,"incomplète, compliqué",négatif,négatif,0,2.4,2,En décrochage,Commande & remboursement
+R00039,C01279,"Très bon produit, livraison rapide et je recommande",2025-07-02,3,"bon, rapide, recommande",,positif,positif,0,3.3,1,Occasionnels récents,Livraison | Qualité produit
+R00040,C00304,J'adore cette marque et les nouveautés,2025-02-23,1,adore,,positif,positif,0,4.2,2,Réguliers satisfaits,Marque & nouveautés
+R00041,C01224,"Colis arrivé en retard, expérience frustrante",2025-01-06,-2,,"retard, frustrante",négatif,négatif,1,1.9,2,En décrochage,Livraison
+R00042,C01486,Commande incomplète et remboursement compliqué,2025-09-08,-2,,"incomplète, compliqué",négatif,négatif,0,4.4,0,Fidèles premium,Commande & remboursement
+R00043,C00442,"Service client très réactif, expérience parfaite",2025-05-02,2,"réactif, parfaite",,positif,positif,0,5.0,0,Réguliers satisfaits,Service client
+R00044,C00898,"Déçu par la qualité, je ne rachèterai pas",2025-10-12,-1,,déçu,négatif,négatif,1,3.7,1,En décrochage,Qualité produit
+R00045,C00075,J'adore cette marque et les nouveautés,2025-11-12,1,adore,,positif,positif,0,4.6,1,Fidèles premium,Marque & nouveautés
+R00046,C00766,"Produit correct, sans plus",2025-07-05,1,correct,,positif,neutre,0,3.3,0,Réguliers satisfaits,Qualité produit
+R00047,C00027,Commande incomplète et remboursement compliqué,2025-03-30,-2,,"incomplète, compliqué",négatif,négatif,0,3.1,0,En décrochage,Commande & remboursement
+R00048,C00583,J'adore cette marque et les nouveautés,2025-02-13,1,adore,,positif,positif,0,4.6,0,Réguliers satisfaits,Marque & nouveautés
+R00049,C00363,Conforme à mes attentes,2025-03-23,0,,,neutre,neutre,0,4.3,1,Fidèles premium,Général (sans thème)
+R00050,C00345,Conforme à mes attentes,2025-07-24,0,,,neutre,neutre,1,3.8,0,En décrochage,Général (sans thème)
+R00051,C01453,J'adore cette marque et les nouveautés,2025-12-15,1,adore,,positif,positif,1,4.1,1,Occasionnels récents,Marque & nouveautés
+R00052,C00068,"Produit correct, sans plus",2025-10-21,1,correct,,positif,neutre,0,4.3,2,Réguliers satisfaits,Qualité produit
+R00053,C00057,Commande incomplète et remboursement compliqué,2025-02-21,-2,,"incomplète, compliqué",négatif,négatif,0,3.7,0,Réguliers satisfaits,Commande & remboursement
+R00054,C01272,"Service client très réactif, expérience parfaite",2025-04-14,2,"réactif, parfaite",,positif,positif,0,4.5,1,Occasionnels récents,Service client
+R00055,C00105,La navigation du site est compliquée,2025-07-06,-1,,compliquée,négatif,négatif,1,2.5,4,En décrochage,Site & navigation
+R00056,C00975,Conforme à mes attentes,2025-07-04,0,,,neutre,neutre,0,3.2,0,Réguliers satisfaits,Général (sans thème)
+R00057,C00890,"Colis arrivé en retard, expérience frustrante",2025-04-03,-2,,"retard, frustrante",négatif,négatif,1,1.8,4,En décrochage,Livraison
+R00058,C00085,J'adore cette marque et les nouveautés,2025-04-01,1,adore,,positif,positif,0,3.8,0,Réguliers satisfaits,Marque & nouveautés
+R00059,C01387,Bon rapport qualité prix,2025-06-05,1,bon,,positif,positif,1,1.8,8,En décrochage,Qualité produit | Prix
+R00060,C00682,Commande incomplète et remboursement compliqué,2025-02-15,-2,,"incomplète, compliqué",négatif,négatif,0,4.7,1,Réguliers satisfaits,Commande & remboursement
+R00061,C00693,Conforme à mes attentes,2025-02-11,0,,,neutre,neutre,0,4.4,0,Réguliers satisfaits,Général (sans thème)
+R00062,C00306,"Très bon produit, livraison rapide et je recommande",2025-09-04,3,"bon, rapide, recommande",,positif,positif,0,4.2,0,Réguliers satisfaits,Livraison | Qualité produit
+R00063,C00786,"Colis arrivé en retard, expérience frustrante",2025-03-02,-2,,"retard, frustrante",négatif,négatif,0,4.4,2,Occasionnels récents,Livraison
+R00064,C01459,Conforme à mes attentes,2025-12-12,0,,,neutre,neutre,1,4.1,1,Occasionnels récents,Général (sans thème)
+R00065,C00148,Commande incomplète et remboursement compliqué,2025-02-13,-2,,"incomplète, compliqué",négatif,négatif,0,3.0,0,Réguliers satisfaits,Commande & remboursement
+R00066,C00745,"Très bon produit, livraison rapide et je recommande",2025-11-25,3,"bon, rapide, recommande",,positif,positif,0,3.2,2,Occasionnels récents,Livraison | Qualité produit
+R00067,C00769,Bon rapport qualité prix,2025-10-01,1,bon,,positif,positif,0,5.0,0,Réguliers satisfaits,Qualité produit | Prix
+R00068,C00935,"Produit correct, sans plus",2025-07-28,1,correct,,positif,neutre,1,3.0,2,En décrochage,Qualité produit
+R00069,C00700,Commande incomplète et remboursement compliqué,2025-09-29,-2,,"incomplète, compliqué",négatif,négatif,0,4.8,0,Réguliers satisfaits,Commande & remboursement
+R00070,C00408,Commande incomplète et remboursement compliqué,2025-12-13,-2,,"incomplète, compliqué",négatif,négatif,1,2.6,1,En décrochage,Commande & remboursement
+R00071,C00909,"Produit correct, sans plus",2025-07-13,1,correct,,positif,neutre,0,4.8,1,Réguliers satisfaits,Qualité produit
+R00072,C00122,"Colis arrivé en retard, expérience frustrante",2025-03-19,-2,,"retard, frustrante",négatif,négatif,1,2.7,0,En décrochage,Livraison
+R00073,C01450,Conforme à mes attentes,2025-03-01,0,,,neutre,neutre,0,3.6,1,Réguliers satisfaits,Général (sans thème)
+R00074,C00387,J'adore cette marque et les nouveautés,2025-07-26,1,adore,,positif,positif,0,2.7,1,En décrochage,Marque & nouveautés
+R00075,C00050,Commande incomplète et remboursement compliqué,2025-12-13,-2,,"incomplète, compliqué",négatif,négatif,0,4.8,1,Réguliers satisfaits,Commande & remboursement
+R00076,C01428,Conforme à mes attentes,2025-06-21,0,,,neutre,neutre,0,4.8,1,Fidèles premium,Général (sans thème)
+R00077,C01500,Bon rapport qualité prix,2025-03-11,1,bon,,positif,positif,1,2.6,2,En décrochage,Qualité produit | Prix
+R00078,C01204,"Déçu par la qualité, je ne rachèterai pas",2025-04-30,-1,,déçu,négatif,négatif,1,3.5,1,En décrochage,Qualité produit
+R00079,C00316,"Déçu par la qualité, je ne rachèterai pas",2025-09-09,-1,,déçu,négatif,négatif,0,3.6,0,Réguliers satisfaits,Qualité produit
+R00080,C00461,"Colis arrivé en retard, expérience frustrante",2025-12-23,-2,,"retard, frustrante",négatif,négatif,0,3.3,0,En décrochage,Livraison
+R00081,C00623,Conforme à mes attentes,2025-03-26,0,,,neutre,neutre,0,4.1,1,Nouveaux à activer,Général (sans thème)
+R00082,C01127,La navigation du site est compliquée,2025-10-03,-1,,compliquée,négatif,négatif,0,4.3,0,Occasionnels récents,Site & navigation
+R00083,C00447,"Service client très réactif, expérience parfaite",2025-01-30,2,"réactif, parfaite",,positif,positif,0,3.9,1,Occasionnels récents,Service client
+R00084,C00068,J'adore cette marque et les nouveautés,2025-11-07,1,adore,,positif,positif,0,4.3,2,Réguliers satisfaits,Marque & nouveautés
+R00085,C00917,"Colis arrivé en retard, expérience frustrante",2025-03-01,-2,,"retard, frustrante",négatif,négatif,0,4.6,0,Fidèles premium,Livraison
+R00086,C00406,"Service client très réactif, expérience parfaite",2025-11-12,2,"réactif, parfaite",,positif,positif,0,4.3,1,Occasionnels récents,Service client
+R00087,C00835,Conforme à mes attentes,2025-02-08,0,,,neutre,neutre,1,2.4,0,En décrochage,Général (sans thème)
+R00088,C00435,Conforme à mes attentes,2025-08-28,0,,,neutre,neutre,0,4.7,1,Réguliers satisfaits,Général (sans thème)
+R00089,C00674,"Service client très réactif, expérience parfaite",2025-01-14,2,"réactif, parfaite",,positif,positif,1,1.7,0,En décrochage,Service client
+R00090,C01013,"Produit correct, sans plus",2025-11-18,1,correct,,positif,neutre,0,3.7,0,Occasionnels récents,Qualité produit
+R00091,C01471,Conforme à mes attentes,2025-12-20,0,,,neutre,neutre,0,3.2,0,Occasionnels récents,Général (sans thème)
+R00092,C00393,"Produit correct, sans plus",2025-03-01,1,correct,,positif,neutre,0,4.2,0,Occasionnels récents,Qualité produit
+R00093,C00060,"Déçu par la qualité, je ne rachèterai pas",2025-09-16,-1,,déçu,négatif,négatif,0,5.0,1,Réguliers satisfaits,Qualité produit
+R00094,C00763,"Colis arrivé en retard, expérience frustrante",2025-05-05,-2,,"retard, frustrante",négatif,négatif,0,4.8,0,Fidèles premium,Livraison
+R00095,C00639,J'adore cette marque et les nouveautés,2025-08-02,1,adore,,positif,positif,1,1.9,4,En décrochage,Marque & nouveautés
+R00096,C01357,"Déçu par la qualité, je ne rachèterai pas",2025-06-29,-1,,déçu,négatif,négatif,0,4.2,0,Réguliers satisfaits,Qualité produit
+R00097,C01416,Commande incomplète et remboursement compliqué,2025-02-02,-2,,"incomplète, compliqué",négatif,négatif,1,2.7,2,En décrochage,Commande & remboursement
+R00098,C00813,"Service client très réactif, expérience parfaite",2025-09-07,2,"réactif, parfaite",,positif,positif,0,3.9,0,Nouveaux à activer,Service client
+R00099,C00057,"Produit correct, sans plus",2025-09-10,1,correct,,positif,neutre,0,3.7,0,Réguliers satisfaits,Qualité produit
+R00100,C00024,Commande incomplète et remboursement compliqué,2025-12-09,-2,,"incomplète, compliqué",négatif,négatif,0,3.9,2,Nouveaux à activer,Commande & remboursement
+R00101,C00424,La navigation du site est compliquée,2025-08-11,-1,,compliquée,négatif,négatif,0,4.6,1,Fidèles premium,Site & navigation
+R00102,C00673,La navigation du site est compliquée,2025-01-31,-1,,compliquée,négatif,négatif,1,4.0,1,Occasionnels récents,Site & navigation
+R00103,C00538,"Produit correct, sans plus",2025-10-25,1,correct,,positif,neutre,0,4.3,1,Fidèles premium,Qualité produit
+R00104,C01425,"Très bon produit, livraison rapide et je recommande",2025-05-10,3,"bon, rapide, recommande",,positif,positif,0,3.3,0,En décrochage,Livraison | Qualité produit
+R00105,C00465,"Colis arrivé en retard, expérience frustrante",2025-01-09,-2,,"retard, frustrante",négatif,négatif,0,3.6,1,Réguliers satisfaits,Livraison
+R00106,C01113,Commande incomplète et remboursement compliqué,2025-04-18,-2,,"incomplète, compliqué",négatif,négatif,1,2.6,3,En décrochage,Commande & remboursement
+R00107,C01235,"Déçu par la qualité, je ne rachèterai pas",2025-09-10,-1,,déçu,négatif,négatif,0,4.1,2,Réguliers satisfaits,Qualité produit
+R00108,C01005,"Service client très réactif, expérience parfaite",2025-03-23,2,"réactif, parfaite",,positif,positif,0,1.4,2,En décrochage,Service client
+R00109,C00742,Commande incomplète et remboursement compliqué,2025-03-11,-2,,"incomplète, compliqué",négatif,négatif,0,5.0,1,Réguliers satisfaits,Commande & remboursement
+R00110,C00273,Commande incomplète et remboursement compliqué,2025-11-21,-2,,"incomplète, compliqué",négatif,négatif,0,5.0,0,Fidèles premium,Commande & remboursement
+R00111,C01221,"Déçu par la qualité, je ne rachèterai pas",2025-04-15,-1,,déçu,négatif,négatif,0,3.8,0,Fidèles premium,Qualité produit
+R00112,C01280,J'adore cette marque et les nouveautés,2025-12-24,1,adore,,positif,positif,0,3.6,0,Occasionnels récents,Marque & nouveautés
+R00113,C00445,"Produit correct, sans plus",2025-09-29,1,correct,,positif,neutre,0,4.2,0,Réguliers satisfaits,Qualité produit
+R00114,C00448,Conforme à mes attentes,2025-05-21,0,,,neutre,neutre,1,2.0,2,En décrochage,Général (sans thème)
+R00115,C00394,La navigation du site est compliquée,2025-07-25,-1,,compliquée,négatif,négatif,1,2.6,4,En décrochage,Site & navigation
+R00116,C00764,"Colis arrivé en retard, expérience frustrante",2025-08-02,-2,,"retard, frustrante",négatif,négatif,0,5.0,1,Réguliers satisfaits,Livraison
+R00117,C00711,J'adore cette marque et les nouveautés,2025-05-20,1,adore,,positif,positif,0,4.4,0,Nouveaux à activer,Marque & nouveautés
+R00118,C01173,"Très bon produit, livraison rapide et je recommande",2025-05-10,3,"bon, rapide, recommande",,positif,positif,0,4.9,0,Réguliers satisfaits,Livraison | Qualité produit
+R00119,C00738,"Très bon produit, livraison rapide et je recommande",2025-10-27,3,"bon, rapide, recommande",,positif,positif,0,3.7,0,Réguliers satisfaits,Livraison | Qualité produit
+R00120,C00893,Commande incomplète et remboursement compliqué,2025-12-14,-2,,"incomplète, compliqué",négatif,négatif,0,4.3,2,Occasionnels récents,Commande & remboursement
+R00121,C01434,Commande incomplète et remboursement compliqué,2025-11-23,-2,,"incomplète, compliqué",négatif,négatif,0,4.6,0,Fidèles premium,Commande & remboursement
+R00122,C00107,J'adore cette marque et les nouveautés,2025-07-27,1,adore,,positif,positif,0,3.3,0,Réguliers satisfaits,Marque & nouveautés
+R00123,C01048,Conforme à mes attentes,2025-03-22,0,,,neutre,neutre,1,2.9,2,En décrochage,Général (sans thème)
+R00124,C01259,La navigation du site est compliquée,2025-09-30,-1,,compliquée,négatif,négatif,0,3.5,1,En décrochage,Site & navigation
+R00125,C01081,"Déçu par la qualité, je ne rachèterai pas",2025-11-12,-1,,déçu,négatif,négatif,0,3.4,0,Réguliers satisfaits,Qualité produit
+R00126,C01029,"Produit correct, sans plus",2025-11-14,1,correct,,positif,neutre,0,3.1,1,En décrochage,Qualité produit
+R00127,C00994,Bon rapport qualité prix,2025-06-02,1,bon,,positif,positif,0,4.3,1,Réguliers satisfaits,Qualité produit | Prix
+R00128,C00406,"Déçu par la qualité, je ne rachèterai pas",2025-08-07,-1,,déçu,négatif,négatif,0,4.3,1,Occasionnels récents,Qualité produit
+R00129,C00466,Bon rapport qualité prix,2025-05-20,1,bon,,positif,positif,1,3.2,3,En décrochage,Qualité produit | Prix
+R00130,C00526,"Service client très réactif, expérience parfaite",2025-08-25,2,"réactif, parfaite",,positif,positif,0,4.3,0,Réguliers satisfaits,Service client
+R00131,C00964,"Très bon produit, livraison rapide et je recommande",2025-01-23,3,"bon, rapide, recommande",,positif,positif,0,5.0,1,Fidèles premium,Livraison | Qualité produit
+R00132,C01109,Conforme à mes attentes,2025-12-23,0,,,neutre,neutre,0,4.1,0,Occasionnels récents,Général (sans thème)
+R00133,C00614,"Colis arrivé en retard, expérience frustrante",2025-06-25,-2,,"retard, frustrante",négatif,négatif,0,4.2,2,Nouveaux à activer,Livraison
+R00134,C01079,"Déçu par la qualité, je ne rachèterai pas",2025-02-21,-1,,déçu,négatif,négatif,0,2.3,1,En décrochage,Qualité produit
+R00135,C01462,La navigation du site est compliquée,2025-04-05,-1,,compliquée,négatif,négatif,0,4.0,0,Réguliers satisfaits,Site & navigation
+R00136,C00052,"Colis arrivé en retard, expérience frustrante",2025-05-06,-2,,"retard, frustrante",négatif,négatif,0,4.9,1,Réguliers satisfaits,Livraison
+R00137,C00932,"Service client très réactif, expérience parfaite",2025-10-15,2,"réactif, parfaite",,positif,positif,0,3.9,1,Occasionnels récents,Service client
+R00138,C00259,"Très bon produit, livraison rapide et je recommande",2025-08-25,3,"bon, rapide, recommande",,positif,positif,0,5.0,1,Fidèles premium,Livraison | Qualité produit
+R00139,C01314,"Produit correct, sans plus",2025-10-15,1,correct,,positif,neutre,0,4.9,0,Fidèles premium,Qualité produit
+R00140,C01458,Bon rapport qualité prix,2025-06-02,1,bon,,positif,positif,0,4.6,0,Réguliers satisfaits,Qualité produit | Prix
+R00141,C00175,Commande incomplète et remboursement compliqué,2025-02-05,-2,,"incomplète, compliqué",négatif,négatif,0,5.0,0,Fidèles premium,Commande & remboursement
+R00142,C00445,"Service client très réactif, expérience parfaite",2025-04-07,2,"réactif, parfaite",,positif,positif,0,4.2,0,Réguliers satisfaits,Service client
+R00143,C00578,Commande incomplète et remboursement compliqué,2025-09-13,-2,,"incomplète, compliqué",négatif,négatif,0,3.8,0,Occasionnels récents,Commande & remboursement
+R00144,C00531,"Déçu par la qualité, je ne rachèterai pas",2025-07-30,-1,,déçu,négatif,négatif,0,2.8,2,En décrochage,Qualité produit
+R00145,C00550,Conforme à mes attentes,2025-07-27,0,,,neutre,neutre,0,4.3,0,Occasionnels récents,Général (sans thème)
+R00146,C00019,"Produit correct, sans plus",2025-04-15,1,correct,,positif,neutre,1,2.4,5,En décrochage,Qualité produit
+R00147,C00681,"Service client très réactif, expérience parfaite",2025-03-09,2,"réactif, parfaite",,positif,positif,0,3.7,2,Fidèles premium,Service client
+R00148,C00713,Bon rapport qualité prix,2025-02-02,1,bon,,positif,positif,0,2.4,2,En décrochage,Qualité produit | Prix
+R00149,C00766,"Colis arrivé en retard, expérience frustrante",2025-03-21,-2,,"retard, frustrante",négatif,négatif,0,3.3,0,Réguliers satisfaits,Livraison
+R00150,C01143,Commande incomplète et remboursement compliqué,2025-09-01,-2,,"incomplète, compliqué",négatif,négatif,0,2.3,6,En décrochage,Commande & remboursement
+R00151,C01385,Commande incomplète et remboursement compliqué,2025-07-11,-2,,"incomplète, compliqué",négatif,négatif,0,4.3,0,Nouveaux à activer,Commande & remboursement
+R00152,C00515,Bon rapport qualité prix,2025-09-27,1,bon,,positif,positif,0,4.3,0,Réguliers satisfaits,Qualité produit | Prix
+R00153,C01302,J'adore cette marque et les nouveautés,2025-01-29,1,adore,,positif,positif,0,4.2,0,Réguliers satisfaits,Marque & nouveautés
+R00154,C00348,Conforme à mes attentes,2025-11-03,0,,,neutre,neutre,0,4.4,1,Fidèles premium,Général (sans thème)
+R00155,C00921,"Colis arrivé en retard, expérience frustrante",2025-05-03,-2,,"retard, frustrante",négatif,négatif,0,4.1,0,Fidèles premium,Livraison
+R00156,C01089,La navigation du site est compliquée,2025-04-30,-1,,compliquée,négatif,négatif,0,4.0,3,Réguliers satisfaits,Site & navigation
+R00157,C01428,"Déçu par la qualité, je ne rachèterai pas",2025-12-22,-1,,déçu,négatif,négatif,0,4.8,1,Fidèles premium,Qualité produit
+R00158,C00477,"Déçu par la qualité, je ne rachèterai pas",2025-03-25,-1,,déçu,négatif,négatif,1,3.9,0,Réguliers satisfaits,Qualité produit
+R00159,C00238,"Service client très réactif, expérience parfaite",2025-09-24,2,"réactif, parfaite",,positif,positif,1,1.8,6,En décrochage,Service client
+R00160,C00910,Bon rapport qualité prix,2025-06-08,1,bon,,positif,positif,0,4.0,0,Réguliers satisfaits,Qualité produit | Prix
+R00161,C01108,Conforme à mes attentes,2025-01-22,0,,,neutre,neutre,0,4.3,1,Réguliers satisfaits,Général (sans thème)
+R00162,C00256,J'adore cette marque et les nouveautés,2025-05-28,1,adore,,positif,positif,0,3.2,1,En décrochage,Marque & nouveautés
+R00163,C01345,"Colis arrivé en retard, expérience frustrante",2025-10-27,-2,,"retard, frustrante",négatif,négatif,0,4.1,0,Nouveaux à activer,Livraison
+R00164,C01157,"Produit correct, sans plus",2025-08-14,1,correct,,positif,neutre,0,4.4,1,Fidèles premium,Qualité produit
+R00165,C01288,J'adore cette marque et les nouveautés,2025-08-16,1,adore,,positif,positif,0,4.0,0,Réguliers satisfaits,Marque & nouveautés
+R00166,C00594,"Service client très réactif, expérience parfaite",2025-05-27,2,"réactif, parfaite",,positif,positif,0,4.5,0,Réguliers satisfaits,Service client
+R00167,C00218,La navigation du site est compliquée,2025-06-24,-1,,compliquée,négatif,négatif,0,4.1,0,Fidèles premium,Site & navigation
+R00168,C01431,J'adore cette marque et les nouveautés,2025-10-16,1,adore,,positif,positif,0,3.8,0,Occasionnels récents,Marque & nouveautés
+R00169,C00083,"Service client très réactif, expérience parfaite",2025-02-16,2,"réactif, parfaite",,positif,positif,1,2.4,1,En décrochage,Service client
+R00170,C00610,"Très bon produit, livraison rapide et je recommande",2025-09-28,3,"bon, rapide, recommande",,positif,positif,0,5.0,0,Réguliers satisfaits,Livraison | Qualité produit
+R00171,C01065,Commande incomplète et remboursement compliqué,2025-07-13,-2,,"incomplète, compliqué",négatif,négatif,0,3.0,0,Réguliers satisfaits,Commande & remboursement
+R00172,C01237,"Produit correct, sans plus",2025-05-12,1,correct,,positif,neutre,0,4.1,0,Réguliers satisfaits,Qualité produit
+R00173,C00424,J'adore cette marque et les nouveautés,2025-05-14,1,adore,,positif,positif,0,4.6,1,Fidèles premium,Marque & nouveautés
+R00174,C00912,"Très bon produit, livraison rapide et je recommande",2025-07-07,3,"bon, rapide, recommande",,positif,positif,1,4.1,0,Occasionnels récents,Livraison | Qualité produit
+R00175,C00925,"Colis arrivé en retard, expérience frustrante",2025-02-17,-2,,"retard, frustrante",négatif,négatif,0,4.0,0,Fidèles premium,Livraison
+R00176,C00049,La navigation du site est compliquée,2025-07-17,-1,,compliquée,négatif,négatif,1,3.1,1,Réguliers satisfaits,Site & navigation
+R00177,C00228,"Service client très réactif, expérience parfaite",2025-03-04,2,"réactif, parfaite",,positif,positif,0,4.9,1,Réguliers satisfaits,Service client
+R00178,C00950,"Colis arrivé en retard, expérience frustrante",2025-10-14,-2,,"retard, frustrante",négatif,négatif,0,4.0,0,Réguliers satisfaits,Livraison
+R00179,C00928,Conforme à mes attentes,2025-07-01,0,,,neutre,neutre,0,4.3,0,Occasionnels récents,Général (sans thème)
+R00180,C01219,Bon rapport qualité prix,2025-05-31,1,bon,,positif,positif,0,3.3,3,En décrochage,Qualité produit | Prix
+R00181,C00102,"Produit correct, sans plus",2025-01-06,1,correct,,positif,neutre,0,2.9,2,En décrochage,Qualité produit
+R00182,C01300,La navigation du site est compliquée,2025-05-08,-1,,compliquée,négatif,négatif,0,3.6,0,Occasionnels récents,Site & navigation
+R00183,C00126,Conforme à mes attentes,2025-12-16,0,,,neutre,neutre,0,4.0,3,Occasionnels récents,Général (sans thème)
+R00184,C00784,J'adore cette marque et les nouveautés,2025-09-29,1,adore,,positif,positif,1,2.4,1,En décrochage,Marque & nouveautés
+R00185,C00718,"Service client très réactif, expérience parfaite",2025-03-25,2,"réactif, parfaite",,positif,positif,0,3.7,1,Fidèles premium,Service client
+R00186,C00625,Commande incomplète et remboursement compliqué,2025-06-02,-2,,"incomplète, compliqué",négatif,négatif,0,3.9,2,Occasionnels récents,Commande & remboursement
+R00187,C01221,Bon rapport qualité prix,2025-11-10,1,bon,,positif,positif,0,3.8,0,Fidèles premium,Qualité produit | Prix
+R00188,C00268,Bon rapport qualité prix,2025-09-20,1,bon,,positif,positif,0,4.4,2,Fidèles premium,Qualité produit | Prix
+R00189,C00030,Bon rapport qualité prix,2025-03-12,1,bon,,positif,positif,0,1.3,2,En décrochage,Qualité produit | Prix
+R00190,C00458,J'adore cette marque et les nouveautés,2025-10-14,1,adore,,positif,positif,0,4.3,0,Réguliers satisfaits,Marque & nouveautés
+R00191,C00368,Bon rapport qualité prix,2025-01-07,1,bon,,positif,positif,1,3.2,1,En décrochage,Qualité produit | Prix
+R00192,C01355,"Service client très réactif, expérience parfaite",2025-11-27,2,"réactif, parfaite",,positif,positif,0,3.8,0,Occasionnels récents,Service client
+R00193,C01263,J'adore cette marque et les nouveautés,2025-07-26,1,adore,,positif,positif,1,5.0,2,Réguliers satisfaits,Marque & nouveautés
+R00194,C00231,Conforme à mes attentes,2025-07-01,0,,,neutre,neutre,0,4.4,0,Fidèles premium,Général (sans thème)
+R00195,C00187,"Déçu par la qualité, je ne rachèterai pas",2025-02-26,-1,,déçu,négatif,négatif,0,4.6,1,Réguliers satisfaits,Qualité produit
+R00196,C01417,"Très bon produit, livraison rapide et je recommande",2025-09-15,3,"bon, rapide, recommande",,positif,positif,0,4.6,2,Réguliers satisfaits,Livraison | Qualité produit
+R00197,C01226,"Produit correct, sans plus",2025-07-26,1,correct,,positif,neutre,0,3.3,2,Nouveaux à activer,Qualité produit
+R00198,C00727,"Produit correct, sans plus",2025-06-05,1,correct,,positif,neutre,0,3.9,1,Réguliers satisfaits,Qualité produit
+R00199,C01261,"Produit correct, sans plus",2025-12-21,1,correct,,positif,neutre,0,5.0,1,Fidèles premium,Qualité produit
+R00200,C01105,"Déçu par la qualité, je ne rachèterai pas",2025-01-24,-1,,déçu,négatif,négatif,0,5.0,2,Fidèles premium,Qualité produit
+R00201,C01449,Bon rapport qualité prix,2025-09-22,1,bon,,positif,positif,1,2.8,1,En décrochage,Qualité produit | Prix
+R00202,C01425,J'adore cette marque et les nouveautés,2025-10-09,1,adore,,positif,positif,0,3.3,0,En décrochage,Marque & nouveautés
+R00203,C01433,Bon rapport qualité prix,2025-07-17,1,bon,,positif,positif,0,5.0,0,Fidèles premium,Qualité produit | Prix
+R00204,C01350,La navigation du site est compliquée,2025-06-20,-1,,compliquée,négatif,négatif,0,3.1,1,Réguliers satisfaits,Site & navigation
+R00205,C00973,Bon rapport qualité prix,2025-12-28,1,bon,,positif,positif,0,4.8,1,Fidèles premium,Qualité produit | Prix
+R00206,C01086,Commande incomplète et remboursement compliqué,2025-12-04,-2,,"incomplète, compliqué",négatif,négatif,1,2.8,5,En décrochage,Commande & remboursement
+R00207,C00212,"Très bon produit, livraison rapide et je recommande",2025-04-30,3,"bon, rapide, recommande",,positif,positif,1,4.1,1,Réguliers satisfaits,Livraison | Qualité produit
+R00208,C00659,Commande incomplète et remboursement compliqué,2025-11-11,-2,,"incomplète, compliqué",négatif,négatif,0,3.9,0,Occasionnels récents,Commande & remboursement
+R00209,C00539,"Très bon produit, livraison rapide et je recommande",2025-02-23,3,"bon, rapide, recommande",,positif,positif,0,4.9,1,Fidèles premium,Livraison | Qualité produit
+R00210,C00406,Bon rapport qualité prix,2025-04-02,1,bon,,positif,positif,0,4.3,1,Occasionnels récents,Qualité produit | Prix
+R00211,C00133,Commande incomplète et remboursement compliqué,2025-12-05,-2,,"incomplète, compliqué",négatif,négatif,0,4.8,0,Réguliers satisfaits,Commande & remboursement
+R00212,C00516,"Très bon produit, livraison rapide et je recommande",2025-07-13,3,"bon, rapide, recommande",,positif,positif,0,3.9,1,Réguliers satisfaits,Livraison | Qualité produit
+R00213,C00078,"Très bon produit, livraison rapide et je recommande",2025-12-24,3,"bon, rapide, recommande",,positif,positif,0,3.0,2,En décrochage,Livraison | Qualité produit
+R00214,C00047,J'adore cette marque et les nouveautés,2025-05-18,1,adore,,positif,positif,0,3.6,0,Réguliers satisfaits,Marque & nouveautés
+R00215,C00011,"Colis arrivé en retard, expérience frustrante",2025-07-28,-2,,"retard, frustrante",négatif,négatif,0,3.6,0,Réguliers satisfaits,Livraison
+R00216,C00972,"Service client très réactif, expérience parfaite",2025-09-27,2,"réactif, parfaite",,positif,positif,0,4.6,0,Fidèles premium,Service client
+R00217,C00569,"Produit correct, sans plus",2025-08-21,1,correct,,positif,neutre,0,3.7,0,Occasionnels récents,Qualité produit
+R00218,C00594,Bon rapport qualité prix,2025-10-25,1,bon,,positif,positif,0,4.5,0,Réguliers satisfaits,Qualité produit | Prix
+R00219,C01196,"Service client très réactif, expérience parfaite",2025-05-16,2,"réactif, parfaite",,positif,positif,0,3.6,2,Réguliers satisfaits,Service client
+R00220,C01496,Commande incomplète et remboursement compliqué,2025-09-30,-2,,"incomplète, compliqué",négatif,négatif,1,1.9,3,En décrochage,Commande & remboursement
+R00221,C00855,"Colis arrivé en retard, expérience frustrante",2025-03-15,-2,,"retard, frustrante",négatif,négatif,0,4.2,1,Réguliers satisfaits,Livraison
+R00222,C00928,"Produit correct, sans plus",2025-01-23,1,correct,,positif,neutre,0,4.3,0,Occasionnels récents,Qualité produit
+R00223,C01463,"Colis arrivé en retard, expérience frustrante",2025-12-30,-2,,"retard, frustrante",négatif,négatif,0,4.0,0,Réguliers satisfaits,Livraison
+R00224,C01073,La navigation du site est compliquée,2025-09-03,-1,,compliquée,négatif,négatif,1,4.3,1,Occasionnels récents,Site & navigation
+R00225,C00967,J'adore cette marque et les nouveautés,2025-03-29,1,adore,,positif,positif,0,4.8,1,Occasionnels récents,Marque & nouveautés
+R00226,C00835,J'adore cette marque et les nouveautés,2025-02-04,1,adore,,positif,positif,1,2.4,0,En décrochage,Marque & nouveautés
+R00227,C00480,"Service client très réactif, expérience parfaite",2025-09-08,2,"réactif, parfaite",,positif,positif,0,3.1,0,Réguliers satisfaits,Service client
+R00228,C00320,"Colis arrivé en retard, expérience frustrante",2025-10-17,-2,,"retard, frustrante",négatif,négatif,0,3.8,1,Occasionnels récents,Livraison
+R00229,C00908,J'adore cette marque et les nouveautés,2025-05-05,1,adore,,positif,positif,0,4.5,0,Réguliers satisfaits,Marque & nouveautés
+R00230,C00868,"Colis arrivé en retard, expérience frustrante",2025-04-30,-2,,"retard, frustrante",négatif,négatif,0,2.9,2,En décrochage,Livraison
+R00231,C01281,Conforme à mes attentes,2025-12-19,0,,,neutre,neutre,0,4.3,0,Occasionnels récents,Général (sans thème)
+R00232,C00129,Bon rapport qualité prix,2025-10-24,1,bon,,positif,positif,0,3.8,1,Occasionnels récents,Qualité produit | Prix
+R00233,C00594,"Service client très réactif, expérience parfaite",2025-06-02,2,"réactif, parfaite",,positif,positif,0,4.5,0,Réguliers satisfaits,Service client
+R00234,C01202,"Produit correct, sans plus",2025-07-29,1,correct,,positif,neutre,0,3.9,0,Réguliers satisfaits,Qualité produit
+R00235,C00288,J'adore cette marque et les nouveautés,2025-10-19,1,adore,,positif,positif,0,3.4,0,Réguliers satisfaits,Marque & nouveautés
+R00236,C01001,"Colis arrivé en retard, expérience frustrante",2025-06-29,-2,,"retard, frustrante",négatif,négatif,0,5.0,0,Fidèles premium,Livraison
+R00237,C01006,Commande incomplète et remboursement compliqué,2025-07-22,-2,,"incomplète, compliqué",négatif,négatif,0,3.8,0,Réguliers satisfaits,Commande & remboursement
+R00238,C01071,"Produit correct, sans plus",2025-02-26,1,correct,,positif,neutre,0,3.7,0,Nouveaux à activer,Qualité produit
+R00239,C00638,Conforme à mes attentes,2025-12-25,0,,,neutre,neutre,0,3.5,0,En décrochage,Général (sans thème)
+R00240,C00195,J'adore cette marque et les nouveautés,2025-08-26,1,adore,,positif,positif,0,5.0,0,Fidèles premium,Marque & nouveautés
+R00241,C01281,J'adore cette marque et les nouveautés,2025-11-02,1,adore,,positif,positif,0,4.3,0,Occasionnels récents,Marque & nouveautés
+R00242,C01152,"Service client très réactif, expérience parfaite",2025-07-24,2,"réactif, parfaite",,positif,positif,0,3.0,1,Nouveaux à activer,Service client
+R00243,C00627,"Produit correct, sans plus",2025-09-05,1,correct,,positif,neutre,1,3.1,1,En décrochage,Qualité produit
+R00244,C01315,Commande incomplète et remboursement compliqué,2025-11-16,-2,,"incomplète, compliqué",négatif,négatif,0,4.6,0,Fidèles premium,Commande & remboursement
+R00245,C00716,"Service client très réactif, expérience parfaite",2025-12-28,2,"réactif, parfaite",,positif,positif,0,2.8,1,Réguliers satisfaits,Service client
+R00246,C00674,La navigation du site est compliquée,2025-01-01,-1,,compliquée,négatif,négatif,1,1.7,0,En décrochage,Site & navigation
+R00247,C01369,"Service client très réactif, expérience parfaite",2025-09-15,2,"réactif, parfaite",,positif,positif,0,3.6,1,Réguliers satisfaits,Service client
+R00248,C01163,Bon rapport qualité prix,2025-02-18,1,bon,,positif,positif,1,2.7,3,En décrochage,Qualité produit | Prix
+R00249,C01013,J'adore cette marque et les nouveautés,2025-02-04,1,adore,,positif,positif,0,3.7,0,Occasionnels récents,Marque & nouveautés
+R00250,C00403,J'adore cette marque et les nouveautés,2025-12-21,1,adore,,positif,positif,1,2.1,1,En décrochage,Marque & nouveautés
+R00251,C00457,"Service client très réactif, expérience parfaite",2025-11-20,2,"réactif, parfaite",,positif,positif,1,3.7,0,Nouveaux à activer,Service client
+R00252,C01419,Commande incomplète et remboursement compliqué,2025-07-10,-2,,"incomplète, compliqué",négatif,négatif,1,4.1,1,Occasionnels récents,Commande & remboursement
+R00253,C00332,"Déçu par la qualité, je ne rachèterai pas",2025-03-03,-1,,déçu,négatif,négatif,0,4.1,1,Réguliers satisfaits,Qualité produit
+R00254,C00037,La navigation du site est compliquée,2025-09-29,-1,,compliquée,négatif,négatif,0,5.0,2,Fidèles premium,Site & navigation
+R00255,C00817,"Produit correct, sans plus",2025-10-30,1,correct,,positif,neutre,0,2.7,0,Occasionnels récents,Qualité produit
+R00256,C00428,Conforme à mes attentes,2025-12-05,0,,,neutre,neutre,1,2.4,5,En décrochage,Général (sans thème)
+R00257,C01227,Conforme à mes attentes,2025-02-15,0,,,neutre,neutre,0,3.2,0,En décrochage,Général (sans thème)
+R00258,C00051,"Déçu par la qualité, je ne rachèterai pas",2025-11-23,-1,,déçu,négatif,négatif,0,3.2,0,En décrochage,Qualité produit
+R00259,C00459,Conforme à mes attentes,2025-07-11,0,,,neutre,neutre,1,3.3,2,En décrochage,Général (sans thème)
+R00260,C00588,J'adore cette marque et les nouveautés,2025-12-22,1,adore,,positif,positif,0,4.1,1,Réguliers satisfaits,Marque & nouveautés
+R00261,C00347,Conforme à mes attentes,2025-07-20,0,,,neutre,neutre,0,3.1,0,Occasionnels récents,Général (sans thème)
+R00262,C00131,"Déçu par la qualité, je ne rachèterai pas",2025-11-07,-1,,déçu,négatif,négatif,0,5.0,0,Fidèles premium,Qualité produit
+R00263,C00020,La navigation du site est compliquée,2025-07-18,-1,,compliquée,négatif,négatif,1,3.3,5,En décrochage,Site & navigation
+R00264,C00845,"Déçu par la qualité, je ne rachèterai pas",2025-04-30,-1,,déçu,négatif,négatif,0,5.0,1,Fidèles premium,Qualité produit
+R00265,C01108,J'adore cette marque et les nouveautés,2025-01-31,1,adore,,positif,positif,0,4.3,1,Réguliers satisfaits,Marque & nouveautés
+R00266,C00514,"Produit correct, sans plus",2025-05-24,1,correct,,positif,neutre,0,4.3,1,Réguliers satisfaits,Qualité produit
+R00267,C01379,Conforme à mes attentes,2025-08-27,0,,,neutre,neutre,1,3.0,0,En décrochage,Général (sans thème)
+R00268,C00579,Bon rapport qualité prix,2025-08-19,1,bon,,positif,positif,0,2.9,0,Nouveaux à activer,Qualité produit | Prix
+R00269,C00511,"Produit correct, sans plus",2025-10-16,1,correct,,positif,neutre,0,4.7,2,Réguliers satisfaits,Qualité produit
+R00270,C00529,La navigation du site est compliquée,2025-04-03,-1,,compliquée,négatif,négatif,1,3.1,4,En décrochage,Site & navigation
+R00271,C01419,"Produit correct, sans plus",2025-10-09,1,correct,,positif,neutre,1,4.1,1,Occasionnels récents,Qualité produit
+R00272,C00931,"Service client très réactif, expérience parfaite",2025-10-27,2,"réactif, parfaite",,positif,positif,0,3.8,0,Réguliers satisfaits,Service client
+R00273,C01372,"Colis arrivé en retard, expérience frustrante",2025-12-08,-2,,"retard, frustrante",négatif,négatif,0,3.3,2,Occasionnels récents,Livraison
+R00274,C00905,"Service client très réactif, expérience parfaite",2025-03-25,2,"réactif, parfaite",,positif,positif,0,3.8,0,Nouveaux à activer,Service client
+R00275,C00118,Commande incomplète et remboursement compliqué,2025-08-22,-2,,"incomplète, compliqué",négatif,négatif,1,2.1,3,En décrochage,Commande & remboursement
+R00276,C00767,"Colis arrivé en retard, expérience frustrante",2025-07-02,-2,,"retard, frustrante",négatif,négatif,0,5.0,1,Fidèles premium,Livraison
+R00277,C00129,Conforme à mes attentes,2025-08-01,0,,,neutre,neutre,0,3.8,1,Occasionnels récents,Général (sans thème)
+R00278,C00973,"Déçu par la qualité, je ne rachèterai pas",2025-06-04,-1,,déçu,négatif,négatif,0,4.8,1,Fidèles premium,Qualité produit
+R00279,C00271,"Déçu par la qualité, je ne rachèterai pas",2025-02-15,-1,,déçu,négatif,négatif,0,5.0,0,Fidèles premium,Qualité produit
+R00280,C01370,Bon rapport qualité prix,2025-04-28,1,bon,,positif,positif,0,2.8,1,Réguliers satisfaits,Qualité produit | Prix
+R00281,C00070,"Colis arrivé en retard, expérience frustrante",2025-03-03,-2,,"retard, frustrante",négatif,négatif,0,3.3,1,Occasionnels récents,Livraison
+R00282,C01422,"Déçu par la qualité, je ne rachèterai pas",2025-04-23,-1,,déçu,négatif,négatif,0,3.9,2,Occasionnels récents,Qualité produit
+R00283,C00219,Bon rapport qualité prix,2025-03-07,1,bon,,positif,positif,0,3.7,0,Nouveaux à activer,Qualité produit | Prix
+R00284,C00289,"Service client très réactif, expérience parfaite",2025-03-17,2,"réactif, parfaite",,positif,positif,0,3.7,0,Occasionnels récents,Service client
+R00285,C00629,"Service client très réactif, expérience parfaite",2025-03-09,2,"réactif, parfaite",,positif,positif,0,4.8,0,Réguliers satisfaits,Service client
+R00286,C00547,J'adore cette marque et les nouveautés,2025-08-16,1,adore,,positif,positif,0,3.7,0,Réguliers satisfaits,Marque & nouveautés
+R00287,C01365,J'adore cette marque et les nouveautés,2025-08-15,1,adore,,positif,positif,1,4.3,0,Occasionnels récents,Marque & nouveautés
+R00288,C01257,Commande incomplète et remboursement compliqué,2025-03-14,-2,,"incomplète, compliqué",négatif,négatif,1,3.0,2,En décrochage,Commande & remboursement
+R00289,C00674,La navigation du site est compliquée,2025-08-30,-1,,compliquée,négatif,négatif,1,1.7,0,En décrochage,Site & navigation
+R00290,C00322,Bon rapport qualité prix,2025-07-22,1,bon,,positif,positif,0,3.9,2,Réguliers satisfaits,Qualité produit | Prix
+R00291,C00255,"Service client très réactif, expérience parfaite",2025-11-18,2,"réactif, parfaite",,positif,positif,0,3.4,0,En décrochage,Service client
+R00292,C00278,Bon rapport qualité prix,2025-03-13,1,bon,,positif,positif,0,4.2,1,Réguliers satisfaits,Qualité produit | Prix
+R00293,C00517,"Très bon produit, livraison rapide et je recommande",2025-03-30,3,"bon, rapide, recommande",,positif,positif,0,3.5,1,En décrochage,Livraison | Qualité produit
+R00294,C00607,Bon rapport qualité prix,2025-12-20,1,bon,,positif,positif,0,3.3,1,Occasionnels récents,Qualité produit | Prix
+R00295,C01336,J'adore cette marque et les nouveautés,2025-02-04,1,adore,,positif,positif,0,4.6,1,Nouveaux à activer,Marque & nouveautés
+R00296,C00488,Conforme à mes attentes,2025-05-25,0,,,neutre,neutre,0,3.0,1,Réguliers satisfaits,Général (sans thème)
+R00297,C00654,J'adore cette marque et les nouveautés,2025-04-25,1,adore,,positif,positif,0,4.7,0,Occasionnels récents,Marque & nouveautés
+R00298,C00629,"Déçu par la qualité, je ne rachèterai pas",2025-06-22,-1,,déçu,négatif,négatif,0,4.8,0,Réguliers satisfaits,Qualité produit
+R00299,C01171,"Déçu par la qualité, je ne rachèterai pas",2025-03-07,-1,,déçu,négatif,négatif,0,4.9,0,Réguliers satisfaits,Qualité produit
+R00300,C00483,"Très bon produit, livraison rapide et je recommande",2025-04-27,3,"bon, rapide, recommande",,positif,positif,0,4.1,0,Réguliers satisfaits,Livraison | Qualité produit
+R00301,C01389,"Service client très réactif, expérience parfaite",2025-08-06,2,"réactif, parfaite",,positif,positif,0,3.5,2,Occasionnels récents,Service client
+R00302,C00778,"Déçu par la qualité, je ne rachèterai pas",2025-04-19,-1,,déçu,négatif,négatif,0,4.5,0,Fidèles premium,Qualité produit
+R00303,C01403,Conforme à mes attentes,2025-08-02,0,,,neutre,neutre,0,3.9,1,Occasionnels récents,Général (sans thème)
+R00304,C00201,"Colis arrivé en retard, expérience frustrante",2025-10-31,-2,,"retard, frustrante",négatif,négatif,1,2.7,0,En décrochage,Livraison
+R00305,C00431,"Très bon produit, livraison rapide et je recommande",2025-07-19,3,"bon, rapide, recommande",,positif,positif,0,5.0,0,Occasionnels récents,Livraison | Qualité produit
+R00306,C01089,"Service client très réactif, expérience parfaite",2025-03-10,2,"réactif, parfaite",,positif,positif,0,4.0,3,Réguliers satisfaits,Service client
+R00307,C00095,La navigation du site est compliquée,2025-05-02,-1,,compliquée,négatif,négatif,1,4.1,0,Réguliers satisfaits,Site & navigation
+R00308,C01478,"Produit correct, sans plus",2025-09-18,1,correct,,positif,neutre,0,3.6,0,Occasionnels récents,Qualité produit
+R00309,C00759,Conforme à mes attentes,2025-12-09,0,,,neutre,neutre,0,5.0,0,Fidèles premium,Général (sans thème)
+R00310,C00043,"Produit correct, sans plus",2025-03-16,1,correct,,positif,neutre,1,2.8,5,En décrochage,Qualité produit
+R00311,C01026,"Colis arrivé en retard, expérience frustrante",2025-03-18,-2,,"retard, frustrante",négatif,négatif,0,3.5,0,Réguliers satisfaits,Livraison
+R00312,C00981,"Service client très réactif, expérience parfaite",2025-01-12,2,"réactif, parfaite",,positif,positif,0,4.1,0,Occasionnels récents,Service client
+R00313,C01447,La navigation du site est compliquée,2025-10-23,-1,,compliquée,négatif,négatif,0,4.1,0,Occasionnels récents,Site & navigation
+R00314,C00246,Conforme à mes attentes,2025-03-20,0,,,neutre,neutre,0,4.1,3,Occasionnels récents,Général (sans thème)
+R00315,C00358,La navigation du site est compliquée,2025-09-14,-1,,compliquée,négatif,négatif,1,3.4,5,En décrochage,Site & navigation
+R00316,C00446,J'adore cette marque et les nouveautés,2025-06-06,1,adore,,positif,positif,1,3.4,4,En décrochage,Marque & nouveautés
+R00317,C01332,"Produit correct, sans plus",2025-07-16,1,correct,,positif,neutre,1,4.1,2,Occasionnels récents,Qualité produit
+R00318,C01006,"Produit correct, sans plus",2025-02-19,1,correct,,positif,neutre,0,3.8,0,Réguliers satisfaits,Qualité produit
+R00319,C00820,"Colis arrivé en retard, expérience frustrante",2025-08-14,-2,,"retard, frustrante",négatif,négatif,0,4.6,0,Réguliers satisfaits,Livraison
+R00320,C00464,"Déçu par la qualité, je ne rachèterai pas",2025-06-13,-1,,déçu,négatif,négatif,0,4.3,0,Occasionnels récents,Qualité produit
+R00321,C00866,"Très bon produit, livraison rapide et je recommande",2025-11-06,3,"bon, rapide, recommande",,positif,positif,0,3.7,0,Nouveaux à activer,Livraison | Qualité produit
+R00322,C00968,Conforme à mes attentes,2025-04-18,0,,,neutre,neutre,1,4.8,0,Fidèles premium,Général (sans thème)
+R00323,C00975,Bon rapport qualité prix,2025-01-13,1,bon,,positif,positif,0,3.2,0,Réguliers satisfaits,Qualité produit | Prix
+R00324,C01496,"Très bon produit, livraison rapide et je recommande",2025-11-15,3,"bon, rapide, recommande",,positif,positif,1,1.9,3,En décrochage,Livraison | Qualité produit
+R00325,C00476,"Produit correct, sans plus",2025-02-03,1,correct,,positif,neutre,1,3.5,3,Occasionnels récents,Qualité produit
+R00326,C00139,"Service client très réactif, expérience parfaite",2025-02-07,2,"réactif, parfaite",,positif,positif,1,3.4,0,En décrochage,Service client
+R00327,C01178,La navigation du site est compliquée,2025-10-16,-1,,compliquée,négatif,négatif,0,4.1,0,Occasionnels récents,Site & navigation
+R00328,C00554,"Très bon produit, livraison rapide et je recommande",2025-08-14,3,"bon, rapide, recommande",,positif,positif,0,4.8,0,Occasionnels récents,Livraison | Qualité produit
+R00329,C00474,J'adore cette marque et les nouveautés,2025-05-29,1,adore,,positif,positif,0,4.4,0,Fidèles premium,Marque & nouveautés
+R00330,C01270,Bon rapport qualité prix,2025-12-19,1,bon,,positif,positif,0,4.2,1,Réguliers satisfaits,Qualité produit | Prix
+R00331,C00413,Bon rapport qualité prix,2025-11-28,1,bon,,positif,positif,0,5.0,0,Fidèles premium,Qualité produit | Prix
+R00332,C01148,Commande incomplète et remboursement compliqué,2025-05-16,-2,,"incomplète, compliqué",négatif,négatif,1,2.8,1,En décrochage,Commande & remboursement
+R00333,C00765,J'adore cette marque et les nouveautés,2025-09-24,1,adore,,positif,positif,0,4.7,0,Occasionnels récents,Marque & nouveautés
+R00334,C00812,"Très bon produit, livraison rapide et je recommande",2025-03-16,3,"bon, rapide, recommande",,positif,positif,0,4.7,1,Fidèles premium,Livraison | Qualité produit
+R00335,C01192,"Déçu par la qualité, je ne rachèterai pas",2025-07-17,-1,,déçu,négatif,négatif,0,5.0,1,Réguliers satisfaits,Qualité produit
+R00336,C01004,"Colis arrivé en retard, expérience frustrante",2025-01-01,-2,,"retard, frustrante",négatif,négatif,0,4.6,0,Fidèles premium,Livraison
+R00337,C00482,Conforme à mes attentes,2025-02-12,0,,,neutre,neutre,0,3.8,1,Réguliers satisfaits,Général (sans thème)
+R00338,C01273,Commande incomplète et remboursement compliqué,2025-12-21,-2,,"incomplète, compliqué",négatif,négatif,0,4.0,1,Réguliers satisfaits,Commande & remboursement
+R00339,C01282,Bon rapport qualité prix,2025-04-25,1,bon,,positif,positif,0,4.5,1,Réguliers satisfaits,Qualité produit | Prix
+R00340,C00015,Bon rapport qualité prix,2025-12-06,1,bon,,positif,positif,0,3.6,1,Réguliers satisfaits,Qualité produit | Prix
+R00341,C00990,La navigation du site est compliquée,2025-12-07,-1,,compliquée,négatif,négatif,1,2.9,4,En décrochage,Site & navigation
+R00342,C00484,J'adore cette marque et les nouveautés,2025-07-16,1,adore,,positif,positif,0,3.1,3,Réguliers satisfaits,Marque & nouveautés
+R00343,C01417,"Très bon produit, livraison rapide et je recommande",2025-07-05,3,"bon, rapide, recommande",,positif,positif,0,4.6,2,Réguliers satisfaits,Livraison | Qualité produit
+R00344,C00906,"Très bon produit, livraison rapide et je recommande",2025-07-08,3,"bon, rapide, recommande",,positif,positif,0,2.3,0,En décrochage,Livraison | Qualité produit
+R00345,C01154,Conforme à mes attentes,2025-04-10,0,,,neutre,neutre,0,5.0,0,Réguliers satisfaits,Général (sans thème)
+R00346,C00659,"Très bon produit, livraison rapide et je recommande",2025-10-28,3,"bon, rapide, recommande",,positif,positif,0,3.9,0,Occasionnels récents,Livraison | Qualité produit
+R00347,C01266,Bon rapport qualité prix,2025-10-31,1,bon,,positif,positif,1,3.0,1,En décrochage,Qualité produit | Prix
+R00348,C01209,J'adore cette marque et les nouveautés,2025-10-30,1,adore,,positif,positif,0,3.2,1,Réguliers satisfaits,Marque & nouveautés
+R00349,C00214,"Déçu par la qualité, je ne rachèterai pas",2025-03-27,-1,,déçu,négatif,négatif,1,1.7,1,En décrochage,Qualité produit
+R00350,C01287,Conforme à mes attentes,2025-01-18,0,,,neutre,neutre,0,3.2,2,En décrochage,Général (sans thème)
+R00351,C00056,Conforme à mes attentes,2025-10-08,0,,,neutre,neutre,1,2.5,3,En décrochage,Général (sans thème)
+R00352,C00967,J'adore cette marque et les nouveautés,2025-09-26,1,adore,,positif,positif,0,4.8,1,Occasionnels récents,Marque & nouveautés
+R00353,C01051,La navigation du site est compliquée,2025-07-17,-1,,compliquée,négatif,négatif,0,2.5,0,En décrochage,Site & navigation
+R00354,C01450,J'adore cette marque et les nouveautés,2025-10-14,1,adore,,positif,positif,0,3.6,1,Réguliers satisfaits,Marque & nouveautés
+R00355,C00912,Commande incomplète et remboursement compliqué,2025-04-19,-2,,"incomplète, compliqué",négatif,négatif,1,4.1,0,Occasionnels récents,Commande & remboursement
+R00356,C01078,La navigation du site est compliquée,2025-02-12,-1,,compliquée,négatif,négatif,0,3.3,0,En décrochage,Site & navigation
+R00357,C01473,Bon rapport qualité prix,2025-09-23,1,bon,,positif,positif,0,4.4,1,Fidèles premium,Qualité produit | Prix
+R00358,C01171,La navigation du site est compliquée,2025-11-23,-1,,compliquée,négatif,négatif,0,4.9,0,Réguliers satisfaits,Site & navigation
+R00359,C00546,J'adore cette marque et les nouveautés,2025-06-20,1,adore,,positif,positif,0,3.9,0,Réguliers satisfaits,Marque & nouveautés
+R00360,C01044,Conforme à mes attentes,2025-02-21,0,,,neutre,neutre,1,2.0,2,En décrochage,Général (sans thème)
+R00361,C00117,"Colis arrivé en retard, expérience frustrante",2025-11-25,-2,,"retard, frustrante",négatif,négatif,1,3.0,3,En décrochage,Livraison
+R00362,C00109,"Colis arrivé en retard, expérience frustrante",2025-12-07,-2,,"retard, frustrante",négatif,négatif,0,4.3,0,Fidèles premium,Livraison
+R00363,C01452,La navigation du site est compliquée,2025-05-09,-1,,compliquée,négatif,négatif,0,3.2,0,En décrochage,Site & navigation
+R00364,C00761,"Produit correct, sans plus",2025-10-02,1,correct,,positif,neutre,1,2.5,1,En décrochage,Qualité produit
+R00365,C00808,La navigation du site est compliquée,2025-07-17,-1,,compliquée,négatif,négatif,0,4.4,1,Fidèles premium,Site & navigation
+R00366,C00281,"Déçu par la qualité, je ne rachèterai pas",2025-08-27,-1,,déçu,négatif,négatif,0,4.0,1,Réguliers satisfaits,Qualité produit
+R00367,C00221,"Produit correct, sans plus",2025-02-08,1,correct,,positif,neutre,0,4.0,2,Réguliers satisfaits,Qualité produit
+R00368,C01340,Commande incomplète et remboursement compliqué,2025-03-29,-2,,"incomplète, compliqué",négatif,négatif,0,4.9,1,Réguliers satisfaits,Commande & remboursement
+R00369,C00395,J'adore cette marque et les nouveautés,2025-10-26,1,adore,,positif,positif,0,5.0,1,Fidèles premium,Marque & nouveautés
+R00370,C00518,Commande incomplète et remboursement compliqué,2025-06-19,-2,,"incomplète, compliqué",négatif,négatif,1,3.0,2,En décrochage,Commande & remboursement
+R00371,C01246,J'adore cette marque et les nouveautés,2025-06-27,1,adore,,positif,positif,0,3.6,0,Occasionnels récents,Marque & nouveautés
+R00372,C00707,Commande incomplète et remboursement compliqué,2025-04-18,-2,,"incomplète, compliqué",négatif,négatif,0,2.1,2,En décrochage,Commande & remboursement
+R00373,C01166,Commande incomplète et remboursement compliqué,2025-12-23,-2,,"incomplète, compliqué",négatif,négatif,0,4.6,0,Occasionnels récents,Commande & remboursement
+R00374,C01466,"Très bon produit, livraison rapide et je recommande",2025-09-26,3,"bon, rapide, recommande",,positif,positif,1,2.5,5,En décrochage,Livraison | Qualité produit
+R00375,C00579,"Service client très réactif, expérience parfaite",2025-09-05,2,"réactif, parfaite",,positif,positif,0,2.9,0,Nouveaux à activer,Service client
+R00376,C00508,"Colis arrivé en retard, expérience frustrante",2025-07-10,-2,,"retard, frustrante",négatif,négatif,1,2.3,2,En décrochage,Livraison
+R00377,C01361,Commande incomplète et remboursement compliqué,2025-11-07,-2,,"incomplète, compliqué",négatif,négatif,1,3.0,3,En décrochage,Commande & remboursement
+R00378,C00288,"Service client très réactif, expérience parfaite",2025-12-31,2,"réactif, parfaite",,positif,positif,0,3.4,0,Réguliers satisfaits,Service client
+R00379,C00884,Conforme à mes attentes,2025-09-12,0,,,neutre,neutre,0,3.4,0,Occasionnels récents,Général (sans thème)
+R00380,C00927,"Service client très réactif, expérience parfaite",2025-09-10,2,"réactif, parfaite",,positif,positif,0,4.7,1,Fidèles premium,Service client
+R00381,C01104,"Service client très réactif, expérience parfaite",2025-05-18,2,"réactif, parfaite",,positif,positif,1,3.5,1,En décrochage,Service client
+R00382,C00069,J'adore cette marque et les nouveautés,2025-02-17,1,adore,,positif,positif,0,5.0,0,Fidèles premium,Marque & nouveautés
+R00383,C01223,Commande incomplète et remboursement compliqué,2025-07-27,-2,,"incomplète, compliqué",négatif,négatif,0,3.5,0,Occasionnels récents,Commande & remboursement
+R00384,C01204,La navigation du site est compliquée,2025-10-07,-1,,compliquée,négatif,négatif,1,3.5,1,En décrochage,Site & navigation
+R00385,C01134,La navigation du site est compliquée,2025-10-30,-1,,compliquée,négatif,négatif,0,2.4,3,En décrochage,Site & navigation
+R00386,C00591,"Colis arrivé en retard, expérience frustrante",2025-06-29,-2,,"retard, frustrante",négatif,négatif,0,3.4,0,Occasionnels récents,Livraison
+R00387,C00993,J'adore cette marque et les nouveautés,2025-07-19,1,adore,,positif,positif,1,3.1,0,En décrochage,Marque & nouveautés
+R00388,C00592,"Déçu par la qualité, je ne rachèterai pas",2025-08-09,-1,,déçu,négatif,négatif,0,3.4,0,Réguliers satisfaits,Qualité produit
+R00389,C00166,"Très bon produit, livraison rapide et je recommande",2025-12-08,3,"bon, rapide, recommande",,positif,positif,0,3.5,1,Occasionnels récents,Livraison | Qualité produit
+R00390,C00872,La navigation du site est compliquée,2025-02-13,-1,,compliquée,négatif,négatif,0,4.9,0,Fidèles premium,Site & navigation
+R00391,C01159,"Service client très réactif, expérience parfaite",2025-09-24,2,"réactif, parfaite",,positif,positif,0,4.1,0,Réguliers satisfaits,Service client
+R00392,C00099,"Service client très réactif, expérience parfaite",2025-12-05,2,"réactif, parfaite",,positif,positif,0,4.5,0,Fidèles premium,Service client
+R00393,C00987,Bon rapport qualité prix,2025-11-15,1,bon,,positif,positif,0,3.3,0,Réguliers satisfaits,Qualité produit | Prix
+R00394,C00163,"Produit correct, sans plus",2025-01-16,1,correct,,positif,neutre,0,4.7,0,Occasionnels récents,Qualité produit
+R00395,C00911,Conforme à mes attentes,2025-09-28,0,,,neutre,neutre,1,1.9,1,En décrochage,Général (sans thème)
+R00396,C00165,"Colis arrivé en retard, expérience frustrante",2025-10-19,-2,,"retard, frustrante",négatif,négatif,0,3.7,0,Réguliers satisfaits,Livraison
+R00397,C01190,Bon rapport qualité prix,2025-07-08,1,bon,,positif,positif,1,2.6,1,En décrochage,Qualité produit | Prix
+R00398,C00472,Commande incomplète et remboursement compliqué,2025-04-08,-2,,"incomplète, compliqué",négatif,négatif,1,3.4,0,Réguliers satisfaits,Commande & remboursement
+R00399,C00260,"Très bon produit, livraison rapide et je recommande",2025-06-08,3,"bon, rapide, recommande",,positif,positif,0,3.6,0,Réguliers satisfaits,Livraison | Qualité produit
+R00400,C00673,"Produit correct, sans plus",2025-06-15,1,correct,,positif,neutre,1,4.0,1,Occasionnels récents,Qualité produit
+R00401,C01010,"Service client très réactif, expérience parfaite",2025-06-12,2,"réactif, parfaite",,positif,positif,0,4.3,1,Occasionnels récents,Service client
+R00402,C00884,J'adore cette marque et les nouveautés,2025-06-30,1,adore,,positif,positif,0,3.4,0,Occasionnels récents,Marque & nouveautés
+R00403,C00722,J'adore cette marque et les nouveautés,2025-05-19,1,adore,,positif,positif,0,3.6,0,Occasionnels récents,Marque & nouveautés
+R00404,C01022,J'adore cette marque et les nouveautés,2025-11-15,1,adore,,positif,positif,1,2.8,2,En décrochage,Marque & nouveautés
+R00405,C00257,"Très bon produit, livraison rapide et je recommande",2025-02-14,3,"bon, rapide, recommande",,positif,positif,1,2.7,0,En décrochage,Livraison | Qualité produit
+R00406,C01241,"Très bon produit, livraison rapide et je recommande",2025-03-22,3,"bon, rapide, recommande",,positif,positif,0,4.2,0,Occasionnels récents,Livraison | Qualité produit
+R00407,C00466,"Service client très réactif, expérience parfaite",2025-11-11,2,"réactif, parfaite",,positif,positif,1,3.2,3,En décrochage,Service client
+R00408,C00158,Commande incomplète et remboursement compliqué,2025-11-04,-2,,"incomplète, compliqué",négatif,négatif,1,2.6,1,En décrochage,Commande & remboursement
+R00409,C01070,Conforme à mes attentes,2025-06-26,0,,,neutre,neutre,0,3.8,1,Réguliers satisfaits,Général (sans thème)
+R00410,C00065,Conforme à mes attentes,2025-01-01,0,,,neutre,neutre,1,3.4,3,En décrochage,Général (sans thème)
+R00411,C00286,Bon rapport qualité prix,2025-01-22,1,bon,,positif,positif,0,3.5,1,Réguliers satisfaits,Qualité produit | Prix
+R00412,C00675,"Très bon produit, livraison rapide et je recommande",2025-08-31,3,"bon, rapide, recommande",,positif,positif,0,3.5,1,Occasionnels récents,Livraison | Qualité produit
+R00413,C00641,"Produit correct, sans plus",2025-02-23,1,correct,,positif,neutre,1,2.1,2,En décrochage,Qualité produit
+R00414,C01418,"Colis arrivé en retard, expérience frustrante",2025-04-25,-2,,"retard, frustrante",négatif,négatif,0,4.8,2,Occasionnels récents,Livraison
+R00415,C01340,"Colis arrivé en retard, expérience frustrante",2025-01-24,-2,,"retard, frustrante",négatif,négatif,0,4.9,1,Réguliers satisfaits,Livraison
+R00416,C01344,"Très bon produit, livraison rapide et je recommande",2025-04-25,3,"bon, rapide, recommande",,positif,positif,1,4.1,2,Réguliers satisfaits,Livraison | Qualité produit
+R00417,C00750,"Service client très réactif, expérience parfaite",2025-01-14,2,"réactif, parfaite",,positif,positif,1,2.5,1,En décrochage,Service client
+R00418,C00018,"Produit correct, sans plus",2025-09-08,1,correct,,positif,neutre,0,5.0,0,Fidèles premium,Qualité produit
+R00419,C00912,La navigation du site est compliquée,2025-03-08,-1,,compliquée,négatif,négatif,1,4.1,0,Occasionnels récents,Site & navigation
+R00420,C00994,La navigation du site est compliquée,2025-11-05,-1,,compliquée,négatif,négatif,0,4.3,1,Réguliers satisfaits,Site & navigation
+R00421,C00600,Conforme à mes attentes,2025-12-22,0,,,neutre,neutre,1,3.0,1,En décrochage,Général (sans thème)
+R00422,C00880,La navigation du site est compliquée,2025-08-19,-1,,compliquée,négatif,négatif,0,4.3,2,Réguliers satisfaits,Site & navigation
+R00423,C01291,"Produit correct, sans plus",2025-01-20,1,correct,,positif,neutre,0,5.0,1,Réguliers satisfaits,Qualité produit
+R00424,C00151,"Produit correct, sans plus",2025-01-10,1,correct,,positif,neutre,0,2.9,5,En décrochage,Qualité produit
+R00425,C00987,Conforme à mes attentes,2025-06-17,0,,,neutre,neutre,0,3.3,0,Réguliers satisfaits,Général (sans thème)
+R00426,C00138,Conforme à mes attentes,2025-12-06,0,,,neutre,neutre,0,4.6,0,Occasionnels récents,Général (sans thème)
+R00427,C00229,"Produit correct, sans plus",2025-04-18,1,correct,,positif,neutre,1,2.4,2,En décrochage,Qualité produit
+R00428,C01211,"Produit correct, sans plus",2025-11-15,1,correct,,positif,neutre,1,2.1,3,En décrochage,Qualité produit
+R00429,C00625,"Déçu par la qualité, je ne rachèterai pas",2025-05-30,-1,,déçu,négatif,négatif,0,3.9,2,Occasionnels récents,Qualité produit
+R00430,C00836,J'adore cette marque et les nouveautés,2025-12-31,1,adore,,positif,positif,0,4.8,0,Réguliers satisfaits,Marque & nouveautés
+R00431,C00724,"Service client très réactif, expérience parfaite",2025-04-11,2,"réactif, parfaite",,positif,positif,0,4.7,1,Nouveaux à activer,Service client
+R00432,C00598,"Déçu par la qualité, je ne rachèterai pas",2025-01-15,-1,,déçu,négatif,négatif,1,3.5,2,En décrochage,Qualité produit
+R00433,C00693,Bon rapport qualité prix,2025-06-11,1,bon,,positif,positif,0,4.4,0,Réguliers satisfaits,Qualité produit | Prix
+R00434,C00780,J'adore cette marque et les nouveautés,2025-12-02,1,adore,,positif,positif,0,4.2,0,Nouveaux à activer,Marque & nouveautés
+R00435,C01188,J'adore cette marque et les nouveautés,2025-10-27,1,adore,,positif,positif,0,3.3,0,Occasionnels récents,Marque & nouveautés
+R00436,C01206,"Très bon produit, livraison rapide et je recommande",2025-10-26,3,"bon, rapide, recommande",,positif,positif,0,5.0,0,Fidèles premium,Livraison | Qualité produit
+R00437,C00105,Commande incomplète et remboursement compliqué,2025-01-03,-2,,"incomplète, compliqué",négatif,négatif,1,2.5,4,En décrochage,Commande & remboursement
+R00438,C01051,"Très bon produit, livraison rapide et je recommande",2025-07-19,3,"bon, rapide, recommande",,positif,positif,0,2.5,0,En décrochage,Livraison | Qualité produit
+R00439,C00795,"Colis arrivé en retard, expérience frustrante",2025-06-14,-2,,"retard, frustrante",négatif,négatif,0,4.6,0,Réguliers satisfaits,Livraison
+R00440,C01144,"Colis arrivé en retard, expérience frustrante",2025-06-18,-2,,"retard, frustrante",négatif,négatif,0,2.4,2,En décrochage,Livraison
+R00441,C01381,J'adore cette marque et les nouveautés,2025-11-29,1,adore,,positif,positif,0,2.9,0,Réguliers satisfaits,Marque & nouveautés
+R00442,C01356,Commande incomplète et remboursement compliqué,2025-05-05,-2,,"incomplète, compliqué",négatif,négatif,0,5.0,0,Fidèles premium,Commande & remboursement
+R00443,C01401,"Colis arrivé en retard, expérience frustrante",2025-11-21,-2,,"retard, frustrante",négatif,négatif,0,3.6,1,Réguliers satisfaits,Livraison
+R00444,C00010,"Déçu par la qualité, je ne rachèterai pas",2025-03-05,-1,,déçu,négatif,négatif,0,4.8,0,Réguliers satisfaits,Qualité produit
+R00445,C00350,Bon rapport qualité prix,2025-12-27,1,bon,,positif,positif,0,4.6,0,Fidèles premium,Qualité produit | Prix
+R00446,C00255,"Service client très réactif, expérience parfaite",2025-01-26,2,"réactif, parfaite",,positif,positif,0,3.4,0,En décrochage,Service client
+R00447,C00465,Conforme à mes attentes,2025-10-28,0,,,neutre,neutre,0,3.6,1,Réguliers satisfaits,Général (sans thème)
+R00448,C00240,J'adore cette marque et les nouveautés,2025-03-23,1,adore,,positif,positif,0,4.4,0,Fidèles premium,Marque & nouveautés
+R00449,C00161,"Très bon produit, livraison rapide et je recommande",2025-10-21,3,"bon, rapide, recommande",,positif,positif,0,4.2,2,Réguliers satisfaits,Livraison | Qualité produit
+R00450,C00240,Commande incomplète et remboursement compliqué,2025-06-03,-2,,"incomplète, compliqué",négatif,négatif,0,4.4,0,Fidèles premium,Commande & remboursement
+R00451,C00981,"Service client très réactif, expérience parfaite",2025-02-17,2,"réactif, parfaite",,positif,positif,0,4.1,0,Occasionnels récents,Service client
+R00452,C01007,"Service client très réactif, expérience parfaite",2025-10-03,2,"réactif, parfaite",,positif,positif,0,3.6,0,Occasionnels récents,Service client
+R00453,C01460,Conforme à mes attentes,2025-09-17,0,,,neutre,neutre,0,3.8,0,Réguliers satisfaits,Général (sans thème)
+R00454,C01241,"Service client très réactif, expérience parfaite",2025-08-22,2,"réactif, parfaite",,positif,positif,0,4.2,0,Occasionnels récents,Service client
+R00455,C01148,Conforme à mes attentes,2025-10-22,0,,,neutre,neutre,1,2.8,1,En décrochage,Général (sans thème)
+R00456,C01212,J'adore cette marque et les nouveautés,2025-04-17,1,adore,,positif,positif,0,3.0,1,En décrochage,Marque & nouveautés
+R00457,C00322,"Très bon produit, livraison rapide et je recommande",2025-07-27,3,"bon, rapide, recommande",,positif,positif,0,3.9,2,Réguliers satisfaits,Livraison | Qualité produit
+R00458,C00745,Commande incomplète et remboursement compliqué,2025-06-25,-2,,"incomplète, compliqué",négatif,négatif,0,3.2,2,Occasionnels récents,Commande & remboursement
+R00459,C01256,"Déçu par la qualité, je ne rachèterai pas",2025-03-26,-1,,déçu,négatif,négatif,0,4.1,1,Nouveaux à activer,Qualité produit
+R00460,C00228,"Très bon produit, livraison rapide et je recommande",2025-01-12,3,"bon, rapide, recommande",,positif,positif,0,4.9,1,Réguliers satisfaits,Livraison | Qualité produit
+R00461,C00557,Conforme à mes attentes,2025-10-17,0,,,neutre,neutre,0,4.9,0,Réguliers satisfaits,Général (sans thème)
+R00462,C01377,"Produit correct, sans plus",2025-08-22,1,correct,,positif,neutre,1,2.5,1,En décrochage,Qualité produit
+R00463,C00172,"Service client très réactif, expérience parfaite",2025-03-04,2,"réactif, parfaite",,positif,positif,0,4.1,2,Réguliers satisfaits,Service client
+R00464,C00044,J'adore cette marque et les nouveautés,2025-10-24,1,adore,,positif,positif,0,4.2,0,Réguliers satisfaits,Marque & nouveautés
+R00465,C01365,"Service client très réactif, expérience parfaite",2025-02-13,2,"réactif, parfaite",,positif,positif,1,4.3,0,Occasionnels récents,Service client
+R00466,C01313,La navigation du site est compliquée,2025-07-09,-1,,compliquée,négatif,négatif,0,3.9,0,Réguliers satisfaits,Site & navigation
+R00467,C01349,"Produit correct, sans plus",2025-10-25,1,correct,,positif,neutre,0,4.1,0,Réguliers satisfaits,Qualité produit
+R00468,C00499,J'adore cette marque et les nouveautés,2025-01-27,1,adore,,positif,positif,0,4.9,1,Réguliers satisfaits,Marque & nouveautés
+R00469,C01461,Conforme à mes attentes,2025-11-15,0,,,neutre,neutre,1,2.3,4,En décrochage,Général (sans thème)
+R00470,C00644,"Très bon produit, livraison rapide et je recommande",2025-04-15,3,"bon, rapide, recommande",,positif,positif,0,3.8,1,Réguliers satisfaits,Livraison | Qualité produit
+R00471,C00070,"Produit correct, sans plus",2025-07-17,1,correct,,positif,neutre,0,3.3,1,Occasionnels récents,Qualité produit
+R00472,C00372,J'adore cette marque et les nouveautés,2025-07-27,1,adore,,positif,positif,0,5.0,0,Réguliers satisfaits,Marque & nouveautés
+R00473,C00957,J'adore cette marque et les nouveautés,2025-03-27,1,adore,,positif,positif,1,2.3,2,En décrochage,Marque & nouveautés
+R00474,C00487,"Déçu par la qualité, je ne rachèterai pas",2025-01-07,-1,,déçu,négatif,négatif,1,4.1,1,Occasionnels récents,Qualité produit
+R00475,C00399,Commande incomplète et remboursement compliqué,2025-04-27,-2,,"incomplète, compliqué",négatif,négatif,0,5.0,0,Réguliers satisfaits,Commande & remboursement
+R00476,C00787,"Très bon produit, livraison rapide et je recommande",2025-01-13,3,"bon, rapide, recommande",,positif,positif,1,3.2,1,En décrochage,Livraison | Qualité produit
+R00477,C00396,"Produit correct, sans plus",2025-08-18,1,correct,,positif,neutre,0,3.5,3,Réguliers satisfaits,Qualité produit
+R00478,C00846,Conforme à mes attentes,2025-10-21,0,,,neutre,neutre,0,4.1,0,Occasionnels récents,Général (sans thème)
+R00479,C00543,"Déçu par la qualité, je ne rachèterai pas",2025-10-25,-1,,déçu,négatif,négatif,1,2.5,3,En décrochage,Qualité produit
+R00480,C01386,"Colis arrivé en retard, expérience frustrante",2025-12-06,-2,,"retard, frustrante",négatif,négatif,0,5.0,0,Fidèles premium,Livraison
+R00481,C00993,Bon rapport qualité prix,2025-05-06,1,bon,,positif,positif,1,3.1,0,En décrochage,Qualité produit | Prix
+R00482,C01483,La navigation du site est compliquée,2025-11-12,-1,,compliquée,négatif,négatif,0,4.1,0,Réguliers satisfaits,Site & navigation
+R00483,C00254,"Colis arrivé en retard, expérience frustrante",2025-11-30,-2,,"retard, frustrante",négatif,négatif,1,4.6,2,Réguliers satisfaits,Livraison
+R00484,C01196,"Très bon produit, livraison rapide et je recommande",2025-04-08,3,"bon, rapide, recommande",,positif,positif,0,3.6,2,Réguliers satisfaits,Livraison | Qualité produit
+R00485,C00892,Bon rapport qualité prix,2025-02-12,1,bon,,positif,positif,0,3.0,2,Occasionnels récents,Qualité produit | Prix
+R00486,C01404,Conforme à mes attentes,2025-04-23,0,,,neutre,neutre,1,4.7,1,Réguliers satisfaits,Général (sans thème)
+R00487,C01276,"Déçu par la qualité, je ne rachèterai pas",2025-06-09,-1,,déçu,négatif,négatif,0,4.4,0,Réguliers satisfaits,Qualité produit
+R00488,C01237,Commande incomplète et remboursement compliqué,2025-08-27,-2,,"incomplète, compliqué",négatif,négatif,0,4.1,0,Réguliers satisfaits,Commande & remboursement
+R00489,C01075,"Produit correct, sans plus",2025-01-31,1,correct,,positif,neutre,0,3.8,0,Nouveaux à activer,Qualité produit
+R00490,C00908,J'adore cette marque et les nouveautés,2025-09-03,1,adore,,positif,positif,0,4.5,0,Réguliers satisfaits,Marque & nouveautés
+R00491,C01190,"Service client très réactif, expérience parfaite",2025-05-01,2,"réactif, parfaite",,positif,positif,1,2.6,1,En décrochage,Service client
+R00492,C01059,J'adore cette marque et les nouveautés,2025-01-15,1,adore,,positif,positif,0,3.9,1,En décrochage,Marque & nouveautés
+R00493,C00766,Conforme à mes attentes,2025-01-04,0,,,neutre,neutre,0,3.3,0,Réguliers satisfaits,Général (sans thème)
+R00494,C00389,J'adore cette marque et les nouveautés,2025-11-16,1,adore,,positif,positif,0,4.6,0,Fidèles premium,Marque & nouveautés
+R00495,C00008,"Déçu par la qualité, je ne rachèterai pas",2025-09-22,-1,,déçu,négatif,négatif,1,3.4,3,En décrochage,Qualité produit
+R00496,C00299,"Très bon produit, livraison rapide et je recommande",2025-05-15,3,"bon, rapide, recommande",,positif,positif,0,3.1,2,En décrochage,Livraison | Qualité produit
+R00497,C01205,La navigation du site est compliquée,2025-08-08,-1,,compliquée,négatif,négatif,0,4.4,1,Fidèles premium,Site & navigation
+R00498,C01008,"Produit correct, sans plus",2025-04-22,1,correct,,positif,neutre,0,4.7,0,Réguliers satisfaits,Qualité produit
+R00499,C01040,La navigation du site est compliquée,2025-08-02,-1,,compliquée,négatif,négatif,0,4.4,1,Fidèles premium,Site & navigation
+R00500,C00947,J'adore cette marque et les nouveautés,2025-07-29,1,adore,,positif,positif,1,3.7,2,En décrochage,Marque & nouveautés
+R00501,C00643,Commande incomplète et remboursement compliqué,2025-04-19,-2,,"incomplète, compliqué",négatif,négatif,0,5.0,1,Fidèles premium,Commande & remboursement
+R00502,C00459,Bon rapport qualité prix,2025-01-06,1,bon,,positif,positif,1,3.3,2,En décrochage,Qualité produit | Prix
+R00503,C00003,"Très bon produit, livraison rapide et je recommande",2025-07-10,3,"bon, rapide, recommande",,positif,positif,0,4.2,1,Occasionnels récents,Livraison | Qualité produit
+R00504,C00432,Commande incomplète et remboursement compliqué,2025-01-10,-2,,"incomplète, compliqué",négatif,négatif,1,3.0,4,En décrochage,Commande & remboursement
+R00505,C00506,Commande incomplète et remboursement compliqué,2025-10-18,-2,,"incomplète, compliqué",négatif,négatif,0,3.2,1,En décrochage,Commande & remboursement
+R00506,C00975,"Colis arrivé en retard, expérience frustrante",2025-08-13,-2,,"retard, frustrante",négatif,négatif,0,3.2,0,Réguliers satisfaits,Livraison
+R00507,C01159,"Service client très réactif, expérience parfaite",2025-10-25,2,"réactif, parfaite",,positif,positif,0,4.1,0,Réguliers satisfaits,Service client
+R00508,C00478,La navigation du site est compliquée,2025-04-13,-1,,compliquée,négatif,négatif,0,2.2,2,En décrochage,Site & navigation
+R00509,C00244,"Service client très réactif, expérience parfaite",2025-11-17,2,"réactif, parfaite",,positif,positif,0,4.1,0,Réguliers satisfaits,Service client
+R00510,C01240,Conforme à mes attentes,2025-01-16,0,,,neutre,neutre,0,4.4,0,Fidèles premium,Général (sans thème)
+R00511,C01221,Conforme à mes attentes,2025-01-25,0,,,neutre,neutre,0,3.8,0,Fidèles premium,Général (sans thème)
+R00512,C00376,"Très bon produit, livraison rapide et je recommande",2025-06-27,3,"bon, rapide, recommande",,positif,positif,0,4.4,1,Fidèles premium,Livraison | Qualité produit
+R00513,C00963,"Colis arrivé en retard, expérience frustrante",2025-09-11,-2,,"retard, frustrante",négatif,négatif,0,4.2,0,Réguliers satisfaits,Livraison
+R00514,C00569,"Produit correct, sans plus",2025-07-26,1,correct,,positif,neutre,0,3.7,0,Occasionnels récents,Qualité produit
+R00515,C00039,"Déçu par la qualité, je ne rachèterai pas",2025-10-17,-1,,déçu,négatif,négatif,0,4.7,2,Réguliers satisfaits,Qualité produit
+R00516,C01474,"Déçu par la qualité, je ne rachèterai pas",2025-07-21,-1,,déçu,négatif,négatif,0,4.0,0,Occasionnels récents,Qualité produit
+R00517,C01242,J'adore cette marque et les nouveautés,2025-03-17,1,adore,,positif,positif,0,4.8,0,Réguliers satisfaits,Marque & nouveautés
+R00518,C00700,J'adore cette marque et les nouveautés,2025-07-02,1,adore,,positif,positif,0,4.8,0,Réguliers satisfaits,Marque & nouveautés
+R00519,C01483,Conforme à mes attentes,2025-05-29,0,,,neutre,neutre,0,4.1,0,Réguliers satisfaits,Général (sans thème)
+R00520,C00403,"Colis arrivé en retard, expérience frustrante",2025-05-21,-2,,"retard, frustrante",négatif,négatif,1,2.1,1,En décrochage,Livraison
+R00521,C00112,"Produit correct, sans plus",2025-03-26,1,correct,,positif,neutre,0,4.1,0,Occasionnels récents,Qualité produit
+R00522,C01075,Bon rapport qualité prix,2025-01-25,1,bon,,positif,positif,0,3.8,0,Nouveaux à activer,Qualité produit | Prix
+R00523,C00205,La navigation du site est compliquée,2025-03-01,-1,,compliquée,négatif,négatif,0,5.0,3,Réguliers satisfaits,Site & navigation
+R00524,C00234,"Très bon produit, livraison rapide et je recommande",2025-03-12,3,"bon, rapide, recommande",,positif,positif,0,3.4,2,Occasionnels récents,Livraison | Qualité produit
+R00525,C00659,La navigation du site est compliquée,2025-03-13,-1,,compliquée,négatif,négatif,0,3.9,0,Occasionnels récents,Site & navigation
+R00526,C00371,"Très bon produit, livraison rapide et je recommande",2025-05-31,3,"bon, rapide, recommande",,positif,positif,1,3.9,4,En décrochage,Livraison | Qualité produit
+R00527,C00722,"Produit correct, sans plus",2025-03-15,1,correct,,positif,neutre,0,3.6,0,Occasionnels récents,Qualité produit
+R00528,C00727,"Déçu par la qualité, je ne rachèterai pas",2025-01-21,-1,,déçu,négatif,négatif,0,3.9,1,Réguliers satisfaits,Qualité produit
+R00529,C00472,La navigation du site est compliquée,2025-08-27,-1,,compliquée,négatif,négatif,1,3.4,0,Réguliers satisfaits,Site & navigation
+R00530,C00058,Commande incomplète et remboursement compliqué,2025-08-10,-2,,"incomplète, compliqué",négatif,négatif,0,4.8,0,Réguliers satisfaits,Commande & remboursement
+R00531,C00190,Commande incomplète et remboursement compliqué,2025-07-31,-2,,"incomplète, compliqué",négatif,négatif,0,4.6,1,Réguliers satisfaits,Commande & remboursement
+R00532,C00695,"Très bon produit, livraison rapide et je recommande",2025-03-10,3,"bon, rapide, recommande",,positif,positif,0,4.2,3,Occasionnels récents,Livraison | Qualité produit
+R00533,C01312,"Colis arrivé en retard, expérience frustrante",2025-11-24,-2,,"retard, frustrante",négatif,négatif,0,4.0,0,Nouveaux à activer,Livraison
+R00534,C01440,Conforme à mes attentes,2025-07-10,0,,,neutre,neutre,0,4.9,2,Nouveaux à activer,Général (sans thème)
+R00535,C01354,La navigation du site est compliquée,2025-04-11,-1,,compliquée,négatif,négatif,0,4.5,1,Réguliers satisfaits,Site & navigation
+R00536,C00595,"Déçu par la qualité, je ne rachèterai pas",2025-08-28,-1,,déçu,négatif,négatif,0,4.9,0,Fidèles premium,Qualité produit
+R00537,C00974,"Déçu par la qualité, je ne rachèterai pas",2025-04-29,-1,,déçu,négatif,négatif,0,2.7,1,Occasionnels récents,Qualité produit
+R00538,C00573,"Produit correct, sans plus",2025-09-27,1,correct,,positif,neutre,0,4.3,1,Réguliers satisfaits,Qualité produit
+R00539,C00713,"Colis arrivé en retard, expérience frustrante",2025-08-19,-2,,"retard, frustrante",négatif,négatif,0,2.4,2,En décrochage,Livraison
+R00540,C00687,La navigation du site est compliquée,2025-02-19,-1,,compliquée,négatif,négatif,0,3.5,0,Réguliers satisfaits,Site & navigation
+R00541,C00026,J'adore cette marque et les nouveautés,2025-08-31,1,adore,,positif,positif,0,4.1,2,Réguliers satisfaits,Marque & nouveautés
+R00542,C00970,"Colis arrivé en retard, expérience frustrante",2025-02-16,-2,,"retard, frustrante",négatif,négatif,0,3.7,1,Réguliers satisfaits,Livraison
+R00543,C00269,"Produit correct, sans plus",2025-07-21,1,correct,,positif,neutre,0,4.8,1,Fidèles premium,Qualité produit
+R00544,C00784,"Très bon produit, livraison rapide et je recommande",2025-06-07,3,"bon, rapide, recommande",,positif,positif,1,2.4,1,En décrochage,Livraison | Qualité produit
+R00545,C01106,"Déçu par la qualité, je ne rachèterai pas",2025-11-02,-1,,déçu,négatif,négatif,1,2.4,7,En décrochage,Qualité produit
+R00546,C00781,J'adore cette marque et les nouveautés,2025-05-11,1,adore,,positif,positif,0,4.6,1,Occasionnels récents,Marque & nouveautés
+R00547,C00018,"Service client très réactif, expérience parfaite",2025-06-24,2,"réactif, parfaite",,positif,positif,0,5.0,0,Fidèles premium,Service client
+R00548,C00047,J'adore cette marque et les nouveautés,2025-04-30,1,adore,,positif,positif,0,3.6,0,Réguliers satisfaits,Marque & nouveautés
+R00549,C00359,J'adore cette marque et les nouveautés,2025-08-05,1,adore,,positif,positif,0,4.4,1,Réguliers satisfaits,Marque & nouveautés
+R00550,C01395,"Produit correct, sans plus",2025-03-04,1,correct,,positif,neutre,0,2.5,0,En décrochage,Qualité produit
+R00551,C00483,"Très bon produit, livraison rapide et je recommande",2025-10-20,3,"bon, rapide, recommande",,positif,positif,0,4.1,0,Réguliers satisfaits,Livraison | Qualité produit
+R00552,C00945,Conforme à mes attentes,2025-08-11,0,,,neutre,neutre,0,5.0,0,Réguliers satisfaits,Général (sans thème)
+R00553,C01485,Bon rapport qualité prix,2025-12-10,1,bon,,positif,positif,0,2.5,2,En décrochage,Qualité produit | Prix
+R00554,C00528,Commande incomplète et remboursement compliqué,2025-02-05,-2,,"incomplète, compliqué",négatif,négatif,1,4.5,1,Nouveaux à activer,Commande & remboursement
+R00555,C00999,"Déçu par la qualité, je ne rachèterai pas",2025-01-26,-1,,déçu,négatif,négatif,0,3.9,0,Occasionnels récents,Qualité produit
+R00556,C00717,La navigation du site est compliquée,2025-11-30,-1,,compliquée,négatif,négatif,0,3.0,0,Réguliers satisfaits,Site & navigation
+R00557,C00832,La navigation du site est compliquée,2025-06-06,-1,,compliquée,négatif,négatif,0,4.5,1,Réguliers satisfaits,Site & navigation
+R00558,C01446,"Déçu par la qualité, je ne rachèterai pas",2025-08-23,-1,,déçu,négatif,négatif,0,3.7,0,Réguliers satisfaits,Qualité produit
+R00559,C00215,"Produit correct, sans plus",2025-11-09,1,correct,,positif,neutre,0,2.9,2,En décrochage,Qualité produit
+R00560,C01003,"Très bon produit, livraison rapide et je recommande",2025-03-19,3,"bon, rapide, recommande",,positif,positif,0,5.0,1,Réguliers satisfaits,Livraison | Qualité produit
+R00561,C00146,Commande incomplète et remboursement compliqué,2025-10-21,-2,,"incomplète, compliqué",négatif,négatif,0,3.4,0,En décrochage,Commande & remboursement
+R00562,C00651,"Produit correct, sans plus",2025-12-11,1,correct,,positif,neutre,0,3.7,0,Occasionnels récents,Qualité produit
+R00563,C00991,"Déçu par la qualité, je ne rachèterai pas",2025-07-27,-1,,déçu,négatif,négatif,0,2.9,1,En décrochage,Qualité produit
+R00564,C00983,Commande incomplète et remboursement compliqué,2025-10-21,-2,,"incomplète, compliqué",négatif,négatif,1,2.7,2,En décrochage,Commande & remboursement
+R00565,C00359,"Colis arrivé en retard, expérience frustrante",2025-09-05,-2,,"retard, frustrante",négatif,négatif,0,4.4,1,Réguliers satisfaits,Livraison
+R00566,C01369,J'adore cette marque et les nouveautés,2025-09-18,1,adore,,positif,positif,0,3.6,1,Réguliers satisfaits,Marque & nouveautés
+R00567,C00457,"Service client très réactif, expérience parfaite",2025-09-10,2,"réactif, parfaite",,positif,positif,1,3.7,0,Nouveaux à activer,Service client
+R00568,C01388,"Colis arrivé en retard, expérience frustrante",2025-09-13,-2,,"retard, frustrante",négatif,négatif,0,4.3,0,Réguliers satisfaits,Livraison
+R00569,C01213,"Colis arrivé en retard, expérience frustrante",2025-09-11,-2,,"retard, frustrante",négatif,négatif,1,3.8,0,En décrochage,Livraison
+R00570,C00637,"Colis arrivé en retard, expérience frustrante",2025-08-17,-2,,"retard, frustrante",négatif,négatif,1,2.4,2,En décrochage,Livraison
+R00571,C00997,"Service client très réactif, expérience parfaite",2025-05-02,2,"réactif, parfaite",,positif,positif,1,2.3,3,En décrochage,Service client
+R00572,C00861,Conforme à mes attentes,2025-10-15,0,,,neutre,neutre,1,2.0,3,En décrochage,Général (sans thème)
+R00573,C00292,J'adore cette marque et les nouveautés,2025-09-03,1,adore,,positif,positif,0,4.0,0,Réguliers satisfaits,Marque & nouveautés
+R00574,C00223,Commande incomplète et remboursement compliqué,2025-12-16,-2,,"incomplète, compliqué",négatif,négatif,1,2.4,2,En décrochage,Commande & remboursement
+R00575,C00568,"Très bon produit, livraison rapide et je recommande",2025-02-15,3,"bon, rapide, recommande",,positif,positif,0,3.8,1,Fidèles premium,Livraison | Qualité produit
+R00576,C00645,Bon rapport qualité prix,2025-07-16,1,bon,,positif,positif,1,2.8,1,En décrochage,Qualité produit | Prix
+R00577,C00657,La navigation du site est compliquée,2025-06-30,-1,,compliquée,négatif,négatif,1,3.6,2,Nouveaux à activer,Site & navigation
+R00578,C01390,J'adore cette marque et les nouveautés,2025-06-05,1,adore,,positif,positif,0,5.0,1,Fidèles premium,Marque & nouveautés
+R00579,C00478,"Service client très réactif, expérience parfaite",2025-07-19,2,"réactif, parfaite",,positif,positif,0,2.2,2,En décrochage,Service client
+R00580,C01288,Bon rapport qualité prix,2025-07-14,1,bon,,positif,positif,0,4.0,0,Réguliers satisfaits,Qualité produit | Prix
+R00581,C01403,"Produit correct, sans plus",2025-09-03,1,correct,,positif,neutre,0,3.9,1,Occasionnels récents,Qualité produit
+R00582,C00981,"Très bon produit, livraison rapide et je recommande",2025-10-08,3,"bon, rapide, recommande",,positif,positif,0,4.1,0,Occasionnels récents,Livraison | Qualité produit
+R00583,C00237,Bon rapport qualité prix,2025-07-05,1,bon,,positif,positif,0,4.1,0,Réguliers satisfaits,Qualité produit | Prix
+R00584,C01403,Bon rapport qualité prix,2025-11-14,1,bon,,positif,positif,0,3.9,1,Occasionnels récents,Qualité produit | Prix
+R00585,C01177,Bon rapport qualité prix,2025-05-09,1,bon,,positif,positif,0,4.0,1,Réguliers satisfaits,Qualité produit | Prix
+R00586,C00052,J'adore cette marque et les nouveautés,2025-02-14,1,adore,,positif,positif,0,4.9,1,Réguliers satisfaits,Marque & nouveautés
+R00587,C01441,"Service client très réactif, expérience parfaite",2025-04-01,2,"réactif, parfaite",,positif,positif,0,4.1,0,Réguliers satisfaits,Service client
+R00588,C01211,"Colis arrivé en retard, expérience frustrante",2025-01-11,-2,,"retard, frustrante",négatif,négatif,1,2.1,3,En décrochage,Livraison
+R00589,C00003,"Déçu par la qualité, je ne rachèterai pas",2025-08-07,-1,,déçu,négatif,négatif,0,4.2,1,Occasionnels récents,Qualité produit
+R00590,C01396,Bon rapport qualité prix,2025-11-01,1,bon,,positif,positif,0,4.3,0,Fidèles premium,Qualité produit | Prix
+R00591,C01205,Bon rapport qualité prix,2025-12-02,1,bon,,positif,positif,0,4.4,1,Fidèles premium,Qualité produit | Prix
+R00592,C00190,J'adore cette marque et les nouveautés,2025-08-19,1,adore,,positif,positif,0,4.6,1,Réguliers satisfaits,Marque & nouveautés
+R00593,C01361,"Colis arrivé en retard, expérience frustrante",2025-07-13,-2,,"retard, frustrante",négatif,négatif,1,3.0,3,En décrochage,Livraison
+R00594,C00774,Commande incomplète et remboursement compliqué,2025-05-09,-2,,"incomplète, compliqué",négatif,négatif,1,1.1,3,En décrochage,Commande & remboursement
+R00595,C01426,Conforme à mes attentes,2025-11-24,0,,,neutre,neutre,0,4.0,0,Réguliers satisfaits,Général (sans thème)
+R00596,C00026,Conforme à mes attentes,2025-08-18,0,,,neutre,neutre,0,4.1,2,Réguliers satisfaits,Général (sans thème)
+R00597,C00850,"Produit correct, sans plus",2025-06-15,1,correct,,positif,neutre,0,4.2,1,Nouveaux à activer,Qualité produit
+R00598,C01229,Conforme à mes attentes,2025-10-11,0,,,neutre,neutre,1,3.8,1,Occasionnels récents,Général (sans thème)
+R00599,C00179,Commande incomplète et remboursement compliqué,2025-03-07,-2,,"incomplète, compliqué",négatif,négatif,0,4.0,0,Occasionnels récents,Commande & remboursement
+R00600,C00067,Conforme à mes attentes,2025-09-22,0,,,neutre,neutre,0,4.0,0,Occasionnels récents,Général (sans thème)
+R00601,C01109,J'adore cette marque et les nouveautés,2025-12-28,1,adore,,positif,positif,0,4.1,0,Occasionnels récents,Marque & nouveautés
+R00602,C00887,"Produit correct, sans plus",2025-01-04,1,correct,,positif,neutre,0,4.3,1,Réguliers satisfaits,Qualité produit
+R00603,C00408,"Colis arrivé en retard, expérience frustrante",2025-10-28,-2,,"retard, frustrante",négatif,négatif,1,2.6,1,En décrochage,Livraison
+R00604,C00457,"Colis arrivé en retard, expérience frustrante",2025-06-16,-2,,"retard, frustrante",négatif,négatif,1,3.7,0,Nouveaux à activer,Livraison
+R00605,C01052,J'adore cette marque et les nouveautés,2025-12-21,1,adore,,positif,positif,1,4.4,1,Fidèles premium,Marque & nouveautés
+R00606,C00915,"Produit correct, sans plus",2025-05-16,1,correct,,positif,neutre,0,3.2,0,Occasionnels récents,Qualité produit
+R00607,C00373,J'adore cette marque et les nouveautés,2025-03-29,1,adore,,positif,positif,0,4.4,2,Occasionnels récents,Marque & nouveautés
+R00608,C01003,Bon rapport qualité prix,2025-10-15,1,bon,,positif,positif,0,5.0,1,Réguliers satisfaits,Qualité produit | Prix
+R00609,C00545,Bon rapport qualité prix,2025-10-13,1,bon,,positif,positif,0,5.0,0,Fidèles premium,Qualité produit | Prix
+R00610,C00009,"Service client très réactif, expérience parfaite",2025-03-22,2,"réactif, parfaite",,positif,positif,0,3.9,1,Fidèles premium,Service client
+R00611,C00995,Commande incomplète et remboursement compliqué,2025-09-26,-2,,"incomplète, compliqué",négatif,négatif,0,3.4,0,Occasionnels récents,Commande & remboursement
+R00612,C00330,Bon rapport qualité prix,2025-10-14,1,bon,,positif,positif,0,3.9,0,Réguliers satisfaits,Qualité produit | Prix
+R00613,C01306,"Produit correct, sans plus",2025-01-09,1,correct,,positif,neutre,0,4.3,0,Occasionnels récents,Qualité produit
+R00614,C01035,Bon rapport qualité prix,2025-06-27,1,bon,,positif,positif,0,3.9,0,Réguliers satisfaits,Qualité produit | Prix
+R00615,C00402,La navigation du site est compliquée,2025-05-15,-1,,compliquée,négatif,négatif,0,4.1,1,Nouveaux à activer,Site & navigation
+R00616,C00721,"Colis arrivé en retard, expérience frustrante",2025-04-14,-2,,"retard, frustrante",négatif,négatif,0,2.9,1,En décrochage,Livraison
+R00617,C00150,Commande incomplète et remboursement compliqué,2025-01-13,-2,,"incomplète, compliqué",négatif,négatif,1,4.7,1,Réguliers satisfaits,Commande & remboursement
+R00618,C00668,"Déçu par la qualité, je ne rachèterai pas",2025-01-05,-1,,déçu,négatif,négatif,0,4.1,1,Occasionnels récents,Qualité produit
+R00619,C00296,Commande incomplète et remboursement compliqué,2025-10-03,-2,,"incomplète, compliqué",négatif,négatif,0,3.9,1,Occasionnels récents,Commande & remboursement
+R00620,C01277,La navigation du site est compliquée,2025-07-16,-1,,compliquée,négatif,négatif,0,4.4,0,Réguliers satisfaits,Site & navigation
+R00621,C00585,J'adore cette marque et les nouveautés,2025-02-18,1,adore,,positif,positif,0,3.9,3,Occasionnels récents,Marque & nouveautés
+R00622,C00375,"Service client très réactif, expérience parfaite",2025-08-04,2,"réactif, parfaite",,positif,positif,0,4.6,1,Fidèles premium,Service client
+R00623,C01461,"Très bon produit, livraison rapide et je recommande",2025-02-13,3,"bon, rapide, recommande",,positif,positif,1,2.3,4,En décrochage,Livraison | Qualité produit
+R00624,C00500,"Colis arrivé en retard, expérience frustrante",2025-11-06,-2,,"retard, frustrante",négatif,négatif,1,3.6,0,Occasionnels récents,Livraison
+R00625,C01409,Commande incomplète et remboursement compliqué,2025-11-29,-2,,"incomplète, compliqué",négatif,négatif,0,4.5,0,Nouveaux à activer,Commande & remboursement
+R00626,C00222,Bon rapport qualité prix,2025-08-04,1,bon,,positif,positif,0,3.8,1,Réguliers satisfaits,Qualité produit | Prix
+R00627,C00454,J'adore cette marque et les nouveautés,2025-01-14,1,adore,,positif,positif,0,4.1,1,Réguliers satisfaits,Marque & nouveautés
+R00628,C00578,"Très bon produit, livraison rapide et je recommande",2025-09-26,3,"bon, rapide, recommande",,positif,positif,0,3.8,0,Occasionnels récents,Livraison | Qualité produit
+R00629,C01434,"Déçu par la qualité, je ne rachèterai pas",2025-04-15,-1,,déçu,négatif,négatif,0,4.6,0,Fidèles premium,Qualité produit
+R00630,C00074,Commande incomplète et remboursement compliqué,2025-01-14,-2,,"incomplète, compliqué",négatif,négatif,0,3.2,0,Réguliers satisfaits,Commande & remboursement
+R00631,C00210,J'adore cette marque et les nouveautés,2025-08-20,1,adore,,positif,positif,1,4.5,1,Réguliers satisfaits,Marque & nouveautés
+R00632,C00347,"Colis arrivé en retard, expérience frustrante",2025-12-28,-2,,"retard, frustrante",négatif,négatif,0,3.1,0,Occasionnels récents,Livraison
+R00633,C00128,"Colis arrivé en retard, expérience frustrante",2025-02-21,-2,,"retard, frustrante",négatif,négatif,0,5.0,0,Fidèles premium,Livraison
+R00634,C00749,"Colis arrivé en retard, expérience frustrante",2025-07-21,-2,,"retard, frustrante",négatif,négatif,0,3.0,2,En décrochage,Livraison
+R00635,C00168,"Produit correct, sans plus",2025-04-05,1,correct,,positif,neutre,1,2.6,1,En décrochage,Qualité produit
+R00636,C00775,"Déçu par la qualité, je ne rachèterai pas",2025-01-26,-1,,déçu,négatif,négatif,0,4.8,1,Fidèles premium,Qualité produit
+R00637,C00755,Bon rapport qualité prix,2025-04-15,1,bon,,positif,positif,1,2.6,1,En décrochage,Qualité produit | Prix
+R00638,C00059,"Service client très réactif, expérience parfaite",2025-01-15,2,"réactif, parfaite",,positif,positif,0,4.8,0,Fidèles premium,Service client
+R00639,C00753,Commande incomplète et remboursement compliqué,2025-02-16,-2,,"incomplète, compliqué",négatif,négatif,0,4.0,0,Réguliers satisfaits,Commande & remboursement
+R00640,C01454,Bon rapport qualité prix,2025-09-02,1,bon,,positif,positif,0,3.3,0,Occasionnels récents,Qualité produit | Prix
+R00641,C01027,La navigation du site est compliquée,2025-12-04,-1,,compliquée,négatif,négatif,0,3.8,0,Nouveaux à activer,Site & navigation
+R00642,C01221,J'adore cette marque et les nouveautés,2025-10-13,1,adore,,positif,positif,0,3.8,0,Fidèles premium,Marque & nouveautés
+R00643,C00094,"Colis arrivé en retard, expérience frustrante",2025-06-04,-2,,"retard, frustrante",négatif,négatif,0,4.4,0,Réguliers satisfaits,Livraison
+R00644,C01307,"Déçu par la qualité, je ne rachèterai pas",2025-09-14,-1,,déçu,négatif,négatif,0,4.3,0,Réguliers satisfaits,Qualité produit
+R00645,C00504,La navigation du site est compliquée,2025-07-18,-1,,compliquée,négatif,négatif,0,4.8,0,Réguliers satisfaits,Site & navigation
+R00646,C00716,"Service client très réactif, expérience parfaite",2025-01-10,2,"réactif, parfaite",,positif,positif,0,2.8,1,Réguliers satisfaits,Service client
+R00647,C01303,"Colis arrivé en retard, expérience frustrante",2025-08-13,-2,,"retard, frustrante",négatif,négatif,1,1.8,2,En décrochage,Livraison
+R00648,C01151,La navigation du site est compliquée,2025-01-23,-1,,compliquée,négatif,négatif,0,4.4,2,Réguliers satisfaits,Site & navigation
+R00649,C00457,"Produit correct, sans plus",2025-02-13,1,correct,,positif,neutre,1,3.7,0,Nouveaux à activer,Qualité produit
+R00650,C00015,"Service client très réactif, expérience parfaite",2025-03-17,2,"réactif, parfaite",,positif,positif,0,3.6,1,Réguliers satisfaits,Service client
+R00651,C00388,Commande incomplète et remboursement compliqué,2025-09-22,-2,,"incomplète, compliqué",négatif,négatif,0,3.8,1,Occasionnels récents,Commande & remboursement
+R00652,C00082,"Service client très réactif, expérience parfaite",2025-09-15,2,"réactif, parfaite",,positif,positif,0,4.5,0,Réguliers satisfaits,Service client
+R00653,C01455,"Déçu par la qualité, je ne rachèterai pas",2025-06-06,-1,,déçu,négatif,négatif,1,3.3,0,Réguliers satisfaits,Qualité produit
+R00654,C00357,"Très bon produit, livraison rapide et je recommande",2025-04-28,3,"bon, rapide, recommande",,positif,positif,1,2.9,0,En décrochage,Livraison | Qualité produit
+R00655,C01002,"Produit correct, sans plus",2025-04-26,1,correct,,positif,neutre,0,3.4,0,Réguliers satisfaits,Qualité produit
+R00656,C01392,"Colis arrivé en retard, expérience frustrante",2025-03-11,-2,,"retard, frustrante",négatif,négatif,0,3.6,0,En décrochage,Livraison
+R00657,C00252,Bon rapport qualité prix,2025-04-06,1,bon,,positif,positif,0,3.4,0,Occasionnels récents,Qualité produit | Prix
+R00658,C00147,J'adore cette marque et les nouveautés,2025-02-25,1,adore,,positif,positif,0,4.4,0,Réguliers satisfaits,Marque & nouveautés
+R00659,C00145,La navigation du site est compliquée,2025-02-22,-1,,compliquée,négatif,négatif,0,4.0,0,Réguliers satisfaits,Site & navigation
+R00660,C00706,Bon rapport qualité prix,2025-05-06,1,bon,,positif,positif,0,4.7,0,Réguliers satisfaits,Qualité produit | Prix
+R00661,C01342,La navigation du site est compliquée,2025-02-13,-1,,compliquée,négatif,négatif,0,3.2,0,En décrochage,Site & navigation
+R00662,C01387,"Produit correct, sans plus",2025-02-18,1,correct,,positif,neutre,1,1.8,8,En décrochage,Qualité produit
+R00663,C00290,"Produit correct, sans plus",2025-02-24,1,correct,,positif,neutre,0,4.6,1,Fidèles premium,Qualité produit
+R00664,C00975,La navigation du site est compliquée,2025-02-15,-1,,compliquée,négatif,négatif,0,3.2,0,Réguliers satisfaits,Site & navigation
+R00665,C00474,"Colis arrivé en retard, expérience frustrante",2025-12-03,-2,,"retard, frustrante",négatif,négatif,0,4.4,0,Fidèles premium,Livraison
+R00666,C00168,"Colis arrivé en retard, expérience frustrante",2025-12-27,-2,,"retard, frustrante",négatif,négatif,1,2.6,1,En décrochage,Livraison
+R00667,C01462,"Très bon produit, livraison rapide et je recommande",2025-04-28,3,"bon, rapide, recommande",,positif,positif,0,4.0,0,Réguliers satisfaits,Livraison | Qualité produit
+R00668,C00815,Commande incomplète et remboursement compliqué,2025-03-27,-2,,"incomplète, compliqué",négatif,négatif,0,4.4,0,Fidèles premium,Commande & remboursement
+R00669,C00269,J'adore cette marque et les nouveautés,2025-07-04,1,adore,,positif,positif,0,4.8,1,Fidèles premium,Marque & nouveautés
+R00670,C00351,"Très bon produit, livraison rapide et je recommande",2025-01-23,3,"bon, rapide, recommande",,positif,positif,1,2.4,3,En décrochage,Livraison | Qualité produit
+R00671,C01412,Commande incomplète et remboursement compliqué,2025-01-16,-2,,"incomplète, compliqué",négatif,négatif,0,4.7,0,Occasionnels récents,Commande & remboursement
+R00672,C00756,Commande incomplète et remboursement compliqué,2025-03-14,-2,,"incomplète, compliqué",négatif,négatif,0,3.9,0,Réguliers satisfaits,Commande & remboursement
+R00673,C01172,Commande incomplète et remboursement compliqué,2025-12-05,-2,,"incomplète, compliqué",négatif,négatif,1,3.0,2,En décrochage,Commande & remboursement
+R00674,C00270,"Très bon produit, livraison rapide et je recommande",2025-07-10,3,"bon, rapide, recommande",,positif,positif,0,5.0,1,Réguliers satisfaits,Livraison | Qualité produit
+R00675,C00294,Bon rapport qualité prix,2025-05-10,1,bon,,positif,positif,0,4.8,0,Réguliers satisfaits,Qualité produit | Prix
+R00676,C00990,"Produit correct, sans plus",2025-03-25,1,correct,,positif,neutre,1,2.9,4,En décrochage,Qualité produit
+R00677,C00205,"Service client très réactif, expérience parfaite",2025-03-19,2,"réactif, parfaite",,positif,positif,0,5.0,3,Réguliers satisfaits,Service client
+R00678,C01125,Conforme à mes attentes,2025-12-02,0,,,neutre,neutre,0,4.0,1,Réguliers satisfaits,Général (sans thème)
+R00679,C00740,Conforme à mes attentes,2025-03-03,0,,,neutre,neutre,0,3.3,1,Réguliers satisfaits,Général (sans thème)
+R00680,C01481,Bon rapport qualité prix,2025-03-15,1,bon,,positif,positif,0,3.2,0,En décrochage,Qualité produit | Prix
+R00681,C00596,Bon rapport qualité prix,2025-12-05,1,bon,,positif,positif,0,3.9,0,Réguliers satisfaits,Qualité produit | Prix
+R00682,C00985,"Service client très réactif, expérience parfaite",2025-01-31,2,"réactif, parfaite",,positif,positif,0,4.8,1,Réguliers satisfaits,Service client
+R00683,C00636,Conforme à mes attentes,2025-06-29,0,,,neutre,neutre,0,4.7,3,Fidèles premium,Général (sans thème)
+R00684,C00346,Bon rapport qualité prix,2025-09-29,1,bon,,positif,positif,1,3.0,1,En décrochage,Qualité produit | Prix
+R00685,C00666,"Déçu par la qualité, je ne rachèterai pas",2025-05-03,-1,,déçu,négatif,négatif,1,2.6,0,En décrochage,Qualité produit
+R00686,C00864,"Produit correct, sans plus",2025-08-09,1,correct,,positif,neutre,0,3.7,1,Réguliers satisfaits,Qualité produit
+R00687,C01400,"Service client très réactif, expérience parfaite",2025-08-29,2,"réactif, parfaite",,positif,positif,1,3.8,1,Occasionnels récents,Service client
+R00688,C00234,"Déçu par la qualité, je ne rachèterai pas",2025-05-28,-1,,déçu,négatif,négatif,0,3.4,2,Occasionnels récents,Qualité produit
+R00689,C01359,Conforme à mes attentes,2025-03-29,0,,,neutre,neutre,1,3.2,3,En décrochage,Général (sans thème)
+R00690,C00494,J'adore cette marque et les nouveautés,2025-10-17,1,adore,,positif,positif,1,3.5,1,En décrochage,Marque & nouveautés
+R00691,C00694,Bon rapport qualité prix,2025-05-08,1,bon,,positif,positif,0,3.5,1,Réguliers satisfaits,Qualité produit | Prix
+R00692,C00627,Conforme à mes attentes,2025-11-21,0,,,neutre,neutre,1,3.1,1,En décrochage,Général (sans thème)
+R00693,C00669,"Très bon produit, livraison rapide et je recommande",2025-07-18,3,"bon, rapide, recommande",,positif,positif,0,3.8,0,Réguliers satisfaits,Livraison | Qualité produit
+R00694,C00094,"Très bon produit, livraison rapide et je recommande",2025-07-26,3,"bon, rapide, recommande",,positif,positif,0,4.4,0,Réguliers satisfaits,Livraison | Qualité produit
+R00695,C00306,Bon rapport qualité prix,2025-11-25,1,bon,,positif,positif,0,4.2,0,Réguliers satisfaits,Qualité produit | Prix
+R00696,C00077,"Service client très réactif, expérience parfaite",2025-06-06,2,"réactif, parfaite",,positif,positif,0,4.1,1,Occasionnels récents,Service client
+R00697,C00675,"Déçu par la qualité, je ne rachèterai pas",2025-01-14,-1,,déçu,négatif,négatif,0,3.5,1,Occasionnels récents,Qualité produit
+R00698,C00963,La navigation du site est compliquée,2025-01-12,-1,,compliquée,négatif,négatif,0,4.2,0,Réguliers satisfaits,Site & navigation
+R00699,C00443,Conforme à mes attentes,2025-07-04,0,,,neutre,neutre,1,3.0,3,En décrochage,Général (sans thème)
+R00700,C00606,Commande incomplète et remboursement compliqué,2025-08-16,-2,,"incomplète, compliqué",négatif,négatif,1,4.0,2,En décrochage,Commande & remboursement

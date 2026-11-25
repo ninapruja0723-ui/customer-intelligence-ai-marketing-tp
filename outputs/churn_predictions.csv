@@ -1,0 +1,1501 @@
+customer_id,segment,jeu,proba_churn,prediction_churn,niveau_risque,revenue_12m_eur,valeur_client,priorite,action,churn_90d
+C01387,En décrochage,apprentissage,0.995,1,Élevé,292.35,Forte,P1,Appel service client + offre personnalisée,1
+C00800,En décrochage,apprentissage,0.9923,1,Élevé,284.28,Forte,P1,Appel service client + offre personnalisée,1
+C01466,En décrochage,test,0.9769,1,Élevé,316.87,Forte,P1,Appel service client + offre personnalisée,1
+C01176,En décrochage,apprentissage,0.963,1,Élevé,270.54,Forte,P1,Appel service client + offre personnalisée,1
+C00394,En décrochage,apprentissage,0.9506,1,Élevé,268.81,Forte,P1,Appel service client + offre personnalisée,1
+C00466,En décrochage,apprentissage,0.9484,1,Élevé,261.74,Forte,P1,Appel service client + offre personnalisée,1
+C00412,En décrochage,apprentissage,0.9411,1,Élevé,378.12,Forte,P1,Appel service client + offre personnalisée,1
+C01374,En décrochage,apprentissage,0.9309,1,Élevé,388.25,Forte,P1,Appel service client + offre personnalisée,1
+C00167,En décrochage,apprentissage,0.9208,1,Élevé,317.98,Forte,P1,Appel service client + offre personnalisée,1
+C00120,En décrochage,apprentissage,0.9196,1,Élevé,311.65,Forte,P1,Appel service client + offre personnalisée,1
+C00106,En décrochage,apprentissage,0.9122,1,Élevé,260.92,Forte,P1,Appel service client + offre personnalisée,1
+C00211,En décrochage,test,0.9112,1,Élevé,258.4,Forte,P1,Appel service client + offre personnalisée,1
+C00621,En décrochage,apprentissage,0.91,1,Élevé,264.38,Forte,P1,Appel service client + offre personnalisée,1
+C01018,En décrochage,test,0.9062,1,Élevé,358.08,Forte,P1,Appel service client + offre personnalisée,0
+C00498,En décrochage,apprentissage,0.894,1,Élevé,258.12,Forte,P1,Appel service client + offre personnalisée,1
+C00935,En décrochage,apprentissage,0.8784,1,Élevé,348.49,Forte,P1,Appel service client + offre personnalisée,1
+C00453,En décrochage,test,0.8697,1,Élevé,329.26,Forte,P1,Appel service client + offre personnalisée,0
+C00275,En décrochage,apprentissage,0.8651,1,Élevé,325.69,Forte,P1,Appel service client + offre personnalisée,1
+C00632,En décrochage,apprentissage,0.8611,1,Élevé,317.6,Forte,P1,Appel service client + offre personnalisée,1
+C01203,En décrochage,apprentissage,0.8239,1,Élevé,258.17,Forte,P1,Appel service client + offre personnalisée,0
+C01361,En décrochage,test,0.8208,1,Élevé,267.05,Forte,P1,Appel service client + offre personnalisée,1
+C00602,En décrochage,apprentissage,0.7989,1,Élevé,297.16,Forte,P1,Appel service client + offre personnalisée,1
+C01465,En décrochage,test,0.7941,1,Élevé,317.09,Forte,P1,Appel service client + offre personnalisée,1
+C01144,En décrochage,apprentissage,0.7776,1,Élevé,274.08,Forte,P1,Appel service client + offre personnalisée,0
+C00368,En décrochage,apprentissage,0.7745,1,Élevé,316.02,Forte,P1,Appel service client + offre personnalisée,1
+C00774,En décrochage,test,0.7745,1,Élevé,309.81,Forte,P1,Appel service client + offre personnalisée,1
+C00649,En décrochage,test,0.7458,1,Élevé,261.29,Forte,P1,Appel service client + offre personnalisée,0
+C00508,En décrochage,apprentissage,0.7133,1,Élevé,310.32,Forte,P1,Appel service client + offre personnalisée,1
+C01211,En décrochage,apprentissage,0.7053,1,Élevé,289.1,Forte,P1,Appel service client + offre personnalisée,1
+C00930,En décrochage,apprentissage,0.6828,1,Élevé,313.08,Forte,P1,Appel service client + offre personnalisée,0
+C01346,En décrochage,apprentissage,0.6704,1,Élevé,329.76,Forte,P1,Appel service client + offre personnalisée,1
+C01005,En décrochage,apprentissage,0.667,1,Élevé,262.03,Forte,P1,Appel service client + offre personnalisée,0
+C01319,En décrochage,test,0.6528,1,Élevé,292.85,Forte,P1,Appel service client + offre personnalisée,1
+C00564,En décrochage,apprentissage,0.6462,1,Élevé,355.49,Forte,P1,Appel service client + offre personnalisée,0
+C00906,En décrochage,test,0.6407,1,Élevé,285.75,Forte,P1,Appel service client + offre personnalisée,0
+C00540,En décrochage,test,0.6401,1,Élevé,327.77,Forte,P1,Appel service client + offre personnalisée,0
+C00351,En décrochage,apprentissage,0.6352,1,Élevé,324.38,Forte,P1,Appel service client + offre personnalisée,1
+C00245,En décrochage,apprentissage,0.6305,1,Élevé,329.84,Forte,P1,Appel service client + offre personnalisée,0
+C01492,Réguliers satisfaits,apprentissage,0.5749,1,Élevé,371.93,Forte,P1,Appel service client + offre personnalisée,0
+C01224,En décrochage,test,0.5508,1,Élevé,266.75,Forte,P1,Appel service client + offre personnalisée,1
+C01084,En décrochage,apprentissage,0.5434,1,Élevé,317.44,Forte,P1,Appel service client + offre personnalisée,0
+C01316,En décrochage,test,0.9931,1,Élevé,70.45,Faible,P2,Email automatisé + bon de 10 €,1
+C01106,En décrochage,apprentissage,0.9899,1,Élevé,214.22,Faible,P2,Email automatisé + bon de 10 €,1
+C00238,En décrochage,apprentissage,0.9872,1,Élevé,165.75,Faible,P2,Email automatisé + bon de 10 €,1
+C01086,En décrochage,apprentissage,0.9774,1,Élevé,118.4,Faible,P2,Email automatisé + bon de 10 €,1
+C01163,En décrochage,apprentissage,0.9759,1,Élevé,42.68,Faible,P2,Email automatisé + bon de 10 €,1
+C00586,En décrochage,apprentissage,0.975,1,Élevé,60.72,Faible,P2,Email automatisé + bon de 10 €,1
+C00861,En décrochage,apprentissage,0.9739,1,Élevé,120.18,Faible,P2,Email automatisé + bon de 10 €,1
+C00512,En décrochage,test,0.9737,1,Élevé,82.43,Faible,P2,Email automatisé + bon de 10 €,1
+C00020,En décrochage,apprentissage,0.9712,1,Élevé,51.53,Faible,P2,Email automatisé + bon de 10 €,1
+C01140,En décrochage,apprentissage,0.9656,1,Élevé,130.36,Faible,P2,Email automatisé + bon de 10 €,1
+C00186,En décrochage,apprentissage,0.9652,1,Élevé,62.46,Faible,P2,Email automatisé + bon de 10 €,1
+C00990,En décrochage,apprentissage,0.964,1,Élevé,41.32,Faible,P2,Email automatisé + bon de 10 €,1
+C00641,En décrochage,test,0.9618,1,Élevé,58.86,Faible,P2,Email automatisé + bon de 10 €,1
+C00639,En décrochage,apprentissage,0.9612,1,Élevé,36.65,Faible,P2,Email automatisé + bon de 10 €,1
+C00118,En décrochage,apprentissage,0.958,1,Élevé,86.66,Faible,P2,Email automatisé + bon de 10 €,1
+C00397,En décrochage,apprentissage,0.9571,1,Élevé,160.97,Faible,P2,Email automatisé + bon de 10 €,1
+C00825,En décrochage,test,0.9553,1,Élevé,42.26,Faible,P2,Email automatisé + bon de 10 €,1
+C01118,En décrochage,apprentissage,0.9545,1,Élevé,213.71,Faible,P2,Email automatisé + bon de 10 €,1
+C01025,En décrochage,test,0.9535,1,Élevé,75.17,Faible,P2,Email automatisé + bon de 10 €,1
+C00777,En décrochage,apprentissage,0.953,1,Élevé,41.22,Faible,P2,Email automatisé + bon de 10 €,1
+C01254,En décrochage,apprentissage,0.9523,1,Élevé,60.76,Faible,P2,Email automatisé + bon de 10 €,1
+C00031,En décrochage,apprentissage,0.952,1,Élevé,81.34,Faible,P2,Email automatisé + bon de 10 €,1
+C00911,En décrochage,apprentissage,0.9505,1,Élevé,55.27,Faible,P2,Email automatisé + bon de 10 €,1
+C00160,En décrochage,apprentissage,0.95,1,Élevé,81.82,Faible,P2,Email automatisé + bon de 10 €,1
+C00529,En décrochage,apprentissage,0.9496,1,Élevé,110.85,Faible,P2,Email automatisé + bon de 10 €,1
+C01160,En décrochage,apprentissage,0.9483,1,Élevé,64.89,Faible,P2,Email automatisé + bon de 10 €,1
+C00295,En décrochage,apprentissage,0.9476,1,Élevé,211.22,Faible,P2,Email automatisé + bon de 10 €,1
+C01128,En décrochage,apprentissage,0.9457,1,Élevé,61.74,Faible,P2,Email automatisé + bon de 10 €,1
+C00443,En décrochage,test,0.9452,1,Élevé,170.98,Faible,P2,Email automatisé + bon de 10 €,1
+C00214,En décrochage,apprentissage,0.9446,1,Élevé,64.55,Faible,P2,Email automatisé + bon de 10 €,1
+C01190,En décrochage,apprentissage,0.944,1,Élevé,90.72,Faible,P2,Email automatisé + bon de 10 €,1
+C00428,En décrochage,apprentissage,0.9438,1,Élevé,58.42,Faible,P2,Email automatisé + bon de 10 €,1
+C00043,En décrochage,apprentissage,0.9415,1,Élevé,101.99,Faible,P2,Email automatisé + bon de 10 €,1
+C01324,En décrochage,apprentissage,0.9405,1,Élevé,219.16,Faible,P2,Email automatisé + bon de 10 €,1
+C00299,En décrochage,test,0.9389,1,Élevé,53.34,Faible,P2,Email automatisé + bon de 10 €,0
+C00298,En décrochage,apprentissage,0.9357,1,Élevé,205.45,Faible,P2,Email automatisé + bon de 10 €,1
+C00301,En décrochage,apprentissage,0.9347,1,Élevé,79.95,Faible,P2,Email automatisé + bon de 10 €,1
+C00600,En décrochage,test,0.9334,1,Élevé,71.95,Faible,P2,Email automatisé + bon de 10 €,1
+C00208,En décrochage,apprentissage,0.9332,1,Élevé,183.86,Faible,P2,Email automatisé + bon de 10 €,1
+C01134,En décrochage,apprentissage,0.9302,1,Élevé,55.23,Faible,P2,Email automatisé + bon de 10 €,0
+C00467,Réguliers satisfaits,apprentissage,0.9299,1,Élevé,228.92,Faible,P2,Email automatisé + bon de 10 €,1
+C00040,En décrochage,apprentissage,0.9275,1,Élevé,199.07,Faible,P2,Email automatisé + bon de 10 €,1
+C00597,En décrochage,apprentissage,0.9267,1,Élevé,56.51,Faible,P2,Email automatisé + bon de 10 €,1
+C00331,En décrochage,apprentissage,0.9266,1,Élevé,84.7,Faible,P2,Email automatisé + bon de 10 €,1
+C01142,En décrochage,apprentissage,0.9261,1,Élevé,42.7,Faible,P2,Email automatisé + bon de 10 €,1
+C01064,En décrochage,apprentissage,0.9244,1,Élevé,163.6,Faible,P2,Email automatisé + bon de 10 €,1
+C00055,En décrochage,test,0.9243,1,Élevé,61.67,Faible,P2,Email automatisé + bon de 10 €,1
+C00712,En décrochage,apprentissage,0.9224,1,Élevé,96.01,Faible,P2,Email automatisé + bon de 10 €,1
+C01284,En décrochage,test,0.922,1,Élevé,73.16,Faible,P2,Email automatisé + bon de 10 €,0
+C01087,En décrochage,apprentissage,0.9208,1,Élevé,140.34,Faible,P2,Email automatisé + bon de 10 €,1
+C01042,En décrochage,apprentissage,0.9191,1,Élevé,237.29,Faible,P2,Email automatisé + bon de 10 €,1
+C01500,En décrochage,test,0.9191,1,Élevé,53.15,Faible,P2,Email automatisé + bon de 10 €,1
+C00875,En décrochage,apprentissage,0.9187,1,Élevé,175.02,Faible,P2,Email automatisé + bon de 10 €,1
+C00325,En décrochage,apprentissage,0.9156,1,Élevé,89.39,Faible,P2,Email automatisé + bon de 10 €,1
+C00616,En décrochage,apprentissage,0.9138,1,Élevé,191.26,Faible,P2,Email automatisé + bon de 10 €,1
+C00637,En décrochage,apprentissage,0.913,1,Élevé,193.16,Faible,P2,Email automatisé + bon de 10 €,1
+C01461,En décrochage,apprentissage,0.9113,1,Élevé,60.0,Faible,P2,Email automatisé + bon de 10 €,1
+C00868,En décrochage,test,0.9111,1,Élevé,141.98,Faible,P2,Email automatisé + bon de 10 €,0
+C01331,En décrochage,test,0.9105,1,Élevé,202.97,Faible,P2,Email automatisé + bon de 10 €,1
+C00083,En décrochage,apprentissage,0.9074,1,Élevé,48.14,Faible,P2,Email automatisé + bon de 10 €,1
+C01162,En décrochage,apprentissage,0.9061,1,Élevé,171.41,Faible,P2,Email automatisé + bon de 10 €,1
+C00824,En décrochage,test,0.9053,1,Élevé,164.85,Faible,P2,Email automatisé + bon de 10 €,1
+C00262,En décrochage,apprentissage,0.9017,1,Élevé,79.08,Faible,P2,Email automatisé + bon de 10 €,1
+C00749,En décrochage,apprentissage,0.9001,1,Élevé,201.35,Faible,P2,Email automatisé + bon de 10 €,0
+C01308,En décrochage,test,0.8991,1,Élevé,181.79,Faible,P2,Email automatisé + bon de 10 €,1
+C01266,En décrochage,apprentissage,0.8986,1,Élevé,58.78,Faible,P2,Email automatisé + bon de 10 €,1
+C00790,En décrochage,apprentissage,0.8978,1,Élevé,170.6,Faible,P2,Email automatisé + bon de 10 €,1
+C01411,En décrochage,apprentissage,0.8956,1,Élevé,137.11,Faible,P2,Email automatisé + bon de 10 €,1
+C00229,En décrochage,apprentissage,0.8955,1,Élevé,80.89,Faible,P2,Email automatisé + bon de 10 €,1
+C00653,En décrochage,test,0.8945,1,Élevé,128.23,Faible,P2,Email automatisé + bon de 10 €,1
+C00719,En décrochage,apprentissage,0.8944,1,Élevé,91.73,Faible,P2,Email automatisé + bon de 10 €,1
+C01079,En décrochage,apprentissage,0.8925,1,Élevé,49.69,Faible,P2,Email automatisé + bon de 10 €,0
+C00025,En décrochage,apprentissage,0.8921,1,Élevé,33.37,Faible,P2,Email automatisé + bon de 10 €,1
+C00983,En décrochage,apprentissage,0.8913,1,Élevé,98.3,Faible,P2,Email automatisé + bon de 10 €,1
+C00460,En décrochage,apprentissage,0.8896,1,Élevé,140.78,Faible,P2,Email automatisé + bon de 10 €,1
+C00053,En décrochage,test,0.8879,1,Élevé,78.32,Faible,P2,Email automatisé + bon de 10 €,0
+C00478,En décrochage,test,0.8878,1,Élevé,254.24,Faible,P2,Email automatisé + bon de 10 €,0
+C00565,En décrochage,test,0.8874,1,Élevé,201.0,Faible,P2,Email automatisé + bon de 10 €,1
+C00042,En décrochage,apprentissage,0.8864,1,Élevé,158.54,Faible,P2,Email automatisé + bon de 10 €,1
+C00007,En décrochage,apprentissage,0.8833,1,Élevé,130.4,Faible,P2,Email automatisé + bon de 10 €,1
+C00446,En décrochage,apprentissage,0.8832,1,Élevé,177.24,Faible,P2,Email automatisé + bon de 10 €,1
+C00433,En décrochage,apprentissage,0.882,1,Élevé,188.02,Faible,P2,Email automatisé + bon de 10 €,1
+C00755,En décrochage,apprentissage,0.8816,1,Élevé,62.38,Faible,P2,Email automatisé + bon de 10 €,1
+C00708,En décrochage,apprentissage,0.8805,1,Élevé,211.46,Faible,P2,Email automatisé + bon de 10 €,1
+C00223,En décrochage,apprentissage,0.8785,1,Élevé,50.11,Faible,P2,Email automatisé + bon de 10 €,1
+C00411,En décrochage,apprentissage,0.8734,1,Élevé,94.02,Faible,P2,Email automatisé + bon de 10 €,1
+C00365,En décrochage,apprentissage,0.8723,1,Élevé,213.14,Faible,P2,Email automatisé + bon de 10 €,1
+C00358,En décrochage,apprentissage,0.8713,1,Élevé,159.92,Faible,P2,Email automatisé + bon de 10 €,1
+C01092,En décrochage,test,0.8712,1,Élevé,153.42,Faible,P2,Email automatisé + bon de 10 €,1
+C01432,En décrochage,apprentissage,0.8708,1,Élevé,170.6,Faible,P2,Email automatisé + bon de 10 €,1
+C00001,En décrochage,test,0.8707,1,Élevé,132.55,Faible,P2,Email automatisé + bon de 10 €,1
+C01413,En décrochage,test,0.8707,1,Élevé,130.26,Faible,P2,Email automatisé + bon de 10 €,0
+C01088,En décrochage,apprentissage,0.8693,1,Élevé,159.08,Faible,P2,Email automatisé + bon de 10 €,0
+C00627,En décrochage,apprentissage,0.8645,1,Élevé,133.62,Faible,P2,Email automatisé + bon de 10 €,1
+C00871,En décrochage,test,0.864,1,Élevé,72.87,Faible,P2,Email automatisé + bon de 10 €,1
+C00801,En décrochage,apprentissage,0.8635,1,Élevé,76.1,Faible,P2,Email automatisé + bon de 10 €,1
+C01022,En décrochage,test,0.8629,1,Élevé,100.12,Faible,P2,Email automatisé + bon de 10 €,1
+C00567,En décrochage,test,0.8627,1,Élevé,91.75,Faible,P2,Email automatisé + bon de 10 €,1
+C00421,En décrochage,apprentissage,0.8597,1,Élevé,47.76,Faible,P2,Email automatisé + bon de 10 €,1
+C00848,En décrochage,test,0.8582,1,Élevé,42.43,Faible,P2,Email automatisé + bon de 10 €,1
+C00300,En décrochage,test,0.855,1,Élevé,62.59,Faible,P2,Email automatisé + bon de 10 €,1
+C00831,En décrochage,apprentissage,0.8534,1,Élevé,214.67,Faible,P2,Email automatisé + bon de 10 €,1
+C01129,En décrochage,test,0.8492,1,Élevé,240.78,Faible,P2,Email automatisé + bon de 10 €,1
+C00357,En décrochage,test,0.8487,1,Élevé,162.34,Faible,P2,Email automatisé + bon de 10 €,1
+C01496,En décrochage,apprentissage,0.844,1,Élevé,212.16,Faible,P2,Email automatisé + bon de 10 €,1
+C01143,En décrochage,apprentissage,0.8439,1,Élevé,65.57,Faible,P2,Email automatisé + bon de 10 €,0
+C01148,En décrochage,apprentissage,0.8427,1,Élevé,175.34,Faible,P2,Email automatisé + bon de 10 €,1
+C00563,En décrochage,apprentissage,0.8421,1,Élevé,44.7,Faible,P2,Email automatisé + bon de 10 €,1
+C00609,En décrochage,test,0.8418,1,Élevé,78.08,Faible,P2,Email automatisé + bon de 10 €,1
+C00087,En décrochage,test,0.8411,1,Élevé,96.88,Faible,P2,Email automatisé + bon de 10 €,1
+C00014,En décrochage,apprentissage,0.838,1,Élevé,67.41,Faible,P2,Email automatisé + bon de 10 €,1
+C00789,En décrochage,test,0.8374,1,Élevé,68.94,Faible,P2,Email automatisé + bon de 10 €,1
+C00572,En décrochage,apprentissage,0.8343,1,Élevé,42.77,Faible,P2,Email automatisé + bon de 10 €,1
+C00699,En décrochage,apprentissage,0.834,1,Élevé,186.56,Faible,P2,Email automatisé + bon de 10 €,1
+C01113,En décrochage,apprentissage,0.8324,1,Élevé,120.04,Faible,P2,Email automatisé + bon de 10 €,1
+C00532,En décrochage,apprentissage,0.8309,1,Élevé,209.47,Faible,P2,Email automatisé + bon de 10 €,1
+C00045,En décrochage,apprentissage,0.8282,1,Élevé,141.64,Faible,P2,Email automatisé + bon de 10 €,1
+C00934,En décrochage,apprentissage,0.8277,1,Élevé,55.36,Faible,P2,Email automatisé + bon de 10 €,1
+C00890,En décrochage,apprentissage,0.8254,1,Élevé,195.62,Faible,P2,Email automatisé + bon de 10 €,1
+C01009,En décrochage,apprentissage,0.8236,1,Élevé,203.52,Faible,P2,Email automatisé + bon de 10 €,1
+C00479,En décrochage,test,0.8181,1,Élevé,198.39,Faible,P2,Email automatisé + bon de 10 €,0
+C01494,En décrochage,apprentissage,0.8181,1,Élevé,198.48,Faible,P2,Email automatisé + bon de 10 €,1
+C01410,En décrochage,test,0.8151,1,Élevé,54.49,Faible,P2,Email automatisé + bon de 10 €,1
+C00367,En décrochage,apprentissage,0.8129,1,Élevé,240.2,Faible,P2,Email automatisé + bon de 10 €,1
+C00151,En décrochage,apprentissage,0.811,1,Élevé,208.59,Faible,P2,Email automatisé + bon de 10 €,0
+C00645,En décrochage,apprentissage,0.811,1,Élevé,173.91,Faible,P2,Email automatisé + bon de 10 €,1
+C01498,En décrochage,apprentissage,0.8088,1,Élevé,174.82,Faible,P2,Email automatisé + bon de 10 €,1
+C00434,En décrochage,test,0.8079,1,Élevé,243.31,Faible,P2,Email automatisé + bon de 10 €,1
+C00380,En décrochage,apprentissage,0.8064,1,Élevé,225.86,Faible,P2,Email automatisé + bon de 10 €,0
+C01123,En décrochage,apprentissage,0.8059,1,Élevé,25.02,Faible,P2,Email automatisé + bon de 10 €,1
+C00257,En décrochage,apprentissage,0.8042,1,Élevé,126.51,Faible,P2,Email automatisé + bon de 10 €,1
+C00630,En décrochage,apprentissage,0.8034,1,Élevé,69.09,Faible,P2,Email automatisé + bon de 10 €,1
+C00080,En décrochage,apprentissage,0.802,1,Élevé,38.13,Faible,P2,Email automatisé + bon de 10 €,1
+C01036,En décrochage,apprentissage,0.8008,1,Élevé,140.09,Faible,P2,Email automatisé + bon de 10 €,1
+C00450,En décrochage,apprentissage,0.7992,1,Élevé,47.31,Faible,P2,Email automatisé + bon de 10 €,1
+C00715,En décrochage,test,0.7988,1,Élevé,94.04,Faible,P2,Email automatisé + bon de 10 €,1
+C00863,En décrochage,apprentissage,0.7941,1,Élevé,209.94,Faible,P2,Email automatisé + bon de 10 €,1
+C01416,En décrochage,apprentissage,0.7893,1,Élevé,174.61,Faible,P2,Email automatisé + bon de 10 €,1
+C00842,En décrochage,test,0.7862,1,Élevé,50.82,Faible,P2,Email automatisé + bon de 10 €,0
+C00105,En décrochage,apprentissage,0.778,1,Élevé,27.91,Faible,P2,Email automatisé + bon de 10 €,1
+C00957,En décrochage,apprentissage,0.777,1,Élevé,217.18,Faible,P2,Email automatisé + bon de 10 €,1
+C00102,En décrochage,apprentissage,0.7768,1,Élevé,65.71,Faible,P2,Email automatisé + bon de 10 €,0
+C01181,En décrochage,apprentissage,0.7715,1,Élevé,256.47,Faible,P2,Email automatisé + bon de 10 €,1
+C01200,En décrochage,test,0.7696,1,Élevé,180.26,Faible,P2,Email automatisé + bon de 10 €,1
+C01485,En décrochage,test,0.7695,1,Élevé,40.33,Faible,P2,Email automatisé + bon de 10 €,0
+C00566,En décrochage,apprentissage,0.7688,1,Élevé,98.89,Faible,P2,Email automatisé + bon de 10 €,1
+C01421,En décrochage,apprentissage,0.7686,1,Élevé,194.46,Faible,P2,Email automatisé + bon de 10 €,1
+C00736,En décrochage,apprentissage,0.7626,1,Élevé,217.11,Faible,P2,Email automatisé + bon de 10 €,1
+C00440,En décrochage,apprentissage,0.7624,1,Élevé,61.52,Faible,P2,Email automatisé + bon de 10 €,1
+C00383,En décrochage,apprentissage,0.7617,1,Élevé,48.22,Faible,P2,Email automatisé + bon de 10 €,1
+C00426,En décrochage,apprentissage,0.7557,1,Élevé,28.16,Faible,P2,Email automatisé + bon de 10 €,1
+C00942,En décrochage,apprentissage,0.7547,1,Élevé,221.65,Faible,P2,Email automatisé + bon de 10 €,1
+C00432,En décrochage,apprentissage,0.7502,1,Élevé,244.67,Faible,P2,Email automatisé + bon de 10 €,1
+C01098,En décrochage,apprentissage,0.7457,1,Élevé,121.86,Faible,P2,Email automatisé + bon de 10 €,1
+C01219,En décrochage,apprentissage,0.7457,1,Élevé,80.1,Faible,P2,Email automatisé + bon de 10 €,0
+C00531,En décrochage,test,0.7444,1,Élevé,67.4,Faible,P2,Email automatisé + bon de 10 €,0
+C00180,En décrochage,apprentissage,0.7431,1,Élevé,134.75,Faible,P2,Email automatisé + bon de 10 €,1
+C01303,En décrochage,apprentissage,0.7424,1,Élevé,119.59,Faible,P2,Email automatisé + bon de 10 €,1
+C01017,En décrochage,apprentissage,0.7418,1,Élevé,40.0,Faible,P2,Email automatisé + bon de 10 €,1
+C00019,En décrochage,test,0.7398,1,Élevé,168.7,Faible,P2,Email automatisé + bon de 10 €,1
+C00779,En décrochage,apprentissage,0.7395,1,Élevé,107.63,Faible,P2,Email automatisé + bon de 10 €,0
+C00117,En décrochage,apprentissage,0.7359,1,Élevé,72.81,Faible,P2,Email automatisé + bon de 10 €,1
+C00857,En décrochage,apprentissage,0.7337,1,Élevé,50.33,Faible,P2,Email automatisé + bon de 10 €,1
+C01493,En décrochage,test,0.7332,1,Élevé,25.95,Faible,P2,Email automatisé + bon de 10 €,1
+C01068,En décrochage,apprentissage,0.732,1,Élevé,156.76,Faible,P2,Email automatisé + bon de 10 €,1
+C00139,En décrochage,apprentissage,0.7298,1,Élevé,40.68,Faible,P2,Email automatisé + bon de 10 €,1
+C00201,En décrochage,apprentissage,0.7272,1,Élevé,147.1,Faible,P2,Email automatisé + bon de 10 €,1
+C00459,En décrochage,apprentissage,0.7262,1,Élevé,104.26,Faible,P2,Email automatisé + bon de 10 €,1
+C00770,En décrochage,apprentissage,0.7261,1,Élevé,223.18,Faible,P2,Email automatisé + bon de 10 €,0
+C01469,En décrochage,apprentissage,0.7252,1,Élevé,53.66,Faible,P2,Email automatisé + bon de 10 €,1
+C00947,En décrochage,apprentissage,0.7251,1,Élevé,191.47,Faible,P2,Email automatisé + bon de 10 €,1
+C00606,En décrochage,apprentissage,0.7249,1,Élevé,59.8,Faible,P2,Email automatisé + bon de 10 €,1
+C00333,En décrochage,test,0.7237,1,Élevé,182.71,Faible,P2,Email automatisé + bon de 10 €,1
+C01257,En décrochage,test,0.7193,1,Élevé,99.57,Faible,P2,Email automatisé + bon de 10 €,1
+C01044,En décrochage,apprentissage,0.719,1,Élevé,132.2,Faible,P2,Email automatisé + bon de 10 €,1
+C01198,En décrochage,apprentissage,0.7104,1,Élevé,181.29,Faible,P2,Email automatisé + bon de 10 €,0
+C00387,En décrochage,apprentissage,0.7097,1,Élevé,156.63,Faible,P2,Email automatisé + bon de 10 €,0
+C00518,En décrochage,apprentissage,0.709,1,Élevé,98.98,Faible,P2,Email automatisé + bon de 10 €,1
+C00667,En décrochage,apprentissage,0.7078,1,Élevé,90.21,Faible,P2,Email automatisé + bon de 10 €,0
+C00784,En décrochage,apprentissage,0.7059,1,Élevé,208.42,Faible,P2,Email automatisé + bon de 10 €,1
+C00013,En décrochage,apprentissage,0.6996,1,Élevé,256.44,Faible,P2,Email automatisé + bon de 10 €,1
+C01377,En décrochage,apprentissage,0.6996,1,Élevé,141.25,Faible,P2,Email automatisé + bon de 10 €,1
+C00092,En décrochage,apprentissage,0.6969,1,Élevé,46.17,Faible,P2,Email automatisé + bon de 10 €,1
+C00799,En décrochage,apprentissage,0.6961,1,Élevé,255.82,Faible,P2,Email automatisé + bon de 10 €,1
+C00707,En décrochage,test,0.6944,1,Élevé,226.46,Faible,P2,Email automatisé + bon de 10 €,0
+C00346,En décrochage,test,0.6914,1,Élevé,72.99,Faible,P2,Email automatisé + bon de 10 €,1
+C01305,En décrochage,test,0.6889,1,Élevé,74.14,Faible,P2,Email automatisé + bon de 10 €,0
+C00862,En décrochage,apprentissage,0.6879,1,Élevé,100.66,Faible,P2,Email automatisé + bon de 10 €,1
+C00308,En décrochage,apprentissage,0.6819,1,Élevé,238.11,Faible,P2,Email automatisé + bon de 10 €,1
+C00065,En décrochage,apprentissage,0.6808,1,Élevé,201.2,Faible,P2,Email automatisé + bon de 10 €,1
+C01186,En décrochage,test,0.6771,1,Élevé,81.97,Faible,P2,Email automatisé + bon de 10 €,0
+C00439,En décrochage,apprentissage,0.6767,1,Élevé,83.28,Faible,P2,Email automatisé + bon de 10 €,1
+C00291,En décrochage,apprentissage,0.6751,1,Élevé,215.26,Faible,P2,Email automatisé + bon de 10 €,0
+C00425,En décrochage,test,0.6747,1,Élevé,230.38,Faible,P2,Email automatisé + bon de 10 €,0
+C00574,En décrochage,test,0.6694,1,Élevé,183.19,Faible,P2,Email automatisé + bon de 10 €,1
+C01234,En décrochage,apprentissage,0.6684,1,Élevé,32.75,Faible,P2,Email automatisé + bon de 10 €,0
+C00976,En décrochage,test,0.6635,1,Élevé,233.24,Faible,P2,Email automatisé + bon de 10 €,0
+C00430,En décrochage,test,0.6563,1,Élevé,66.98,Faible,P2,Email automatisé + bon de 10 €,1
+C00689,En décrochage,apprentissage,0.6548,1,Élevé,179.51,Faible,P2,Email automatisé + bon de 10 €,0
+C00061,Réguliers satisfaits,test,0.6519,1,Élevé,120.13,Faible,P2,Email automatisé + bon de 10 €,0
+C00078,En décrochage,apprentissage,0.6503,1,Élevé,193.12,Faible,P2,Email automatisé + bon de 10 €,0
+C01359,En décrochage,apprentissage,0.6484,1,Élevé,53.22,Faible,P2,Email automatisé + bon de 10 €,1
+C00506,En décrochage,apprentissage,0.6467,1,Élevé,169.92,Faible,P2,Email automatisé + bon de 10 €,0
+C00251,En décrochage,apprentissage,0.6355,1,Élevé,111.09,Faible,P2,Email automatisé + bon de 10 €,0
+C00371,En décrochage,apprentissage,0.6354,1,Élevé,57.37,Faible,P2,Email automatisé + bon de 10 €,1
+C00064,En décrochage,apprentissage,0.6346,1,Élevé,223.05,Faible,P2,Email automatisé + bon de 10 €,1
+C00674,En décrochage,test,0.6335,1,Élevé,143.76,Faible,P2,Email automatisé + bon de 10 €,1
+C00345,En décrochage,apprentissage,0.6333,1,Élevé,168.03,Faible,P2,Email automatisé + bon de 10 €,1
+C00391,En décrochage,apprentissage,0.6293,1,Élevé,84.26,Faible,P2,Email automatisé + bon de 10 €,1
+C01167,En décrochage,apprentissage,0.629,1,Élevé,183.43,Faible,P2,Email automatisé + bon de 10 €,1
+C00834,En décrochage,apprentissage,0.6286,1,Élevé,181.99,Faible,P2,Email automatisé + bon de 10 €,0
+C00761,En décrochage,apprentissage,0.6263,1,Élevé,239.26,Faible,P2,Email automatisé + bon de 10 €,1
+C00666,En décrochage,test,0.6258,1,Élevé,138.47,Faible,P2,Email automatisé + bon de 10 €,1
+C00495,En décrochage,apprentissage,0.6222,1,Élevé,240.29,Faible,P2,Email automatisé + bon de 10 €,1
+C00493,En décrochage,apprentissage,0.6164,1,Élevé,178.88,Faible,P2,Email automatisé + bon de 10 €,0
+C00993,En décrochage,test,0.6146,1,Élevé,104.91,Faible,P2,Email automatisé + bon de 10 €,1
+C00343,En décrochage,apprentissage,0.6104,1,Élevé,190.55,Faible,P2,Email automatisé + bon de 10 €,0
+C00403,En décrochage,test,0.6082,1,Élevé,110.2,Faible,P2,Email automatisé + bon de 10 €,1
+C00122,En décrochage,apprentissage,0.6043,1,Élevé,195.3,Faible,P2,Email automatisé + bon de 10 €,1
+C00004,En décrochage,apprentissage,0.6034,1,Élevé,39.36,Faible,P2,Email automatisé + bon de 10 €,1
+C00604,En décrochage,apprentissage,0.6029,1,Élevé,136.84,Faible,P2,Email automatisé + bon de 10 €,1
+C00056,En décrochage,apprentissage,0.6028,1,Élevé,154.0,Faible,P2,Email automatisé + bon de 10 €,1
+C00491,En décrochage,test,0.5941,1,Élevé,69.63,Faible,P2,Email automatisé + bon de 10 €,1
+C00336,En décrochage,apprentissage,0.5923,1,Élevé,46.3,Faible,P2,Email automatisé + bon de 10 €,0
+C01103,En décrochage,test,0.5918,1,Élevé,105.6,Faible,P2,Email automatisé + bon de 10 €,1
+C01062,En décrochage,test,0.5897,1,Élevé,90.72,Faible,P2,Email automatisé + bon de 10 €,1
+C00008,En décrochage,apprentissage,0.5882,1,Élevé,57.92,Faible,P2,Email automatisé + bon de 10 €,1
+C00997,En décrochage,apprentissage,0.5836,1,Élevé,158.21,Faible,P2,Email automatisé + bon de 10 €,1
+C00534,En décrochage,test,0.5821,1,Élevé,57.67,Faible,P2,Email automatisé + bon de 10 €,1
+C00329,En décrochage,test,0.5773,1,Élevé,65.02,Faible,P2,Email automatisé + bon de 10 €,0
+C01352,En décrochage,apprentissage,0.5744,1,Élevé,68.64,Faible,P2,Email automatisé + bon de 10 €,0
+C00982,En décrochage,apprentissage,0.5743,1,Élevé,128.28,Faible,P2,Email automatisé + bon de 10 €,1
+C00081,En décrochage,apprentissage,0.5725,1,Élevé,103.34,Faible,P2,Email automatisé + bon de 10 €,0
+C00448,En décrochage,apprentissage,0.567,1,Élevé,156.03,Faible,P2,Email automatisé + bon de 10 €,1
+C00697,En décrochage,apprentissage,0.5606,1,Élevé,192.27,Faible,P2,Email automatisé + bon de 10 €,1
+C00598,En décrochage,test,0.5568,1,Élevé,209.86,Faible,P2,Email automatisé + bon de 10 €,1
+C01299,En décrochage,apprentissage,0.5554,1,Élevé,63.28,Faible,P2,Email automatisé + bon de 10 €,1
+C01449,En décrochage,test,0.5468,1,Élevé,61.13,Faible,P2,Email automatisé + bon de 10 €,1
+C01072,En décrochage,apprentissage,0.5446,1,Élevé,125.81,Faible,P2,Email automatisé + bon de 10 €,1
+C01258,En décrochage,apprentissage,0.5407,1,Élevé,189.93,Faible,P2,Email automatisé + bon de 10 €,1
+C00338,En décrochage,test,0.54,1,Élevé,56.69,Faible,P2,Email automatisé + bon de 10 €,0
+C01292,En décrochage,apprentissage,0.5368,1,Élevé,130.09,Faible,P2,Email automatisé + bon de 10 €,0
+C00819,En décrochage,apprentissage,0.5361,1,Élevé,221.5,Faible,P2,Email automatisé + bon de 10 €,1
+C00543,En décrochage,test,0.5333,1,Élevé,80.51,Faible,P2,Email automatisé + bon de 10 €,1
+C01172,En décrochage,test,0.533,1,Élevé,176.56,Faible,P2,Email automatisé + bon de 10 €,1
+C00713,En décrochage,test,0.5308,1,Élevé,80.0,Faible,P2,Email automatisé + bon de 10 €,0
+C01379,En décrochage,apprentissage,0.5244,1,Élevé,68.0,Faible,P2,Email automatisé + bon de 10 €,1
+C01429,Réguliers satisfaits,apprentissage,0.5233,1,Élevé,205.66,Faible,P2,Email automatisé + bon de 10 €,0
+C01395,En décrochage,apprentissage,0.5173,1,Élevé,45.69,Faible,P2,Email automatisé + bon de 10 €,0
+C01169,En décrochage,test,0.517,1,Élevé,80.0,Faible,P2,Email automatisé + bon de 10 €,0
+C01363,En décrochage,apprentissage,0.5068,1,Élevé,116.02,Faible,P2,Email automatisé + bon de 10 €,0
+C01048,En décrochage,test,0.5064,1,Élevé,79.66,Faible,P2,Email automatisé + bon de 10 €,1
+C01011,En décrochage,apprentissage,0.4967,1,Moyen,131.3,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00194,En décrochage,test,0.4959,1,Moyen,210.61,Faible,P3,Email de réactivation + enquête satisfaction,1
+C01060,En décrochage,apprentissage,0.4874,1,Moyen,118.95,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00992,En décrochage,test,0.4872,1,Moyen,67.12,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00923,En décrochage,apprentissage,0.4862,1,Moyen,144.74,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00807,En décrochage,apprentissage,0.4855,1,Moyen,132.12,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00879,En décrochage,apprentissage,0.4849,1,Moyen,186.88,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01043,En décrochage,apprentissage,0.4841,1,Moyen,272.86,Forte,P3,Email de réactivation + enquête satisfaction,0
+C01342,En décrochage,apprentissage,0.4807,1,Moyen,139.38,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01207,En décrochage,apprentissage,0.4799,1,Moyen,303.22,Forte,P3,Email de réactivation + enquête satisfaction,0
+C01029,En décrochage,apprentissage,0.4755,1,Moyen,111.38,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00787,En décrochage,apprentissage,0.4731,1,Moyen,45.87,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00739,Réguliers satisfaits,test,0.4674,1,Moyen,566.3,Forte,P3,Email de réactivation + enquête satisfaction,1
+C00327,En décrochage,apprentissage,0.4657,1,Moyen,267.5,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00882,En décrochage,apprentissage,0.4653,1,Moyen,149.3,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00054,En décrochage,apprentissage,0.4648,1,Moyen,295.71,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00501,En décrochage,apprentissage,0.4608,1,Moyen,66.24,Faible,P3,Email de réactivation + enquête satisfaction,1
+C01147,En décrochage,apprentissage,0.4605,1,Moyen,139.68,Faible,P3,Email de réactivation + enquête satisfaction,1
+C01247,En décrochage,apprentissage,0.4598,1,Moyen,116.97,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00241,En décrochage,apprentissage,0.4518,1,Moyen,163.58,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00030,En décrochage,apprentissage,0.4489,1,Moyen,254.92,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01032,En décrochage,apprentissage,0.4476,1,Moyen,152.84,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00168,En décrochage,apprentissage,0.4454,1,Moyen,78.11,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00750,En décrochage,apprentissage,0.4427,1,Moyen,146.52,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00524,En décrochage,apprentissage,0.4422,1,Moyen,67.06,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01351,En décrochage,apprentissage,0.4401,1,Moyen,246.13,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00408,En décrochage,apprentissage,0.4381,1,Moyen,164.77,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00418,En décrochage,apprentissage,0.4333,1,Moyen,104.66,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00247,En décrochage,apprentissage,0.4275,1,Moyen,261.09,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00922,Réguliers satisfaits,apprentissage,0.4257,1,Moyen,323.31,Forte,P3,Email de réactivation + enquête satisfaction,1
+C01104,En décrochage,test,0.4201,1,Moyen,84.3,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00895,En décrochage,apprentissage,0.42,1,Moyen,60.0,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00685,En décrochage,apprentissage,0.4156,1,Moyen,232.47,Faible,P3,Email de réactivation + enquête satisfaction,1
+C01174,En décrochage,apprentissage,0.4156,1,Moyen,156.46,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01452,En décrochage,apprentissage,0.415,1,Moyen,174.23,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00835,En décrochage,apprentissage,0.3963,1,Moyen,40.0,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00189,En décrochage,apprentissage,0.3959,1,Moyen,80.3,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00638,En décrochage,apprentissage,0.3897,1,Moyen,349.7,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00326,En décrochage,apprentissage,0.3879,1,Moyen,119.57,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00185,En décrochage,apprentissage,0.3878,1,Moyen,140.56,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00520,En décrochage,apprentissage,0.3863,1,Moyen,40.0,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01451,Réguliers satisfaits,apprentissage,0.3814,1,Moyen,264.7,Forte,P3,Email de réactivation + enquête satisfaction,0
+C01121,En décrochage,apprentissage,0.373,1,Moyen,60.0,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00096,En décrochage,apprentissage,0.3675,1,Moyen,78.1,Faible,P3,Email de réactivation + enquête satisfaction,1
+C01401,Réguliers satisfaits,apprentissage,0.3648,1,Moyen,207.68,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01296,En décrochage,apprentissage,0.3638,1,Moyen,174.77,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01204,En décrochage,apprentissage,0.3633,1,Moyen,46.78,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00114,Réguliers satisfaits,test,0.3623,1,Moyen,517.87,Forte,P3,Email de réactivation + enquête satisfaction,1
+C00549,En décrochage,apprentissage,0.3612,1,Moyen,169.79,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01392,En décrochage,apprentissage,0.3612,1,Moyen,154.57,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01479,Occasionnels récents,apprentissage,0.3605,1,Moyen,127.53,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00158,En décrochage,apprentissage,0.3593,1,Moyen,60.05,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00991,En décrochage,test,0.3571,1,Moyen,70.54,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00642,En décrochage,test,0.3519,1,Moyen,136.47,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00318,En décrochage,apprentissage,0.3497,1,Moyen,52.66,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00349,En décrochage,apprentissage,0.3483,1,Moyen,175.98,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00286,Réguliers satisfaits,apprentissage,0.3382,1,Moyen,334.83,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00156,En décrochage,apprentissage,0.338,1,Moyen,74.87,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00021,En décrochage,apprentissage,0.3364,1,Moyen,60.0,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01448,Réguliers satisfaits,apprentissage,0.3302,1,Moyen,151.36,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00492,En décrochage,apprentissage,0.3256,1,Moyen,184.99,Faible,P3,Email de réactivation + enquête satisfaction,1
+C01212,En décrochage,apprentissage,0.323,1,Moyen,261.72,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00215,En décrochage,apprentissage,0.3226,1,Moyen,159.54,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00617,En décrochage,apprentissage,0.3172,1,Moyen,216.73,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00159,En décrochage,apprentissage,0.3165,1,Moyen,185.88,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00236,En décrochage,apprentissage,0.3141,1,Moyen,218.7,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01243,Occasionnels récents,apprentissage,0.3135,1,Moyen,175.67,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00837,En décrochage,test,0.3133,1,Moyen,186.25,Faible,P3,Email de réactivation + enquête satisfaction,1
+C01089,Réguliers satisfaits,apprentissage,0.3066,1,Moyen,374.13,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00952,Réguliers satisfaits,apprentissage,0.3041,1,Moyen,872.43,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00833,Réguliers satisfaits,apprentissage,0.303,1,Moyen,408.51,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00242,En décrochage,apprentissage,0.2998,1,Moyen,232.68,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00494,En décrochage,apprentissage,0.2968,1,Moyen,179.75,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00612,En décrochage,apprentissage,0.2965,1,Moyen,135.31,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00046,En décrochage,test,0.2963,1,Moyen,416.42,Forte,P3,Email de réactivation + enquête satisfaction,1
+C00470,Réguliers satisfaits,apprentissage,0.2948,1,Moyen,452.94,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00263,Occasionnels récents,apprentissage,0.2901,1,Moyen,115.6,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00878,Occasionnels récents,test,0.2852,1,Moyen,169.89,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00533,Réguliers satisfaits,apprentissage,0.2843,1,Moyen,556.32,Forte,P3,Email de réactivation + enquête satisfaction,1
+C00017,Réguliers satisfaits,apprentissage,0.2806,1,Moyen,338.23,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00232,Réguliers satisfaits,apprentissage,0.2803,1,Moyen,406.49,Forte,P3,Email de réactivation + enquête satisfaction,1
+C00996,Réguliers satisfaits,test,0.2738,1,Moyen,519.68,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00256,En décrochage,test,0.2682,1,Moyen,154.98,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00517,En décrochage,apprentissage,0.2682,1,Moyen,302.73,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00049,Réguliers satisfaits,test,0.2672,1,Moyen,266.57,Forte,P3,Email de réactivation + enquête satisfaction,1
+C00484,Réguliers satisfaits,apprentissage,0.2668,1,Moyen,470.85,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00220,En décrochage,apprentissage,0.2666,1,Moyen,150.81,Faible,P3,Email de réactivation + enquête satisfaction,1
+C01400,Occasionnels récents,test,0.2666,1,Moyen,195.63,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00855,Réguliers satisfaits,apprentissage,0.2648,1,Moyen,195.74,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01056,En décrochage,apprentissage,0.2637,1,Moyen,68.99,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00814,Réguliers satisfaits,apprentissage,0.263,1,Moyen,247.05,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00216,En décrochage,apprentissage,0.261,1,Moyen,114.3,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00898,En décrochage,apprentissage,0.2605,1,Moyen,176.6,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00212,Réguliers satisfaits,apprentissage,0.2604,1,Moyen,470.13,Forte,P3,Email de réactivation + enquête satisfaction,1
+C00505,Réguliers satisfaits,apprentissage,0.2596,1,Moyen,470.64,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00267,Réguliers satisfaits,apprentissage,0.2591,1,Moyen,680.42,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00754,Réguliers satisfaits,apprentissage,0.2581,1,Moyen,326.63,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00407,Réguliers satisfaits,apprentissage,0.2566,1,Moyen,205.63,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01202,Réguliers satisfaits,apprentissage,0.2553,1,Moyen,301.38,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00342,Nouveaux à activer,apprentissage,0.2543,1,Moyen,0.0,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00427,Réguliers satisfaits,apprentissage,0.2542,1,Moyen,291.49,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00487,Occasionnels récents,test,0.2528,1,Moyen,125.19,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00716,Réguliers satisfaits,apprentissage,0.2515,1,Moyen,470.28,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00877,Réguliers satisfaits,apprentissage,0.2514,1,Moyen,232.26,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00183,Réguliers satisfaits,apprentissage,0.2499,1,Moyen,318.27,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00560,Réguliers satisfaits,apprentissage,0.2493,1,Moyen,231.91,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01051,En décrochage,test,0.2489,1,Moyen,319.27,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00721,En décrochage,apprentissage,0.248,1,Moyen,226.14,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00119,Réguliers satisfaits,apprentissage,0.2461,1,Moyen,211.49,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00172,Réguliers satisfaits,apprentissage,0.2426,1,Moyen,422.38,Forte,P3,Email de réactivation + enquête satisfaction,0
+C01322,Réguliers satisfaits,test,0.2426,1,Moyen,412.8,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00745,Occasionnels récents,test,0.2421,1,Moyen,158.07,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00646,Nouveaux à activer,test,0.242,1,Moyen,0.0,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00126,Occasionnels récents,apprentissage,0.2419,1,Moyen,197.46,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00902,Réguliers satisfaits,test,0.2405,1,Moyen,182.75,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01141,En décrochage,apprentissage,0.2392,1,Moyen,141.41,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01047,Réguliers satisfaits,apprentissage,0.2386,1,Moyen,312.68,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00684,Réguliers satisfaits,apprentissage,0.2379,1,Moyen,105.27,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00551,Occasionnels récents,test,0.2354,1,Moyen,162.65,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00234,Occasionnels récents,apprentissage,0.2337,1,Moyen,150.77,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01450,Réguliers satisfaits,apprentissage,0.2333,1,Moyen,301.46,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00461,En décrochage,apprentissage,0.2303,1,Moyen,154.27,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00839,Occasionnels récents,test,0.2274,1,Moyen,118.37,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01000,Réguliers satisfaits,apprentissage,0.2272,1,Moyen,516.81,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00751,Réguliers satisfaits,test,0.2236,1,Moyen,309.18,Forte,P3,Email de réactivation + enquête satisfaction,0
+C01024,Occasionnels récents,apprentissage,0.221,1,Moyen,188.23,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00088,En décrochage,apprentissage,0.2208,1,Moyen,190.09,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00130,Occasionnels récents,apprentissage,0.2206,1,Moyen,246.21,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00144,Réguliers satisfaits,apprentissage,0.2198,1,Moyen,488.07,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00896,Occasionnels récents,apprentissage,0.2169,1,Moyen,172.77,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00941,Réguliers satisfaits,apprentissage,0.2168,1,Moyen,288.23,Forte,P3,Email de réactivation + enquête satisfaction,0
+C01418,Occasionnels récents,test,0.2161,1,Moyen,227.06,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00222,Réguliers satisfaits,apprentissage,0.2151,1,Moyen,137.53,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00660,En décrochage,apprentissage,0.215,1,Moyen,143.6,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00553,En décrochage,test,0.2147,1,Moyen,161.02,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00870,Réguliers satisfaits,test,0.2141,1,Moyen,263.83,Forte,P3,Email de réactivation + enquête satisfaction,0
+C01096,Réguliers satisfaits,test,0.214,1,Moyen,401.06,Forte,P3,Email de réactivation + enquête satisfaction,0
+C01215,Occasionnels récents,apprentissage,0.2116,1,Moyen,113.62,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00074,Réguliers satisfaits,apprentissage,0.2103,1,Moyen,346.13,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00313,Réguliers satisfaits,apprentissage,0.2094,1,Moyen,349.77,Forte,P3,Email de réactivation + enquête satisfaction,0
+C01425,En décrochage,apprentissage,0.2094,1,Moyen,204.49,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00648,Réguliers satisfaits,apprentissage,0.2087,1,Moyen,320.05,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00892,Occasionnels récents,apprentissage,0.2086,1,Moyen,131.28,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01028,Réguliers satisfaits,test,0.2083,1,Moyen,245.35,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00786,Occasionnels récents,apprentissage,0.2072,1,Moyen,155.16,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01226,Nouveaux à activer,apprentissage,0.2068,1,Moyen,0.0,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00077,Occasionnels récents,apprentissage,0.2064,1,Moyen,152.38,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00802,En décrochage,apprentissage,0.2064,1,Moyen,257.03,Faible,P3,Email de réactivation + enquête satisfaction,0
+C01337,Réguliers satisfaits,apprentissage,0.2055,1,Moyen,253.66,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00936,En décrochage,apprentissage,0.2054,1,Moyen,119.91,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00897,Réguliers satisfaits,apprentissage,0.2053,1,Moyen,442.14,Forte,P3,Email de réactivation + enquête satisfaction,0
+C01302,Réguliers satisfaits,test,0.2045,1,Moyen,222.13,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00773,Réguliers satisfaits,apprentissage,0.2035,1,Moyen,485.25,Forte,P3,Email de réactivation + enquête satisfaction,0
+C00727,Réguliers satisfaits,apprentissage,0.2015,1,Moyen,585.43,Forte,P3,Email de réactivation + enquête satisfaction,0
+C01347,Réguliers satisfaits,apprentissage,0.2003,1,Moyen,157.03,Faible,P3,Email de réactivation + enquête satisfaction,1
+C00246,Occasionnels récents,apprentissage,0.2,1,Moyen,83.5,Faible,P3,Email de réactivation + enquête satisfaction,0
+C00146,En décrochage,apprentissage,0.1992,0,Faible,239.74,Faible,Aucune,Parcours CRM habituel,0
+C00036,Occasionnels récents,apprentissage,0.1988,0,Faible,217.05,Faible,Aucune,Parcours CRM habituel,0
+C00143,Occasionnels récents,test,0.1975,0,Faible,140.55,Faible,Aucune,Parcours CRM habituel,0
+C00582,Réguliers satisfaits,test,0.1975,0,Faible,212.86,Faible,Aucune,Parcours CRM habituel,1
+C00386,Occasionnels récents,test,0.1967,0,Faible,170.52,Faible,Aucune,Parcours CRM habituel,0
+C01132,Réguliers satisfaits,apprentissage,0.1959,0,Faible,310.5,Forte,Aucune,Parcours CRM habituel,1
+C00907,Réguliers satisfaits,apprentissage,0.1955,0,Faible,634.77,Forte,Aucune,Parcours CRM habituel,0
+C00279,Nouveaux à activer,apprentissage,0.1945,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,1
+C01245,Occasionnels récents,apprentissage,0.1941,0,Faible,240.75,Faible,Aucune,Parcours CRM habituel,0
+C01365,Occasionnels récents,apprentissage,0.1928,0,Faible,170.88,Faible,Aucune,Parcours CRM habituel,1
+C00746,En décrochage,apprentissage,0.191,0,Faible,292.89,Forte,Aucune,Parcours CRM habituel,0
+C00694,Réguliers satisfaits,test,0.1898,0,Faible,311.45,Forte,Aucune,Parcours CRM habituel,0
+C01059,En décrochage,apprentissage,0.1891,0,Faible,170.07,Faible,Aucune,Parcours CRM habituel,0
+C00584,En décrochage,apprentissage,0.1872,0,Faible,129.61,Faible,Aucune,Parcours CRM habituel,0
+C01477,Occasionnels récents,test,0.1862,0,Faible,176.91,Faible,Aucune,Parcours CRM habituel,0
+C01358,Réguliers satisfaits,apprentissage,0.1807,0,Faible,351.88,Forte,Aucune,Parcours CRM habituel,0
+C00152,Nouveaux à activer,apprentissage,0.1798,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00832,Réguliers satisfaits,test,0.1793,0,Faible,459.15,Forte,Aucune,Parcours CRM habituel,0
+C01078,En décrochage,apprentissage,0.1776,0,Faible,196.74,Faible,Aucune,Parcours CRM habituel,0
+C01417,Réguliers satisfaits,apprentissage,0.1775,0,Faible,315.84,Forte,Aucune,Parcours CRM habituel,0
+C01090,Réguliers satisfaits,test,0.1773,0,Faible,404.56,Forte,Aucune,Parcours CRM habituel,0
+C00622,Réguliers satisfaits,test,0.1771,0,Faible,279.83,Forte,Aucune,Parcours CRM habituel,0
+C01073,Occasionnels récents,apprentissage,0.177,0,Faible,263.8,Forte,Aucune,Parcours CRM habituel,1
+C00820,Réguliers satisfaits,test,0.1761,0,Faible,425.67,Forte,Aucune,Parcours CRM habituel,0
+C01199,En décrochage,apprentissage,0.1752,0,Faible,174.77,Faible,Aucune,Parcours CRM habituel,0
+C00730,Occasionnels récents,apprentissage,0.1737,0,Faible,189.53,Faible,Aucune,Parcours CRM habituel,0
+C00476,Occasionnels récents,apprentissage,0.1733,0,Faible,195.31,Faible,Aucune,Parcours CRM habituel,1
+C01287,En décrochage,apprentissage,0.173,0,Faible,197.41,Faible,Aucune,Parcours CRM habituel,0
+C00283,Occasionnels récents,apprentissage,0.1729,0,Faible,165.24,Faible,Aucune,Parcours CRM habituel,1
+C00926,Réguliers satisfaits,apprentissage,0.1725,0,Faible,512.94,Forte,Aucune,Parcours CRM habituel,0
+C00672,En décrochage,apprentissage,0.1709,0,Faible,398.19,Forte,Aucune,Parcours CRM habituel,0
+C00599,Nouveaux à activer,apprentissage,0.1704,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00024,Nouveaux à activer,test,0.1702,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00006,Nouveaux à activer,apprentissage,0.1699,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00695,Occasionnels récents,test,0.1684,0,Faible,200.73,Faible,Aucune,Parcours CRM habituel,0
+C01282,Réguliers satisfaits,apprentissage,0.1677,0,Faible,440.36,Forte,Aucune,Parcours CRM habituel,0
+C00373,Occasionnels récents,apprentissage,0.166,0,Faible,239.56,Faible,Aucune,Parcours CRM habituel,0
+C01259,En décrochage,test,0.164,0,Faible,281.19,Forte,Aucune,Parcours CRM habituel,0
+C00899,Réguliers satisfaits,apprentissage,0.1621,0,Faible,221.58,Faible,Aucune,Parcours CRM habituel,0
+C01332,Occasionnels récents,apprentissage,0.1614,0,Faible,147.07,Faible,Aucune,Parcours CRM habituel,1
+C00734,Réguliers satisfaits,apprentissage,0.1612,0,Faible,582.0,Forte,Aucune,Parcours CRM habituel,1
+C00916,Nouveaux à activer,apprentissage,0.1608,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00384,Occasionnels récents,apprentissage,0.1591,0,Faible,265.88,Forte,Aucune,Parcours CRM habituel,0
+C01108,Réguliers satisfaits,apprentissage,0.1588,0,Faible,341.21,Forte,Aucune,Parcours CRM habituel,0
+C00880,Réguliers satisfaits,apprentissage,0.1575,0,Faible,371.52,Forte,Aucune,Parcours CRM habituel,0
+C01283,Occasionnels récents,apprentissage,0.1574,0,Faible,237.4,Faible,Aucune,Parcours CRM habituel,0
+C00244,Réguliers satisfaits,apprentissage,0.1567,0,Faible,362.12,Forte,Aucune,Parcours CRM habituel,0
+C00356,Réguliers satisfaits,apprentissage,0.1566,0,Faible,258.36,Forte,Aucune,Parcours CRM habituel,1
+C01175,Réguliers satisfaits,apprentissage,0.1563,0,Faible,199.95,Faible,Aucune,Parcours CRM habituel,0
+C00145,Réguliers satisfaits,apprentissage,0.1561,0,Faible,558.81,Forte,Aucune,Parcours CRM habituel,0
+C00248,Réguliers satisfaits,apprentissage,0.1551,0,Faible,325.13,Forte,Aucune,Parcours CRM habituel,0
+C00048,Réguliers satisfaits,apprentissage,0.1549,0,Faible,494.8,Forte,Aucune,Parcours CRM habituel,0
+C00166,Occasionnels récents,test,0.1548,0,Faible,165.64,Faible,Aucune,Parcours CRM habituel,0
+C01196,Réguliers satisfaits,apprentissage,0.1548,0,Faible,320.84,Forte,Aucune,Parcours CRM habituel,0
+C01495,Réguliers satisfaits,apprentissage,0.1548,0,Faible,172.51,Faible,Aucune,Parcours CRM habituel,0
+C00665,En décrochage,apprentissage,0.1544,0,Faible,257.66,Faible,Aucune,Parcours CRM habituel,0
+C00483,Réguliers satisfaits,apprentissage,0.1539,0,Faible,438.26,Forte,Aucune,Parcours CRM habituel,0
+C00958,Occasionnels récents,test,0.1533,0,Faible,145.88,Faible,Aucune,Parcours CRM habituel,0
+C01201,En décrochage,apprentissage,0.1526,0,Faible,224.34,Faible,Aucune,Parcours CRM habituel,1
+C00490,Réguliers satisfaits,test,0.1518,0,Faible,351.74,Forte,Aucune,Parcours CRM habituel,0
+C00521,Occasionnels récents,test,0.1516,0,Faible,77.38,Faible,Aucune,Parcours CRM habituel,0
+C00670,Réguliers satisfaits,apprentissage,0.1513,0,Faible,412.5,Forte,Aucune,Parcours CRM habituel,0
+C00738,Réguliers satisfaits,apprentissage,0.151,0,Faible,202.17,Faible,Aucune,Parcours CRM habituel,0
+C01228,Réguliers satisfaits,apprentissage,0.1506,0,Faible,395.28,Forte,Aucune,Parcours CRM habituel,0
+C00378,Réguliers satisfaits,apprentissage,0.1505,0,Faible,527.67,Forte,Aucune,Parcours CRM habituel,1
+C00173,Réguliers satisfaits,apprentissage,0.15,0,Faible,181.57,Faible,Aucune,Parcours CRM habituel,0
+C01490,En décrochage,apprentissage,0.1498,0,Faible,328.34,Forte,Aucune,Parcours CRM habituel,0
+C00527,Nouveaux à activer,apprentissage,0.1493,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00066,En décrochage,apprentissage,0.1491,0,Faible,209.48,Faible,Aucune,Parcours CRM habituel,0
+C00654,Occasionnels récents,apprentissage,0.1486,0,Faible,198.62,Faible,Aucune,Parcours CRM habituel,0
+C01481,En décrochage,apprentissage,0.1481,0,Faible,101.8,Faible,Aucune,Parcours CRM habituel,0
+C01399,Réguliers satisfaits,apprentissage,0.1475,0,Faible,359.67,Forte,Aucune,Parcours CRM habituel,0
+C00542,Réguliers satisfaits,apprentissage,0.1473,0,Faible,395.46,Forte,Aucune,Parcours CRM habituel,0
+C00614,Nouveaux à activer,apprentissage,0.1471,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00314,Réguliers satisfaits,test,0.1469,0,Faible,197.01,Faible,Aucune,Parcours CRM habituel,1
+C00044,Réguliers satisfaits,apprentissage,0.1464,0,Faible,155.29,Faible,Aucune,Parcours CRM habituel,0
+C00657,Nouveaux à activer,test,0.1459,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,1
+C01152,Nouveaux à activer,apprentissage,0.1455,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00057,Réguliers satisfaits,test,0.1453,0,Faible,773.56,Forte,Aucune,Parcours CRM habituel,0
+C00228,Réguliers satisfaits,apprentissage,0.1444,0,Faible,283.23,Forte,Aucune,Parcours CRM habituel,0
+C00027,En décrochage,apprentissage,0.1443,0,Faible,328.25,Forte,Aucune,Parcours CRM habituel,0
+C00104,Occasionnels récents,apprentissage,0.1443,0,Faible,66.62,Faible,Aucune,Parcours CRM habituel,0
+C01317,Réguliers satisfaits,test,0.1442,0,Faible,707.38,Forte,Aucune,Parcours CRM habituel,0
+C00969,Réguliers satisfaits,apprentissage,0.144,0,Faible,781.47,Forte,Aucune,Parcours CRM habituel,0
+C00929,Réguliers satisfaits,apprentissage,0.1433,0,Faible,197.9,Faible,Aucune,Parcours CRM habituel,0
+C00809,En décrochage,test,0.1427,0,Faible,218.04,Faible,Aucune,Parcours CRM habituel,0
+C00285,En décrochage,apprentissage,0.1423,0,Faible,353.19,Forte,Aucune,Parcours CRM habituel,1
+C01039,Réguliers satisfaits,apprentissage,0.1421,0,Faible,420.55,Forte,Aucune,Parcours CRM habituel,0
+C01488,Réguliers satisfaits,test,0.1413,0,Faible,273.93,Forte,Aucune,Parcours CRM habituel,0
+C00255,En décrochage,apprentissage,0.1412,0,Faible,249.92,Faible,Aucune,Parcours CRM habituel,0
+C01325,Réguliers satisfaits,apprentissage,0.1411,0,Faible,219.47,Faible,Aucune,Parcours CRM habituel,1
+C00095,Réguliers satisfaits,apprentissage,0.1403,0,Faible,131.54,Faible,Aucune,Parcours CRM habituel,1
+C00317,Réguliers satisfaits,apprentissage,0.14,0,Faible,603.4,Forte,Aucune,Parcours CRM habituel,1
+C00710,Réguliers satisfaits,apprentissage,0.1394,0,Faible,330.15,Forte,Aucune,Parcours CRM habituel,0
+C01274,Occasionnels récents,test,0.1394,0,Faible,186.73,Faible,Aucune,Parcours CRM habituel,0
+C00277,Réguliers satisfaits,test,0.1393,0,Faible,450.78,Forte,Aucune,Parcours CRM habituel,0
+C00623,Nouveaux à activer,apprentissage,0.1393,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01334,Occasionnels récents,apprentissage,0.1384,0,Faible,88.26,Faible,Aucune,Parcours CRM habituel,0
+C00035,Réguliers satisfaits,apprentissage,0.1382,0,Faible,331.4,Forte,Aucune,Parcours CRM habituel,0
+C01112,Réguliers satisfaits,apprentissage,0.1376,0,Faible,385.52,Forte,Aucune,Parcours CRM habituel,0
+C00447,Occasionnels récents,apprentissage,0.1371,0,Faible,99.48,Faible,Aucune,Parcours CRM habituel,0
+C00379,Réguliers satisfaits,test,0.1367,0,Faible,191.31,Faible,Aucune,Parcours CRM habituel,0
+C00354,Réguliers satisfaits,apprentissage,0.1362,0,Faible,606.25,Forte,Aucune,Parcours CRM habituel,0
+C01146,Réguliers satisfaits,apprentissage,0.1358,0,Faible,458.6,Forte,Aucune,Parcours CRM habituel,0
+C00225,Réguliers satisfaits,apprentissage,0.1357,0,Faible,421.45,Forte,Aucune,Parcours CRM habituel,0
+C01362,Réguliers satisfaits,apprentissage,0.1354,0,Faible,313.17,Forte,Aucune,Parcours CRM habituel,0
+C01126,Réguliers satisfaits,apprentissage,0.1353,0,Faible,301.93,Forte,Aucune,Parcours CRM habituel,0
+C01063,Réguliers satisfaits,test,0.135,0,Faible,230.38,Faible,Aucune,Parcours CRM habituel,0
+C00402,Nouveaux à activer,apprentissage,0.1347,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00618,Réguliers satisfaits,apprentissage,0.1346,0,Faible,183.87,Faible,Aucune,Parcours CRM habituel,0
+C00199,Occasionnels récents,apprentissage,0.1341,0,Faible,102.44,Faible,Aucune,Parcours CRM habituel,1
+C00509,Réguliers satisfaits,apprentissage,0.134,0,Faible,336.13,Forte,Aucune,Parcours CRM habituel,0
+C00581,Occasionnels récents,apprentissage,0.1327,0,Faible,149.37,Faible,Aucune,Parcours CRM habituel,1
+C01383,En décrochage,apprentissage,0.1326,0,Faible,173.89,Faible,Aucune,Parcours CRM habituel,0
+C01288,Réguliers satisfaits,apprentissage,0.1321,0,Faible,189.26,Faible,Aucune,Parcours CRM habituel,0
+C00488,Réguliers satisfaits,apprentissage,0.1316,0,Faible,517.07,Forte,Aucune,Parcours CRM habituel,0
+C01026,Réguliers satisfaits,apprentissage,0.1306,0,Faible,368.1,Forte,Aucune,Parcours CRM habituel,0
+C01366,Occasionnels récents,test,0.1304,0,Faible,58.88,Faible,Aucune,Parcours CRM habituel,0
+C01405,Réguliers satisfaits,apprentissage,0.1304,0,Faible,353.22,Forte,Aucune,Parcours CRM habituel,0
+C01125,Réguliers satisfaits,apprentissage,0.1296,0,Faible,423.51,Forte,Aucune,Parcours CRM habituel,0
+C00569,Occasionnels récents,test,0.1295,0,Faible,126.33,Faible,Aucune,Parcours CRM habituel,0
+C01192,Réguliers satisfaits,apprentissage,0.1287,0,Faible,256.41,Faible,Aucune,Parcours CRM habituel,0
+C00090,Réguliers satisfaits,apprentissage,0.1285,0,Faible,348.26,Forte,Aucune,Parcours CRM habituel,0
+C00482,Réguliers satisfaits,apprentissage,0.1282,0,Faible,239.01,Faible,Aucune,Parcours CRM habituel,0
+C00353,Réguliers satisfaits,apprentissage,0.1279,0,Faible,576.97,Forte,Aucune,Parcours CRM habituel,0
+C00978,Réguliers satisfaits,apprentissage,0.1276,0,Faible,585.11,Forte,Aucune,Parcours CRM habituel,0
+C01012,Réguliers satisfaits,apprentissage,0.1276,0,Faible,249.02,Faible,Aucune,Parcours CRM habituel,0
+C00032,Occasionnels récents,test,0.1275,0,Faible,98.75,Faible,Aucune,Parcours CRM habituel,0
+C00324,Réguliers satisfaits,apprentissage,0.127,0,Faible,356.83,Forte,Aucune,Parcours CRM habituel,0
+C00210,Réguliers satisfaits,test,0.1265,0,Faible,448.47,Forte,Aucune,Parcours CRM habituel,1
+C00909,Réguliers satisfaits,apprentissage,0.1265,0,Faible,472.9,Forte,Aucune,Parcours CRM habituel,0
+C00328,Occasionnels récents,apprentissage,0.1259,0,Faible,208.89,Faible,Aucune,Parcours CRM habituel,0
+C00594,Réguliers satisfaits,apprentissage,0.1254,0,Faible,339.93,Forte,Aucune,Parcours CRM habituel,0
+C00051,En décrochage,apprentissage,0.1251,0,Faible,252.77,Faible,Aucune,Parcours CRM habituel,0
+C00071,Réguliers satisfaits,apprentissage,0.125,0,Faible,344.63,Forte,Aucune,Parcours CRM habituel,0
+C00062,Réguliers satisfaits,apprentissage,0.1248,0,Faible,228.54,Faible,Aucune,Parcours CRM habituel,0
+C00187,Réguliers satisfaits,apprentissage,0.1243,0,Faible,533.76,Forte,Aucune,Parcours CRM habituel,0
+C00112,Occasionnels récents,test,0.1239,0,Faible,164.9,Faible,Aucune,Parcours CRM habituel,0
+C00282,Réguliers satisfaits,apprentissage,0.1239,0,Faible,248.38,Faible,Aucune,Parcours CRM habituel,0
+C01353,Réguliers satisfaits,test,0.1233,0,Faible,271.1,Forte,Aucune,Parcours CRM habituel,0
+C01398,Nouveaux à activer,apprentissage,0.1233,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00452,Nouveaux à activer,apprentissage,0.1229,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,1
+C01095,Réguliers satisfaits,apprentissage,0.1229,0,Faible,483.1,Forte,Aucune,Parcours CRM habituel,0
+C00629,Réguliers satisfaits,apprentissage,0.1225,0,Faible,443.99,Forte,Aucune,Parcours CRM habituel,0
+C00932,Occasionnels récents,test,0.1219,0,Faible,189.3,Faible,Aucune,Parcours CRM habituel,0
+C01155,Réguliers satisfaits,apprentissage,0.1214,0,Faible,367.76,Forte,Aucune,Parcours CRM habituel,0
+C01006,Réguliers satisfaits,apprentissage,0.1208,0,Faible,430.01,Forte,Aucune,Parcours CRM habituel,0
+C01150,Nouveaux à activer,test,0.1205,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00070,Occasionnels récents,apprentissage,0.1204,0,Faible,201.1,Faible,Aucune,Parcours CRM habituel,0
+C00793,Réguliers satisfaits,apprentissage,0.1203,0,Faible,339.35,Forte,Aucune,Parcours CRM habituel,0
+C00157,Réguliers satisfaits,apprentissage,0.1202,0,Faible,358.71,Forte,Aucune,Parcours CRM habituel,0
+C00658,Réguliers satisfaits,apprentissage,0.1187,0,Faible,288.25,Forte,Aucune,Parcours CRM habituel,0
+C00260,Réguliers satisfaits,apprentissage,0.1186,0,Faible,338.26,Forte,Aucune,Parcours CRM habituel,0
+C00399,Réguliers satisfaits,apprentissage,0.1184,0,Faible,302.69,Forte,Aucune,Parcours CRM habituel,0
+C00079,Réguliers satisfaits,apprentissage,0.1181,0,Faible,456.22,Forte,Aucune,Parcours CRM habituel,0
+C01329,Réguliers satisfaits,test,0.1181,0,Faible,291.12,Forte,Aucune,Parcours CRM habituel,0
+C01137,Réguliers satisfaits,apprentissage,0.118,0,Faible,234.09,Faible,Aucune,Parcours CRM habituel,0
+C01055,Occasionnels récents,apprentissage,0.1179,0,Faible,182.97,Faible,Aucune,Parcours CRM habituel,0
+C01038,Réguliers satisfaits,apprentissage,0.1176,0,Faible,429.15,Forte,Aucune,Parcours CRM habituel,0
+C01033,Occasionnels récents,apprentissage,0.1175,0,Faible,136.47,Faible,Aucune,Parcours CRM habituel,0
+C01460,Réguliers satisfaits,test,0.1175,0,Faible,485.49,Forte,Aucune,Parcours CRM habituel,0
+C00822,Réguliers satisfaits,test,0.117,0,Faible,263.75,Forte,Aucune,Parcours CRM habituel,0
+C00213,Occasionnels récents,apprentissage,0.1169,0,Faible,161.73,Faible,Aucune,Parcours CRM habituel,0
+C00663,Occasionnels récents,apprentissage,0.1167,0,Faible,162.43,Faible,Aucune,Parcours CRM habituel,0
+C01321,Réguliers satisfaits,apprentissage,0.1161,0,Faible,509.09,Forte,Aucune,Parcours CRM habituel,0
+C01389,Occasionnels récents,test,0.116,0,Faible,56.1,Faible,Aucune,Parcours CRM habituel,0
+C00956,Nouveaux à activer,apprentissage,0.1159,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00858,Nouveaux à activer,test,0.1155,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00297,Occasionnels récents,apprentissage,0.1154,0,Faible,73.51,Faible,Aucune,Parcours CRM habituel,0
+C01094,En décrochage,test,0.1153,0,Faible,290.88,Forte,Aucune,Parcours CRM habituel,0
+C01102,Réguliers satisfaits,test,0.115,0,Faible,199.37,Faible,Aucune,Parcours CRM habituel,0
+C00516,Réguliers satisfaits,apprentissage,0.1149,0,Faible,911.94,Forte,Aucune,Parcours CRM habituel,0
+C00661,Réguliers satisfaits,apprentissage,0.1142,0,Faible,416.3,Forte,Aucune,Parcours CRM habituel,0
+C01053,Réguliers satisfaits,apprentissage,0.1139,0,Faible,302.7,Forte,Aucune,Parcours CRM habituel,0
+C01120,Nouveaux à activer,apprentissage,0.1138,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00579,Nouveaux à activer,apprentissage,0.1137,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00924,Occasionnels récents,test,0.1137,0,Faible,204.64,Faible,Aucune,Parcours CRM habituel,0
+C00852,Réguliers satisfaits,apprentissage,0.1136,0,Faible,356.62,Forte,Aucune,Parcours CRM habituel,0
+C00154,Réguliers satisfaits,apprentissage,0.1133,0,Faible,296.03,Forte,Aucune,Parcours CRM habituel,0
+C00975,Réguliers satisfaits,apprentissage,0.1133,0,Faible,307.48,Forte,Aucune,Parcours CRM habituel,0
+C00034,Réguliers satisfaits,apprentissage,0.1126,0,Faible,472.24,Forte,Aucune,Parcours CRM habituel,0
+C00385,Occasionnels récents,apprentissage,0.1122,0,Faible,160.33,Faible,Aucune,Parcours CRM habituel,0
+C01484,En décrochage,test,0.112,0,Faible,215.29,Faible,Aucune,Parcours CRM habituel,0
+C00743,Occasionnels récents,apprentissage,0.1118,0,Faible,82.49,Faible,Aucune,Parcours CRM habituel,0
+C00486,Réguliers satisfaits,apprentissage,0.1116,0,Faible,311.87,Forte,Aucune,Parcours CRM habituel,0
+C01440,Nouveaux à activer,apprentissage,0.1115,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00659,Occasionnels récents,apprentissage,0.1113,0,Faible,93.98,Faible,Aucune,Parcours CRM habituel,0
+C00984,Réguliers satisfaits,apprentissage,0.1111,0,Faible,249.04,Faible,Aucune,Parcours CRM habituel,0
+C01115,Occasionnels récents,apprentissage,0.1107,0,Faible,47.63,Faible,Aucune,Parcours CRM habituel,0
+C00843,Réguliers satisfaits,apprentissage,0.11,0,Faible,261.25,Forte,Aucune,Parcours CRM habituel,0
+C00547,Réguliers satisfaits,test,0.1087,0,Faible,427.59,Forte,Aucune,Parcours CRM habituel,0
+C00169,Réguliers satisfaits,test,0.1081,0,Faible,364.74,Forte,Aucune,Parcours CRM habituel,0
+C00330,Réguliers satisfaits,apprentissage,0.1074,0,Faible,182.3,Faible,Aucune,Parcours CRM habituel,0
+C00910,Réguliers satisfaits,apprentissage,0.1064,0,Faible,275.19,Forte,Aucune,Parcours CRM habituel,0
+C00919,Réguliers satisfaits,apprentissage,0.106,0,Faible,202.81,Faible,Aucune,Parcours CRM habituel,0
+C00254,Réguliers satisfaits,apprentissage,0.1058,0,Faible,471.07,Forte,Aucune,Parcours CRM habituel,1
+C00706,Réguliers satisfaits,apprentissage,0.1058,0,Faible,249.98,Faible,Aucune,Parcours CRM habituel,0
+C00465,Réguliers satisfaits,test,0.1053,0,Faible,486.07,Forte,Aucune,Parcours CRM habituel,0
+C01480,Réguliers satisfaits,apprentissage,0.1049,0,Faible,333.19,Forte,Aucune,Parcours CRM habituel,0
+C01424,Réguliers satisfaits,apprentissage,0.1048,0,Faible,255.49,Faible,Aucune,Parcours CRM habituel,0
+C00613,Occasionnels récents,apprentissage,0.1047,0,Faible,65.65,Faible,Aucune,Parcours CRM habituel,0
+C00233,Occasionnels récents,test,0.1044,0,Faible,67.95,Faible,Aucune,Parcours CRM habituel,1
+C00939,Nouveaux à activer,apprentissage,0.1042,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00986,Nouveaux à activer,apprentissage,0.1041,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00893,Occasionnels récents,apprentissage,0.1029,0,Faible,240.79,Faible,Aucune,Parcours CRM habituel,0
+C00477,Réguliers satisfaits,apprentissage,0.1026,0,Faible,183.88,Faible,Aucune,Parcours CRM habituel,1
+C00717,Réguliers satisfaits,apprentissage,0.1026,0,Faible,459.73,Forte,Aucune,Parcours CRM habituel,0
+C00624,En décrochage,apprentissage,0.1025,0,Faible,222.95,Faible,Aucune,Parcours CRM habituel,0
+C00847,Réguliers satisfaits,test,0.1025,0,Faible,369.52,Forte,Aucune,Parcours CRM habituel,0
+C00149,Réguliers satisfaits,apprentissage,0.1023,0,Faible,353.38,Forte,Aucune,Parcours CRM habituel,0
+C00675,Occasionnels récents,test,0.1022,0,Faible,224.41,Faible,Aucune,Parcours CRM habituel,0
+C00720,Occasionnels récents,apprentissage,0.1022,0,Faible,39.77,Faible,Aucune,Parcours CRM habituel,0
+C00977,Occasionnels récents,apprentissage,0.1022,0,Faible,93.98,Faible,Aucune,Parcours CRM habituel,0
+C01037,Occasionnels récents,apprentissage,0.1021,0,Faible,152.49,Faible,Aucune,Parcours CRM habituel,0
+C01310,Nouveaux à activer,apprentissage,0.1019,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01020,Occasionnels récents,apprentissage,0.1018,0,Faible,201.93,Faible,Aucune,Parcours CRM habituel,0
+C01380,Réguliers satisfaits,test,0.1009,0,Faible,364.05,Forte,Aucune,Parcours CRM habituel,0
+C00640,Nouveaux à activer,apprentissage,0.1004,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00202,Nouveaux à activer,test,0.0995,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00107,Réguliers satisfaits,apprentissage,0.0987,0,Faible,470.36,Forte,Aucune,Parcours CRM habituel,0
+C01336,Nouveaux à activer,test,0.0985,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00010,Réguliers satisfaits,apprentissage,0.0984,0,Faible,453.08,Forte,Aucune,Parcours CRM habituel,0
+C00360,Réguliers satisfaits,apprentissage,0.0984,0,Faible,235.79,Faible,Aucune,Parcours CRM habituel,0
+C01114,Occasionnels récents,apprentissage,0.0984,0,Faible,72.17,Faible,Aucune,Parcours CRM habituel,0
+C00585,Occasionnels récents,apprentissage,0.0983,0,Faible,63.16,Faible,Aucune,Parcours CRM habituel,0
+C00844,Réguliers satisfaits,apprentissage,0.0982,0,Faible,435.68,Forte,Aucune,Parcours CRM habituel,0
+C00737,Réguliers satisfaits,apprentissage,0.0981,0,Faible,578.78,Forte,Aucune,Parcours CRM habituel,0
+C00481,Réguliers satisfaits,apprentissage,0.098,0,Faible,322.48,Forte,Aucune,Parcours CRM habituel,0
+C00355,Réguliers satisfaits,apprentissage,0.0975,0,Faible,284.06,Forte,Aucune,Parcours CRM habituel,0
+C01222,Réguliers satisfaits,apprentissage,0.0971,0,Faible,184.93,Faible,Aucune,Parcours CRM habituel,0
+C01235,Réguliers satisfaits,apprentissage,0.0971,0,Faible,736.87,Forte,Aucune,Parcours CRM habituel,0
+C00135,Occasionnels récents,apprentissage,0.097,0,Faible,139.62,Faible,Aucune,Parcours CRM habituel,0
+C00312,Réguliers satisfaits,apprentissage,0.097,0,Faible,406.26,Forte,Aucune,Parcours CRM habituel,0
+C00933,Réguliers satisfaits,apprentissage,0.097,0,Faible,253.01,Faible,Aucune,Parcours CRM habituel,0
+C01227,En décrochage,test,0.0964,0,Faible,298.7,Forte,Aucune,Parcours CRM habituel,0
+C00625,Occasionnels récents,test,0.0963,0,Faible,144.14,Faible,Aucune,Parcours CRM habituel,0
+C00856,Réguliers satisfaits,test,0.0963,0,Faible,382.21,Forte,Aucune,Parcours CRM habituel,0
+C00472,Réguliers satisfaits,test,0.0962,0,Faible,428.38,Forte,Aucune,Parcours CRM habituel,1
+C01093,Réguliers satisfaits,apprentissage,0.0956,0,Faible,395.89,Forte,Aucune,Parcours CRM habituel,0
+C00480,Réguliers satisfaits,apprentissage,0.0951,0,Faible,555.43,Forte,Aucune,Parcours CRM habituel,0
+C00304,Réguliers satisfaits,apprentissage,0.0948,0,Faible,263.82,Forte,Aucune,Parcours CRM habituel,0
+C00002,Réguliers satisfaits,apprentissage,0.0947,0,Faible,299.16,Forte,Aucune,Parcours CRM habituel,0
+C00150,Réguliers satisfaits,apprentissage,0.0944,0,Faible,888.71,Forte,Aucune,Parcours CRM habituel,1
+C00951,Réguliers satisfaits,apprentissage,0.0942,0,Faible,323.87,Forte,Aucune,Parcours CRM habituel,0
+C01455,Réguliers satisfaits,test,0.0941,0,Faible,209.48,Faible,Aucune,Parcours CRM habituel,1
+C00116,Nouveaux à activer,apprentissage,0.0936,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,1
+C00601,Réguliers satisfaits,test,0.0936,0,Faible,339.85,Forte,Aucune,Parcours CRM habituel,0
+C01437,Réguliers satisfaits,apprentissage,0.0936,0,Faible,462.81,Forte,Aucune,Parcours CRM habituel,0
+C00782,Nouveaux à activer,apprentissage,0.0935,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01270,Réguliers satisfaits,apprentissage,0.0935,0,Faible,241.13,Faible,Aucune,Parcours CRM habituel,0
+C00278,Réguliers satisfaits,apprentissage,0.0934,0,Faible,161.98,Faible,Aucune,Parcours CRM habituel,0
+C00588,Réguliers satisfaits,apprentissage,0.0931,0,Faible,303.08,Forte,Aucune,Parcours CRM habituel,0
+C01008,Réguliers satisfaits,apprentissage,0.093,0,Faible,411.77,Forte,Aucune,Parcours CRM habituel,0
+C00669,Réguliers satisfaits,test,0.0927,0,Faible,405.31,Forte,Aucune,Parcours CRM habituel,0
+C01354,Réguliers satisfaits,apprentissage,0.0926,0,Faible,374.14,Forte,Aucune,Parcours CRM habituel,0
+C00022,Réguliers satisfaits,apprentissage,0.0924,0,Faible,315.95,Forte,Aucune,Parcours CRM habituel,0
+C01242,Réguliers satisfaits,apprentissage,0.0922,0,Faible,371.75,Forte,Aucune,Parcours CRM habituel,0
+C01385,Nouveaux à activer,apprentissage,0.0922,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00281,Réguliers satisfaits,apprentissage,0.0921,0,Faible,705.1,Forte,Aucune,Parcours CRM habituel,0
+C00536,Occasionnels récents,test,0.0919,0,Faible,199.15,Faible,Aucune,Parcours CRM habituel,0
+C00370,Occasionnels récents,apprentissage,0.0915,0,Faible,108.23,Faible,Aucune,Parcours CRM habituel,0
+C00307,Réguliers satisfaits,test,0.0913,0,Faible,384.96,Forte,Aucune,Parcours CRM habituel,0
+C01077,Réguliers satisfaits,test,0.0913,0,Faible,361.77,Forte,Aucune,Parcours CRM habituel,0
+C00468,Occasionnels récents,apprentissage,0.0912,0,Faible,55.26,Faible,Aucune,Parcours CRM habituel,0
+C00528,Nouveaux à activer,test,0.091,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,1
+C01197,Réguliers satisfaits,test,0.0908,0,Faible,525.99,Forte,Aucune,Parcours CRM habituel,0
+C00068,Réguliers satisfaits,apprentissage,0.0906,0,Faible,365.0,Forte,Aucune,Parcours CRM habituel,0
+C01208,Réguliers satisfaits,test,0.0906,0,Faible,409.9,Forte,Aucune,Parcours CRM habituel,1
+C00374,Réguliers satisfaits,apprentissage,0.0905,0,Faible,296.31,Forte,Aucune,Parcours CRM habituel,0
+C00033,Réguliers satisfaits,test,0.0899,0,Faible,312.13,Forte,Aucune,Parcours CRM habituel,0
+C00920,Réguliers satisfaits,apprentissage,0.0899,0,Faible,385.84,Forte,Aucune,Parcours CRM habituel,0
+C00744,Réguliers satisfaits,apprentissage,0.0895,0,Faible,735.53,Forte,Aucune,Parcours CRM habituel,0
+C01110,Réguliers satisfaits,apprentissage,0.0894,0,Faible,673.57,Forte,Aucune,Parcours CRM habituel,0
+C01264,Occasionnels récents,apprentissage,0.0894,0,Faible,75.25,Faible,Aucune,Parcours CRM habituel,0
+C01097,Réguliers satisfaits,apprentissage,0.0893,0,Faible,261.41,Forte,Aucune,Parcours CRM habituel,0
+C00475,Réguliers satisfaits,apprentissage,0.0892,0,Faible,575.19,Forte,Aucune,Parcours CRM habituel,0
+C01213,En décrochage,test,0.0889,0,Faible,147.22,Faible,Aucune,Parcours CRM habituel,1
+C00607,Occasionnels récents,test,0.0888,0,Faible,182.11,Faible,Aucune,Parcours CRM habituel,0
+C00438,Réguliers satisfaits,apprentissage,0.0882,0,Faible,591.74,Forte,Aucune,Parcours CRM habituel,0
+C00558,Réguliers satisfaits,test,0.088,0,Faible,379.13,Forte,Aucune,Parcours CRM habituel,1
+C00823,Réguliers satisfaits,apprentissage,0.0879,0,Faible,375.23,Forte,Aucune,Parcours CRM habituel,0
+C00224,Occasionnels récents,apprentissage,0.0878,0,Faible,85.99,Faible,Aucune,Parcours CRM habituel,0
+C00788,Occasionnels récents,test,0.0878,0,Faible,324.63,Forte,Aucune,Parcours CRM habituel,0
+C01339,Occasionnels récents,apprentissage,0.0873,0,Faible,33.33,Faible,Aucune,Parcours CRM habituel,0
+C01372,Occasionnels récents,test,0.0873,0,Faible,177.79,Faible,Aucune,Parcours CRM habituel,0
+C01010,Occasionnels récents,test,0.0872,0,Faible,172.47,Faible,Aucune,Parcours CRM habituel,0
+C00752,Occasionnels récents,test,0.087,0,Faible,146.39,Faible,Aucune,Parcours CRM habituel,0
+C00886,Occasionnels récents,apprentissage,0.087,0,Faible,182.92,Faible,Aucune,Parcours CRM habituel,0
+C01015,Réguliers satisfaits,test,0.087,0,Faible,297.32,Forte,Aucune,Parcours CRM habituel,1
+C01263,Réguliers satisfaits,test,0.0869,0,Faible,237.59,Faible,Aucune,Parcours CRM habituel,1
+C00634,Réguliers satisfaits,apprentissage,0.0867,0,Faible,314.42,Forte,Aucune,Parcours CRM habituel,0
+C00559,Réguliers satisfaits,apprentissage,0.0866,0,Faible,469.74,Forte,Aucune,Parcours CRM habituel,0
+C00396,Réguliers satisfaits,apprentissage,0.0865,0,Faible,454.26,Forte,Aucune,Parcours CRM habituel,0
+C00961,Occasionnels récents,apprentissage,0.0865,0,Faible,197.04,Faible,Aucune,Parcours CRM habituel,0
+C00687,Réguliers satisfaits,test,0.0864,0,Faible,361.36,Forte,Aucune,Parcours CRM habituel,0
+C00859,Réguliers satisfaits,test,0.0864,0,Faible,459.74,Forte,Aucune,Parcours CRM habituel,0
+C01367,Réguliers satisfaits,apprentissage,0.0861,0,Faible,362.93,Forte,Aucune,Parcours CRM habituel,0
+C01168,Réguliers satisfaits,test,0.086,0,Faible,337.57,Forte,Aucune,Parcours CRM habituel,1
+C00950,Réguliers satisfaits,apprentissage,0.0856,0,Faible,576.1,Forte,Aucune,Parcours CRM habituel,0
+C00971,En décrochage,apprentissage,0.0856,0,Faible,154.71,Faible,Aucune,Parcours CRM habituel,0
+C01173,Réguliers satisfaits,apprentissage,0.0852,0,Faible,445.56,Forte,Aucune,Parcours CRM habituel,0
+C00656,Réguliers satisfaits,apprentissage,0.0851,0,Faible,178.39,Faible,Aucune,Parcours CRM habituel,0
+C01430,Réguliers satisfaits,test,0.0851,0,Faible,319.7,Forte,Aucune,Parcours CRM habituel,0
+C01023,Nouveaux à activer,apprentissage,0.0849,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01127,Occasionnels récents,test,0.0848,0,Faible,157.87,Faible,Aucune,Parcours CRM habituel,0
+C00250,Réguliers satisfaits,apprentissage,0.0847,0,Faible,259.27,Forte,Aucune,Parcours CRM habituel,0
+C00319,Réguliers satisfaits,apprentissage,0.0844,0,Faible,713.87,Forte,Aucune,Parcours CRM habituel,0
+C00578,Occasionnels récents,test,0.0844,0,Faible,183.48,Faible,Aucune,Parcours CRM habituel,0
+C00456,Réguliers satisfaits,apprentissage,0.0842,0,Faible,240.77,Faible,Aucune,Parcours CRM habituel,0
+C00813,Nouveaux à activer,apprentissage,0.0842,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01327,Réguliers satisfaits,test,0.084,0,Faible,673.76,Forte,Aucune,Parcours CRM habituel,0
+C01256,Nouveaux à activer,apprentissage,0.0837,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01368,Réguliers satisfaits,apprentissage,0.0835,0,Faible,858.3,Forte,Aucune,Parcours CRM habituel,0
+C00690,Occasionnels récents,test,0.0833,0,Faible,128.94,Faible,Aucune,Parcours CRM habituel,0
+C00063,Occasionnels récents,apprentissage,0.0832,0,Faible,171.38,Faible,Aucune,Parcours CRM habituel,0
+C00499,Réguliers satisfaits,apprentissage,0.0831,0,Faible,306.86,Forte,Aucune,Parcours CRM habituel,0
+C01335,Occasionnels récents,test,0.083,0,Faible,72.58,Faible,Aucune,Parcours CRM habituel,0
+C00016,Occasionnels récents,apprentissage,0.0824,0,Faible,200.97,Faible,Aucune,Parcours CRM habituel,1
+C01035,Réguliers satisfaits,apprentissage,0.0822,0,Faible,446.83,Forte,Aucune,Parcours CRM habituel,0
+C00771,Occasionnels récents,apprentissage,0.082,0,Faible,165.2,Faible,Aucune,Parcours CRM habituel,0
+C00458,Réguliers satisfaits,apprentissage,0.0818,0,Faible,191.47,Faible,Aucune,Parcours CRM habituel,0
+C01193,Occasionnels récents,apprentissage,0.0817,0,Faible,86.14,Faible,Aucune,Parcours CRM habituel,0
+C00568,Fidèles premium,apprentissage,0.0816,0,Faible,1106.07,Forte,Aucune,Parcours CRM habituel,0
+C00840,Réguliers satisfaits,apprentissage,0.0815,0,Faible,523.53,Forte,Aucune,Parcours CRM habituel,0
+C01313,Réguliers satisfaits,apprentissage,0.0814,0,Faible,661.77,Forte,Aucune,Parcours CRM habituel,0
+C00724,Nouveaux à activer,apprentissage,0.0811,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00203,Réguliers satisfaits,apprentissage,0.0809,0,Faible,323.22,Forte,Aucune,Parcours CRM habituel,1
+C01381,Réguliers satisfaits,test,0.0806,0,Faible,432.93,Forte,Aucune,Parcours CRM habituel,0
+C00791,Réguliers satisfaits,apprentissage,0.0803,0,Faible,404.36,Forte,Aucune,Parcours CRM habituel,0
+C00544,Nouveaux à activer,apprentissage,0.0799,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00905,Nouveaux à activer,apprentissage,0.0799,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00596,Réguliers satisfaits,apprentissage,0.0798,0,Faible,275.48,Forte,Aucune,Parcours CRM habituel,0
+C01406,Réguliers satisfaits,test,0.0794,0,Faible,222.17,Faible,Aucune,Parcours CRM habituel,0
+C00955,Occasionnels récents,apprentissage,0.0782,0,Faible,92.18,Faible,Aucune,Parcours CRM habituel,1
+C01177,Réguliers satisfaits,apprentissage,0.078,0,Faible,395.29,Forte,Aucune,Parcours CRM habituel,0
+C01446,Réguliers satisfaits,apprentissage,0.0779,0,Faible,426.44,Forte,Aucune,Parcours CRM habituel,0
+C01487,Occasionnels récents,apprentissage,0.0775,0,Faible,50.0,Faible,Aucune,Parcours CRM habituel,1
+C00756,Réguliers satisfaits,apprentissage,0.0774,0,Faible,437.03,Forte,Aucune,Parcours CRM habituel,0
+C00860,Réguliers satisfaits,apprentissage,0.0774,0,Faible,643.25,Forte,Aucune,Parcours CRM habituel,1
+C00966,Réguliers satisfaits,test,0.0772,0,Faible,435.93,Forte,Aucune,Parcours CRM habituel,1
+C01217,Réguliers satisfaits,apprentissage,0.0772,0,Faible,254.27,Faible,Aucune,Parcours CRM habituel,0
+C01291,Réguliers satisfaits,apprentissage,0.0772,0,Faible,368.06,Forte,Aucune,Parcours CRM habituel,0
+C00038,Réguliers satisfaits,apprentissage,0.077,0,Faible,324.89,Forte,Aucune,Parcours CRM habituel,1
+C00550,Occasionnels récents,test,0.0769,0,Faible,111.9,Faible,Aucune,Parcours CRM habituel,0
+C00701,Réguliers satisfaits,apprentissage,0.0769,0,Faible,626.08,Forte,Aucune,Parcours CRM habituel,0
+C00457,Nouveaux à activer,apprentissage,0.0768,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,1
+C01328,Réguliers satisfaits,apprentissage,0.0768,0,Faible,203.0,Faible,Aucune,Parcours CRM habituel,0
+C01307,Réguliers satisfaits,apprentissage,0.0767,0,Faible,415.76,Forte,Aucune,Parcours CRM habituel,0
+C00866,Nouveaux à activer,apprentissage,0.0765,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00280,Occasionnels récents,apprentissage,0.076,0,Faible,165.31,Faible,Aucune,Parcours CRM habituel,0
+C00577,Occasionnels récents,apprentissage,0.076,0,Faible,90.04,Faible,Aucune,Parcours CRM habituel,0
+C01338,Réguliers satisfaits,apprentissage,0.076,0,Faible,717.25,Forte,Aucune,Parcours CRM habituel,0
+C01420,Occasionnels récents,test,0.0759,0,Faible,79.2,Faible,Aucune,Parcours CRM habituel,0
+C00698,Réguliers satisfaits,apprentissage,0.0758,0,Faible,244.81,Faible,Aucune,Parcours CRM habituel,0
+C00489,Réguliers satisfaits,apprentissage,0.0757,0,Faible,701.22,Forte,Aucune,Parcours CRM habituel,0
+C01273,Réguliers satisfaits,apprentissage,0.0757,0,Faible,320.71,Forte,Aucune,Parcours CRM habituel,0
+C01345,Nouveaux à activer,apprentissage,0.0755,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01397,Réguliers satisfaits,apprentissage,0.0755,0,Faible,313.36,Forte,Aucune,Parcours CRM habituel,0
+C01445,Réguliers satisfaits,apprentissage,0.0755,0,Faible,431.46,Forte,Aucune,Parcours CRM habituel,0
+C00887,Réguliers satisfaits,apprentissage,0.0754,0,Faible,444.37,Forte,Aucune,Parcours CRM habituel,0
+C01343,Réguliers satisfaits,test,0.0752,0,Faible,386.39,Forte,Aucune,Parcours CRM habituel,0
+C00382,Occasionnels récents,apprentissage,0.0751,0,Faible,112.93,Faible,Aucune,Parcours CRM habituel,0
+C00758,Nouveaux à activer,apprentissage,0.0749,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00323,Occasionnels récents,apprentissage,0.0748,0,Faible,214.46,Faible,Aucune,Parcours CRM habituel,0
+C00652,Occasionnels récents,test,0.0747,0,Faible,114.77,Faible,Aucune,Parcours CRM habituel,0
+C01075,Nouveaux à activer,apprentissage,0.0746,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01457,Réguliers satisfaits,test,0.0746,0,Faible,490.37,Forte,Aucune,Parcours CRM habituel,0
+C00347,Occasionnels récents,apprentissage,0.0745,0,Faible,197.37,Faible,Aucune,Parcours CRM habituel,0
+C01250,Occasionnels récents,apprentissage,0.0745,0,Faible,154.66,Faible,Aucune,Parcours CRM habituel,0
+C00235,Nouveaux à activer,apprentissage,0.0743,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,1
+C00816,Occasionnels récents,test,0.0741,0,Faible,169.35,Faible,Aucune,Parcours CRM habituel,0
+C00047,Réguliers satisfaits,apprentissage,0.074,0,Faible,435.98,Forte,Aucune,Parcours CRM habituel,0
+C00678,Réguliers satisfaits,apprentissage,0.0739,0,Faible,353.66,Forte,Aucune,Parcours CRM habituel,1
+C01178,Occasionnels récents,apprentissage,0.0736,0,Faible,125.78,Faible,Aucune,Parcours CRM habituel,0
+C00965,Occasionnels récents,apprentissage,0.0735,0,Faible,79.4,Faible,Aucune,Parcours CRM habituel,0
+C00714,Nouveaux à activer,apprentissage,0.0732,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01082,Nouveaux à activer,apprentissage,0.0732,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00570,Réguliers satisfaits,test,0.073,0,Faible,507.66,Forte,Aucune,Parcours CRM habituel,0
+C00729,Réguliers satisfaits,apprentissage,0.0729,0,Faible,369.84,Forte,Aucune,Parcours CRM habituel,0
+C00864,Réguliers satisfaits,test,0.0728,0,Faible,442.92,Forte,Aucune,Parcours CRM habituel,0
+C00496,Réguliers satisfaits,apprentissage,0.0726,0,Faible,649.64,Forte,Aucune,Parcours CRM habituel,0
+C01209,Réguliers satisfaits,apprentissage,0.0726,0,Faible,257.59,Faible,Aucune,Parcours CRM habituel,0
+C00876,Occasionnels récents,apprentissage,0.0725,0,Faible,97.04,Faible,Aucune,Parcours CRM habituel,0
+C00974,Occasionnels récents,apprentissage,0.0725,0,Faible,160.01,Faible,Aucune,Parcours CRM habituel,0
+C00711,Nouveaux à activer,apprentissage,0.0724,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00867,Nouveaux à activer,test,0.0724,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00705,Réguliers satisfaits,apprentissage,0.0721,0,Faible,191.26,Faible,Aucune,Parcours CRM habituel,0
+C00161,Réguliers satisfaits,apprentissage,0.072,0,Faible,821.04,Forte,Aucune,Parcours CRM habituel,0
+C00591,Occasionnels récents,apprentissage,0.072,0,Faible,149.75,Faible,Aucune,Parcours CRM habituel,0
+C01265,Réguliers satisfaits,test,0.0719,0,Faible,529.34,Forte,Aucune,Parcours CRM habituel,0
+C01301,Occasionnels récents,apprentissage,0.0719,0,Faible,163.96,Faible,Aucune,Parcours CRM habituel,0
+C00377,Occasionnels récents,apprentissage,0.0718,0,Faible,99.75,Faible,Aucune,Parcours CRM habituel,0
+C00967,Occasionnels récents,apprentissage,0.0718,0,Faible,128.15,Faible,Aucune,Parcours CRM habituel,0
+C01289,Réguliers satisfaits,test,0.0717,0,Faible,191.69,Faible,Aucune,Parcours CRM habituel,0
+C01135,Nouveaux à activer,apprentissage,0.0715,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00686,Réguliers satisfaits,apprentissage,0.0713,0,Faible,764.15,Forte,Aucune,Parcours CRM habituel,0
+C01384,Occasionnels récents,test,0.0713,0,Faible,65.2,Faible,Aucune,Parcours CRM habituel,0
+C00015,Réguliers satisfaits,test,0.0709,0,Faible,484.96,Forte,Aucune,Parcours CRM habituel,0
+C00836,Réguliers satisfaits,apprentissage,0.0709,0,Faible,622.11,Forte,Aucune,Parcours CRM habituel,0
+C01369,Réguliers satisfaits,apprentissage,0.0709,0,Faible,403.32,Forte,Aucune,Parcours CRM habituel,0
+C01403,Occasionnels récents,apprentissage,0.0709,0,Faible,155.02,Faible,Aucune,Parcours CRM habituel,0
+C01326,Nouveaux à activer,apprentissage,0.0708,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00206,Réguliers satisfaits,apprentissage,0.0707,0,Faible,608.98,Forte,Aucune,Parcours CRM habituel,0
+C00094,Réguliers satisfaits,apprentissage,0.0706,0,Faible,597.53,Forte,Aucune,Parcours CRM habituel,0
+C01269,Occasionnels récents,apprentissage,0.0706,0,Faible,113.83,Faible,Aucune,Parcours CRM habituel,0
+C00293,Occasionnels récents,apprentissage,0.0704,0,Faible,67.63,Faible,Aucune,Parcours CRM habituel,0
+C00937,Nouveaux à activer,test,0.07,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00962,Réguliers satisfaits,apprentissage,0.0697,0,Faible,287.85,Forte,Aucune,Parcours CRM habituel,0
+C00252,Occasionnels récents,test,0.0696,0,Faible,44.72,Faible,Aucune,Parcours CRM habituel,0
+C00205,Réguliers satisfaits,apprentissage,0.0694,0,Faible,661.69,Forte,Aucune,Parcours CRM habituel,0
+C01233,Réguliers satisfaits,apprentissage,0.0694,0,Faible,277.03,Forte,Aucune,Parcours CRM habituel,0
+C01312,Nouveaux à activer,apprentissage,0.0693,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00141,Réguliers satisfaits,apprentissage,0.0692,0,Faible,554.78,Forte,Aucune,Parcours CRM habituel,0
+C00636,Fidèles premium,test,0.0692,0,Faible,1782.16,Forte,Aucune,Parcours CRM habituel,0
+C00884,Occasionnels récents,test,0.0691,0,Faible,219.8,Faible,Aucune,Parcours CRM habituel,0
+C01251,Réguliers satisfaits,apprentissage,0.069,0,Faible,823.56,Forte,Aucune,Parcours CRM habituel,0
+C00011,Réguliers satisfaits,apprentissage,0.0688,0,Faible,536.38,Forte,Aucune,Parcours CRM habituel,0
+C00177,Occasionnels récents,apprentissage,0.0688,0,Faible,136.62,Faible,Aucune,Parcours CRM habituel,0
+C00359,Réguliers satisfaits,test,0.0686,0,Faible,320.5,Forte,Aucune,Parcours CRM habituel,0
+C01272,Occasionnels récents,test,0.0685,0,Faible,141.27,Faible,Aucune,Parcours CRM habituel,0
+C01422,Occasionnels récents,test,0.0685,0,Faible,217.19,Faible,Aucune,Parcours CRM habituel,0
+C00039,Réguliers satisfaits,apprentissage,0.0684,0,Faible,551.88,Forte,Aucune,Parcours CRM habituel,0
+C00904,Réguliers satisfaits,apprentissage,0.0684,0,Faible,524.78,Forte,Aucune,Parcours CRM habituel,0
+C01436,Nouveaux à activer,apprentissage,0.0684,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00731,Réguliers satisfaits,apprentissage,0.0681,0,Faible,387.36,Forte,Aucune,Parcours CRM habituel,1
+C01014,Occasionnels récents,apprentissage,0.0681,0,Faible,90.11,Faible,Aucune,Parcours CRM habituel,0
+C00497,Occasionnels récents,apprentissage,0.068,0,Faible,168.66,Faible,Aucune,Parcours CRM habituel,0
+C00133,Réguliers satisfaits,test,0.0677,0,Faible,463.6,Forte,Aucune,Parcours CRM habituel,0
+C00322,Réguliers satisfaits,test,0.0676,0,Faible,371.73,Forte,Aucune,Parcours CRM habituel,0
+C00688,Occasionnels récents,apprentissage,0.0676,0,Faible,42.47,Faible,Aucune,Parcours CRM habituel,0
+C01280,Occasionnels récents,test,0.0674,0,Faible,93.91,Faible,Aucune,Parcours CRM habituel,0
+C00405,Occasionnels récents,test,0.067,0,Faible,51.17,Faible,Aucune,Parcours CRM habituel,0
+C01279,Occasionnels récents,apprentissage,0.0669,0,Faible,140.69,Faible,Aucune,Parcours CRM habituel,0
+C01435,Réguliers satisfaits,apprentissage,0.0669,0,Faible,396.33,Forte,Aucune,Parcours CRM habituel,0
+C01138,Réguliers satisfaits,apprentissage,0.0667,0,Faible,408.58,Forte,Aucune,Parcours CRM habituel,0
+C01453,Occasionnels récents,apprentissage,0.0662,0,Faible,62.02,Faible,Aucune,Parcours CRM habituel,1
+C00811,Fidèles premium,apprentissage,0.0661,0,Faible,967.85,Forte,Aucune,Parcours CRM habituel,0
+C01229,Occasionnels récents,apprentissage,0.066,0,Faible,64.14,Faible,Aucune,Parcours CRM habituel,1
+C00127,Occasionnels récents,apprentissage,0.0659,0,Faible,350.33,Forte,Aucune,Parcours CRM habituel,0
+C01350,Réguliers satisfaits,apprentissage,0.0659,0,Faible,661.97,Forte,Aucune,Parcours CRM habituel,0
+C00123,Réguliers satisfaits,apprentissage,0.0658,0,Faible,555.29,Forte,Aucune,Parcours CRM habituel,0
+C00615,Réguliers satisfaits,apprentissage,0.0658,0,Faible,428.99,Forte,Aucune,Parcours CRM habituel,0
+C00097,Réguliers satisfaits,apprentissage,0.0657,0,Faible,575.44,Forte,Aucune,Parcours CRM habituel,0
+C00776,Occasionnels récents,test,0.0657,0,Faible,187.73,Faible,Aucune,Parcours CRM habituel,0
+C00142,Occasionnels récents,apprentissage,0.0656,0,Faible,195.73,Faible,Aucune,Parcours CRM habituel,0
+C00398,Occasionnels récents,test,0.0655,0,Faible,89.16,Faible,Aucune,Parcours CRM habituel,0
+C01388,Réguliers satisfaits,apprentissage,0.0655,0,Faible,366.97,Forte,Aucune,Parcours CRM habituel,0
+C00592,Réguliers satisfaits,apprentissage,0.0654,0,Faible,350.18,Forte,Aucune,Parcours CRM habituel,0
+C01454,Occasionnels récents,apprentissage,0.0654,0,Faible,63.23,Faible,Aucune,Parcours CRM habituel,0
+C00284,Réguliers satisfaits,apprentissage,0.0653,0,Faible,271.43,Forte,Aucune,Parcours CRM habituel,0
+C01483,Réguliers satisfaits,test,0.0652,0,Faible,369.28,Forte,Aucune,Parcours CRM habituel,0
+C01151,Réguliers satisfaits,test,0.0649,0,Faible,710.79,Forte,Aucune,Parcours CRM habituel,0
+C01375,Nouveaux à activer,test,0.0649,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00999,Occasionnels récents,apprentissage,0.0648,0,Faible,77.9,Faible,Aucune,Parcours CRM habituel,0
+C00772,Réguliers satisfaits,apprentissage,0.0646,0,Faible,344.94,Forte,Aucune,Parcours CRM habituel,0
+C00810,Occasionnels récents,apprentissage,0.0646,0,Faible,54.25,Faible,Aucune,Parcours CRM habituel,0
+C00132,Nouveaux à activer,apprentissage,0.0643,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00174,Nouveaux à activer,apprentissage,0.0642,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00502,Occasionnels récents,apprentissage,0.0641,0,Faible,112.77,Faible,Aucune,Parcours CRM habituel,0
+C00846,Occasionnels récents,apprentissage,0.0641,0,Faible,170.04,Faible,Aucune,Parcours CRM habituel,0
+C00198,Occasionnels récents,apprentissage,0.0639,0,Faible,84.56,Faible,Aucune,Parcours CRM habituel,0
+C00170,Occasionnels récents,apprentissage,0.0638,0,Faible,77.52,Faible,Aucune,Parcours CRM habituel,0
+C00953,Réguliers satisfaits,apprentissage,0.0637,0,Faible,460.3,Forte,Aucune,Parcours CRM habituel,0
+C01030,Réguliers satisfaits,test,0.0637,0,Faible,418.13,Forte,Aucune,Parcours CRM habituel,0
+C00928,Occasionnels récents,apprentissage,0.0633,0,Faible,55.75,Faible,Aucune,Parcours CRM habituel,0
+C00500,Occasionnels récents,test,0.0632,0,Faible,136.24,Faible,Aucune,Parcours CRM habituel,1
+C00605,Nouveaux à activer,apprentissage,0.0631,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00812,Fidèles premium,apprentissage,0.0631,0,Faible,1383.05,Forte,Aucune,Parcours CRM habituel,0
+C00931,Réguliers satisfaits,test,0.0631,0,Faible,446.52,Forte,Aucune,Parcours CRM habituel,0
+C00332,Réguliers satisfaits,apprentissage,0.0629,0,Faible,331.11,Forte,Aucune,Parcours CRM habituel,0
+C01404,Réguliers satisfaits,apprentissage,0.0627,0,Faible,326.53,Forte,Aucune,Parcours CRM habituel,1
+C00571,Réguliers satisfaits,apprentissage,0.0623,0,Faible,563.55,Forte,Aucune,Parcours CRM habituel,0
+C01076,Réguliers satisfaits,apprentissage,0.0622,0,Faible,322.7,Forte,Aucune,Parcours CRM habituel,0
+C01131,Nouveaux à activer,test,0.0622,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00176,Fidèles premium,test,0.0621,0,Faible,2557.7,Forte,Aucune,Parcours CRM habituel,0
+C00748,Réguliers satisfaits,apprentissage,0.0621,0,Faible,461.57,Forte,Aucune,Parcours CRM habituel,0
+C01179,Réguliers satisfaits,test,0.0621,0,Faible,375.67,Forte,Aucune,Parcours CRM habituel,0
+C00829,Nouveaux à activer,apprentissage,0.062,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01099,Occasionnels récents,apprentissage,0.0619,0,Faible,149.83,Faible,Aucune,Parcours CRM habituel,0
+C00363,Fidèles premium,apprentissage,0.0618,0,Faible,1827.13,Forte,Aucune,Parcours CRM habituel,0
+C01293,Réguliers satisfaits,apprentissage,0.0616,0,Faible,459.69,Forte,Aucune,Parcours CRM habituel,0
+C01218,Occasionnels récents,apprentissage,0.0615,0,Faible,150.8,Faible,Aucune,Parcours CRM habituel,0
+C00830,Occasionnels récents,apprentissage,0.0614,0,Faible,133.85,Faible,Aucune,Parcours CRM habituel,0
+C01031,Réguliers satisfaits,test,0.0611,0,Faible,459.72,Forte,Aucune,Parcours CRM habituel,0
+C00121,Réguliers satisfaits,apprentissage,0.0608,0,Faible,314.49,Forte,Aucune,Parcours CRM habituel,0
+C01414,Occasionnels récents,test,0.0607,0,Faible,67.75,Faible,Aucune,Parcours CRM habituel,1
+C00181,Occasionnels récents,test,0.0606,0,Faible,87.18,Faible,Aucune,Parcours CRM habituel,0
+C00888,Fidèles premium,test,0.0606,0,Faible,1317.29,Forte,Aucune,Parcours CRM habituel,0
+C01049,Occasionnels récents,apprentissage,0.0604,0,Faible,88.39,Faible,Aucune,Parcours CRM habituel,0
+C01191,Occasionnels récents,apprentissage,0.0603,0,Faible,167.88,Faible,Aucune,Parcours CRM habituel,0
+C00221,Réguliers satisfaits,test,0.0602,0,Faible,549.41,Forte,Aucune,Parcours CRM habituel,0
+C01344,Réguliers satisfaits,apprentissage,0.0601,0,Faible,486.9,Forte,Aucune,Parcours CRM habituel,1
+C01277,Réguliers satisfaits,apprentissage,0.06,0,Faible,569.04,Forte,Aucune,Parcours CRM habituel,0
+C01083,Nouveaux à activer,apprentissage,0.0599,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00334,Occasionnels récents,apprentissage,0.0597,0,Faible,86.55,Faible,Aucune,Parcours CRM habituel,0
+C00393,Occasionnels récents,apprentissage,0.0597,0,Faible,141.38,Faible,Aucune,Parcours CRM habituel,0
+C01238,Réguliers satisfaits,apprentissage,0.0597,0,Faible,356.76,Forte,Aucune,Parcours CRM habituel,0
+C00420,Occasionnels récents,apprentissage,0.0594,0,Faible,59.55,Faible,Aucune,Parcours CRM habituel,0
+C01081,Réguliers satisfaits,test,0.0594,0,Faible,468.34,Forte,Aucune,Parcours CRM habituel,0
+C01117,Fidèles premium,apprentissage,0.0593,0,Faible,2408.96,Forte,Aucune,Parcours CRM habituel,0
+C00507,Réguliers satisfaits,apprentissage,0.0592,0,Faible,525.18,Forte,Aucune,Parcours CRM habituel,1
+C01333,Réguliers satisfaits,apprentissage,0.0592,0,Faible,532.48,Forte,Aucune,Parcours CRM habituel,0
+C00344,Réguliers satisfaits,test,0.0591,0,Faible,544.03,Forte,Aucune,Parcours CRM habituel,0
+C01034,Occasionnels récents,apprentissage,0.0591,0,Faible,43.33,Faible,Aucune,Parcours CRM habituel,0
+C01195,Nouveaux à activer,apprentissage,0.059,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00292,Réguliers satisfaits,test,0.0589,0,Faible,832.79,Forte,Aucune,Parcours CRM habituel,0
+C00873,Occasionnels récents,apprentissage,0.0589,0,Faible,171.45,Faible,Aucune,Parcours CRM habituel,0
+C01497,Occasionnels récents,apprentissage,0.0589,0,Faible,147.93,Faible,Aucune,Parcours CRM habituel,0
+C00445,Réguliers satisfaits,apprentissage,0.0588,0,Faible,472.71,Forte,Aucune,Parcours CRM habituel,0
+C00537,Réguliers satisfaits,apprentissage,0.0588,0,Faible,544.4,Forte,Aucune,Parcours CRM habituel,0
+C00573,Réguliers satisfaits,apprentissage,0.0585,0,Faible,565.34,Forte,Aucune,Parcours CRM habituel,0
+C00913,Nouveaux à activer,test,0.0585,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01214,Réguliers satisfaits,test,0.0585,0,Faible,532.97,Forte,Aucune,Parcours CRM habituel,0
+C00320,Occasionnels récents,apprentissage,0.0583,0,Faible,139.28,Faible,Aucune,Parcours CRM habituel,0
+C00406,Occasionnels récents,apprentissage,0.0583,0,Faible,187.7,Faible,Aucune,Parcours CRM habituel,0
+C00431,Occasionnels récents,apprentissage,0.0581,0,Faible,99.21,Faible,Aucune,Parcours CRM habituel,0
+C01194,Occasionnels récents,apprentissage,0.0581,0,Faible,68.44,Faible,Aucune,Parcours CRM habituel,1
+C01249,Nouveaux à activer,apprentissage,0.0581,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01297,Réguliers satisfaits,test,0.0579,0,Faible,941.48,Forte,Aucune,Parcours CRM habituel,0
+C01464,Réguliers satisfaits,apprentissage,0.0579,0,Faible,254.47,Faible,Aucune,Parcours CRM habituel,0
+C00390,Nouveaux à activer,apprentissage,0.0577,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00691,Occasionnels récents,apprentissage,0.0575,0,Faible,242.53,Faible,Aucune,Parcours CRM habituel,0
+C01058,Réguliers satisfaits,apprentissage,0.0575,0,Faible,596.63,Forte,Aucune,Parcours CRM habituel,0
+C00110,Nouveaux à activer,apprentissage,0.0574,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00781,Occasionnels récents,apprentissage,0.0573,0,Faible,162.52,Faible,Aucune,Parcours CRM habituel,0
+C00076,Réguliers satisfaits,test,0.0572,0,Faible,633.61,Forte,Aucune,Parcours CRM habituel,0
+C00850,Nouveaux à activer,apprentissage,0.0572,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01271,Nouveaux à activer,apprentissage,0.0572,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00108,Réguliers satisfaits,apprentissage,0.0571,0,Faible,355.62,Forte,Aucune,Parcours CRM habituel,0
+C01180,Réguliers satisfaits,apprentissage,0.0571,0,Faible,529.84,Forte,Aucune,Parcours CRM habituel,0
+C00191,Occasionnels récents,apprentissage,0.057,0,Faible,49.92,Faible,Aucune,Parcours CRM habituel,0
+C01003,Réguliers satisfaits,apprentissage,0.057,0,Faible,877.96,Forte,Aucune,Parcours CRM habituel,0
+C00124,Occasionnels récents,apprentissage,0.0569,0,Faible,223.3,Faible,Aucune,Parcours CRM habituel,0
+C00980,Réguliers satisfaits,apprentissage,0.0569,0,Faible,565.5,Forte,Aucune,Parcours CRM habituel,0
+C00673,Occasionnels récents,apprentissage,0.0565,0,Faible,96.97,Faible,Aucune,Parcours CRM habituel,1
+C01409,Nouveaux à activer,test,0.0565,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01237,Réguliers satisfaits,apprentissage,0.0564,0,Faible,394.38,Forte,Aucune,Parcours CRM habituel,0
+C01441,Réguliers satisfaits,apprentissage,0.0564,0,Faible,257.08,Faible,Aucune,Parcours CRM habituel,0
+C00662,Occasionnels récents,apprentissage,0.0561,0,Faible,64.28,Faible,Aucune,Parcours CRM habituel,0
+C00410,Occasionnels récents,apprentissage,0.056,0,Faible,103.95,Faible,Aucune,Parcours CRM habituel,0
+C00704,Occasionnels récents,apprentissage,0.0559,0,Faible,117.55,Faible,Aucune,Parcours CRM habituel,0
+C01447,Occasionnels récents,apprentissage,0.0559,0,Faible,186.11,Faible,Aucune,Parcours CRM habituel,0
+C01050,Réguliers satisfaits,test,0.0557,0,Faible,404.41,Forte,Aucune,Parcours CRM habituel,0
+C01065,Réguliers satisfaits,test,0.0556,0,Faible,379.67,Forte,Aucune,Parcours CRM habituel,0
+C00111,Réguliers satisfaits,apprentissage,0.0554,0,Faible,436.4,Forte,Aucune,Parcours CRM habituel,0
+C00137,Occasionnels récents,apprentissage,0.0554,0,Faible,65.82,Faible,Aucune,Parcours CRM habituel,0
+C00901,Réguliers satisfaits,test,0.0554,0,Faible,241.44,Faible,Aucune,Parcours CRM habituel,0
+C01320,Nouveaux à activer,apprentissage,0.055,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00026,Réguliers satisfaits,apprentissage,0.0549,0,Faible,537.97,Forte,Aucune,Parcours CRM habituel,0
+C00147,Réguliers satisfaits,apprentissage,0.0548,0,Faible,502.43,Forte,Aucune,Parcours CRM habituel,0
+C01348,Occasionnels récents,apprentissage,0.0548,0,Faible,351.42,Forte,Aucune,Parcours CRM habituel,0
+C01205,Fidèles premium,apprentissage,0.0546,0,Faible,1565.59,Forte,Aucune,Parcours CRM habituel,0
+C01019,Réguliers satisfaits,test,0.0544,0,Faible,1086.55,Forte,Aucune,Parcours CRM habituel,0
+C01370,Réguliers satisfaits,test,0.0543,0,Faible,483.8,Forte,Aucune,Parcours CRM habituel,0
+C00561,Réguliers satisfaits,test,0.0542,0,Faible,592.57,Forte,Aucune,Parcours CRM habituel,0
+C00197,Réguliers satisfaits,test,0.0541,0,Faible,223.77,Faible,Aucune,Parcours CRM habituel,0
+C00511,Réguliers satisfaits,apprentissage,0.0541,0,Faible,840.0,Forte,Aucune,Parcours CRM habituel,0
+C01499,Réguliers satisfaits,test,0.0541,0,Faible,354.56,Forte,Aucune,Parcours CRM habituel,0
+C00305,Occasionnels récents,apprentissage,0.054,0,Faible,71.74,Faible,Aucune,Parcours CRM habituel,0
+C00303,Réguliers satisfaits,apprentissage,0.0538,0,Faible,365.97,Forte,Aucune,Parcours CRM habituel,0
+C00454,Réguliers satisfaits,apprentissage,0.0537,0,Faible,897.05,Forte,Aucune,Parcours CRM habituel,0
+C01027,Nouveaux à activer,test,0.0534,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00628,Réguliers satisfaits,apprentissage,0.0532,0,Faible,968.26,Forte,Aucune,Parcours CRM habituel,0
+C01071,Nouveaux à activer,apprentissage,0.0532,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00178,Occasionnels récents,apprentissage,0.0531,0,Faible,113.02,Faible,Aucune,Parcours CRM habituel,0
+C01232,Réguliers satisfaits,apprentissage,0.0531,0,Faible,285.16,Forte,Aucune,Parcours CRM habituel,1
+C01067,Occasionnels récents,apprentissage,0.0529,0,Faible,106.31,Faible,Aucune,Parcours CRM habituel,0
+C01402,Réguliers satisfaits,test,0.0529,0,Faible,747.52,Forte,Aucune,Parcours CRM habituel,0
+C00148,Réguliers satisfaits,apprentissage,0.0528,0,Faible,533.79,Forte,Aucune,Parcours CRM habituel,0
+C00795,Réguliers satisfaits,apprentissage,0.0527,0,Faible,916.59,Forte,Aucune,Parcours CRM habituel,0
+C00340,Occasionnels récents,apprentissage,0.0524,0,Faible,137.42,Faible,Aucune,Parcours CRM habituel,0
+C00366,Réguliers satisfaits,apprentissage,0.0524,0,Faible,596.97,Forte,Aucune,Parcours CRM habituel,0
+C00515,Réguliers satisfaits,test,0.052,0,Faible,510.61,Forte,Aucune,Parcours CRM habituel,0
+C00849,Réguliers satisfaits,apprentissage,0.0519,0,Faible,827.74,Forte,Aucune,Parcours CRM habituel,0
+C01080,Réguliers satisfaits,test,0.0519,0,Faible,409.95,Forte,Aucune,Parcours CRM habituel,0
+C01468,Réguliers satisfaits,apprentissage,0.0519,0,Faible,608.9,Forte,Aucune,Parcours CRM habituel,0
+C01145,Réguliers satisfaits,apprentissage,0.0516,0,Faible,420.32,Forte,Aucune,Parcours CRM habituel,0
+C01223,Occasionnels récents,apprentissage,0.0516,0,Faible,68.24,Faible,Aucune,Parcours CRM habituel,0
+C00101,Nouveaux à activer,apprentissage,0.0515,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00576,Réguliers satisfaits,test,0.0513,0,Faible,569.5,Forte,Aucune,Parcours CRM habituel,0
+C00179,Occasionnels récents,apprentissage,0.0512,0,Faible,66.49,Faible,Aucune,Parcours CRM habituel,0
+C01246,Occasionnels récents,apprentissage,0.0511,0,Faible,187.56,Faible,Aucune,Parcours CRM habituel,0
+C00067,Occasionnels récents,apprentissage,0.0505,0,Faible,204.35,Faible,Aucune,Parcours CRM habituel,0
+C01220,Fidèles premium,apprentissage,0.0505,0,Faible,1705.04,Forte,Aucune,Parcours CRM habituel,0
+C00288,Réguliers satisfaits,apprentissage,0.0504,0,Faible,353.63,Forte,Aucune,Parcours CRM habituel,0
+C00003,Occasionnels récents,test,0.0503,0,Faible,150.63,Faible,Aucune,Parcours CRM habituel,0
+C00339,Fidèles premium,apprentissage,0.0503,0,Faible,1501.68,Forte,Aucune,Parcours CRM habituel,0
+C01007,Occasionnels récents,apprentissage,0.0503,0,Faible,166.86,Faible,Aucune,Parcours CRM habituel,0
+C00620,Réguliers satisfaits,apprentissage,0.0502,0,Faible,660.83,Forte,Aucune,Parcours CRM habituel,0
+C01459,Occasionnels récents,apprentissage,0.0501,0,Faible,124.48,Faible,Aucune,Parcours CRM habituel,1
+C00503,Nouveaux à activer,apprentissage,0.0499,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00190,Réguliers satisfaits,apprentissage,0.0497,0,Faible,634.73,Forte,Aucune,Parcours CRM habituel,0
+C00226,Nouveaux à activer,apprentissage,0.0496,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00918,Réguliers satisfaits,test,0.0496,0,Faible,647.52,Forte,Aucune,Parcours CRM habituel,0
+C01419,Occasionnels récents,apprentissage,0.0496,0,Faible,152.77,Faible,Aucune,Parcours CRM habituel,1
+C01475,Réguliers satisfaits,apprentissage,0.0496,0,Faible,594.57,Forte,Aucune,Parcours CRM habituel,0
+C01340,Réguliers satisfaits,test,0.0495,0,Faible,418.31,Forte,Aucune,Parcours CRM habituel,0
+C00268,Fidèles premium,apprentissage,0.0494,0,Faible,1721.03,Forte,Aucune,Parcours CRM habituel,0
+C01241,Occasionnels récents,apprentissage,0.0494,0,Faible,82.84,Faible,Aucune,Parcours CRM habituel,0
+C01391,Occasionnels récents,apprentissage,0.0493,0,Faible,153.78,Faible,Aucune,Parcours CRM habituel,0
+C00722,Occasionnels récents,apprentissage,0.0491,0,Faible,186.31,Faible,Aucune,Parcours CRM habituel,0
+C00792,Réguliers satisfaits,apprentissage,0.0491,0,Faible,287.78,Forte,Aucune,Parcours CRM habituel,1
+C00253,Occasionnels récents,test,0.049,0,Faible,296.09,Forte,Aucune,Parcours CRM habituel,0
+C00970,Réguliers satisfaits,test,0.049,0,Faible,679.5,Forte,Aucune,Parcours CRM habituel,0
+C01349,Réguliers satisfaits,test,0.049,0,Faible,643.69,Forte,Aucune,Parcours CRM habituel,0
+C00072,Occasionnels récents,apprentissage,0.0488,0,Faible,252.07,Faible,Aucune,Parcours CRM habituel,0
+C00113,Réguliers satisfaits,apprentissage,0.0488,0,Faible,289.6,Forte,Aucune,Parcours CRM habituel,0
+C00309,Réguliers satisfaits,apprentissage,0.0488,0,Faible,589.43,Forte,Aucune,Parcours CRM habituel,0
+C00796,Réguliers satisfaits,apprentissage,0.0488,0,Faible,262.61,Forte,Aucune,Parcours CRM habituel,0
+C01294,Occasionnels récents,test,0.0488,0,Faible,144.17,Faible,Aucune,Parcours CRM habituel,0
+C00603,Occasionnels récents,apprentissage,0.0487,0,Faible,49.01,Faible,Aucune,Parcours CRM habituel,0
+C01476,Réguliers satisfaits,apprentissage,0.0487,0,Faible,652.9,Forte,Aucune,Parcours CRM habituel,0
+C00163,Occasionnels récents,test,0.0486,0,Faible,156.39,Faible,Aucune,Parcours CRM habituel,0
+C00075,Fidèles premium,test,0.0485,0,Faible,1268.09,Forte,Aucune,Parcours CRM habituel,0
+C00981,Occasionnels récents,apprentissage,0.0485,0,Faible,133.29,Faible,Aucune,Parcours CRM habituel,0
+C00546,Réguliers satisfaits,apprentissage,0.0484,0,Faible,491.75,Forte,Aucune,Parcours CRM habituel,0
+C00316,Réguliers satisfaits,apprentissage,0.0483,0,Faible,405.16,Forte,Aucune,Parcours CRM habituel,0
+C01187,Réguliers satisfaits,apprentissage,0.0483,0,Faible,519.32,Forte,Aucune,Parcours CRM habituel,0
+C00192,Réguliers satisfaits,test,0.0482,0,Faible,331.66,Forte,Aucune,Parcours CRM habituel,0
+C01159,Réguliers satisfaits,apprentissage,0.0482,0,Faible,212.26,Faible,Aucune,Parcours CRM habituel,0
+C00171,Réguliers satisfaits,apprentissage,0.0481,0,Faible,218.92,Faible,Aucune,Parcours CRM habituel,0
+C00519,Fidèles premium,test,0.0481,0,Faible,1514.72,Forte,Aucune,Parcours CRM habituel,0
+C00780,Nouveaux à activer,apprentissage,0.0481,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00883,Occasionnels récents,test,0.048,0,Faible,140.61,Faible,Aucune,Parcours CRM habituel,0
+C00700,Réguliers satisfaits,apprentissage,0.0479,0,Faible,230.41,Faible,Aucune,Parcours CRM habituel,0
+C00769,Réguliers satisfaits,test,0.0477,0,Faible,667.92,Forte,Aucune,Parcours CRM habituel,0
+C00709,Réguliers satisfaits,apprentissage,0.0474,0,Faible,305.3,Forte,Aucune,Parcours CRM habituel,0
+C00838,Occasionnels récents,test,0.0474,0,Faible,136.07,Faible,Aucune,Parcours CRM habituel,0
+C01239,Fidèles premium,apprentissage,0.0471,0,Faible,1364.98,Forte,Aucune,Parcours CRM habituel,0
+C00817,Occasionnels récents,test,0.047,0,Faible,62.02,Faible,Aucune,Parcours CRM habituel,0
+C01260,Nouveaux à activer,apprentissage,0.047,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00504,Réguliers satisfaits,apprentissage,0.0468,0,Faible,525.65,Forte,Aucune,Parcours CRM habituel,0
+C01231,Réguliers satisfaits,apprentissage,0.0467,0,Faible,405.93,Forte,Aucune,Parcours CRM habituel,0
+C01472,Réguliers satisfaits,test,0.0466,0,Faible,329.92,Forte,Aucune,Parcours CRM habituel,0
+C01489,Occasionnels récents,apprentissage,0.0466,0,Faible,121.55,Faible,Aucune,Parcours CRM habituel,0
+C01052,Fidèles premium,apprentissage,0.0464,0,Faible,1174.19,Forte,Aucune,Parcours CRM habituel,1
+C00103,Occasionnels récents,apprentissage,0.0461,0,Faible,163.39,Faible,Aucune,Parcours CRM habituel,0
+C01318,Fidèles premium,test,0.0459,0,Faible,965.32,Forte,Aucune,Parcours CRM habituel,0
+C00400,Réguliers satisfaits,apprentissage,0.0458,0,Faible,441.61,Forte,Aucune,Parcours CRM habituel,0
+C00682,Réguliers satisfaits,apprentissage,0.0458,0,Faible,338.97,Forte,Aucune,Parcours CRM habituel,0
+C00471,Réguliers satisfaits,test,0.0457,0,Faible,424.76,Forte,Aucune,Parcours CRM habituel,0
+C00575,Occasionnels récents,test,0.0457,0,Faible,149.8,Faible,Aucune,Parcours CRM habituel,0
+C00668,Occasionnels récents,apprentissage,0.0457,0,Faible,119.2,Faible,Aucune,Parcours CRM habituel,0
+C00243,Réguliers satisfaits,apprentissage,0.0456,0,Faible,211.39,Faible,Aucune,Parcours CRM habituel,0
+C00631,Occasionnels récents,test,0.0456,0,Faible,94.74,Faible,Aucune,Parcours CRM habituel,0
+C00764,Réguliers satisfaits,apprentissage,0.0455,0,Faible,864.15,Forte,Aucune,Parcours CRM habituel,0
+C00610,Réguliers satisfaits,apprentissage,0.0454,0,Faible,329.02,Forte,Aucune,Parcours CRM habituel,0
+C01133,Réguliers satisfaits,apprentissage,0.0454,0,Faible,671.21,Forte,Aucune,Parcours CRM habituel,0
+C01149,Réguliers satisfaits,apprentissage,0.0452,0,Faible,563.08,Forte,Aucune,Parcours CRM habituel,0
+C00129,Occasionnels récents,test,0.0451,0,Faible,640.73,Forte,Aucune,Parcours CRM habituel,0
+C01286,Occasionnels récents,test,0.0451,0,Faible,58.41,Faible,Aucune,Parcours CRM habituel,0
+C01248,Réguliers satisfaits,apprentissage,0.045,0,Faible,563.62,Forte,Aucune,Parcours CRM habituel,0
+C00388,Occasionnels récents,apprentissage,0.0449,0,Faible,61.26,Faible,Aucune,Parcours CRM habituel,0
+C00765,Occasionnels récents,apprentissage,0.0449,0,Faible,70.18,Faible,Aucune,Parcours CRM habituel,0
+C00416,Réguliers satisfaits,apprentissage,0.0448,0,Faible,545.21,Forte,Aucune,Parcours CRM habituel,0
+C00702,Réguliers satisfaits,apprentissage,0.0448,0,Faible,386.28,Forte,Aucune,Parcours CRM habituel,0
+C00963,Réguliers satisfaits,apprentissage,0.0448,0,Faible,760.9,Forte,Aucune,Parcours CRM habituel,0
+C01268,Occasionnels récents,apprentissage,0.0446,0,Faible,113.21,Faible,Aucune,Parcours CRM habituel,0
+C00409,Réguliers satisfaits,apprentissage,0.0445,0,Faible,727.87,Forte,Aucune,Parcours CRM habituel,0
+C01161,Fidèles premium,test,0.0445,0,Faible,1364.68,Forte,Aucune,Parcours CRM habituel,0
+C00294,Réguliers satisfaits,apprentissage,0.0442,0,Faible,606.01,Forte,Aucune,Parcours CRM habituel,0
+C00785,Occasionnels récents,apprentissage,0.044,0,Faible,76.82,Faible,Aucune,Parcours CRM habituel,0
+C00881,Réguliers satisfaits,apprentissage,0.044,0,Faible,443.88,Forte,Aucune,Parcours CRM habituel,0
+C01057,Occasionnels récents,apprentissage,0.044,0,Faible,44.24,Faible,Aucune,Parcours CRM habituel,0
+C01066,Occasionnels récents,apprentissage,0.0439,0,Faible,70.21,Faible,Aucune,Parcours CRM habituel,0
+C00680,Réguliers satisfaits,test,0.0438,0,Faible,411.79,Forte,Aucune,Parcours CRM habituel,0
+C00783,Réguliers satisfaits,apprentissage,0.0438,0,Faible,387.1,Forte,Aucune,Parcours CRM habituel,0
+C00526,Réguliers satisfaits,apprentissage,0.0432,0,Faible,395.13,Forte,Aucune,Parcours CRM habituel,0
+C01439,Occasionnels récents,apprentissage,0.0432,0,Faible,154.57,Faible,Aucune,Parcours CRM habituel,0
+C00276,Réguliers satisfaits,test,0.0429,0,Faible,433.87,Forte,Aucune,Parcours CRM habituel,0
+C00960,Réguliers satisfaits,apprentissage,0.0426,0,Faible,247.31,Faible,Aucune,Parcours CRM habituel,0
+C00100,Occasionnels récents,apprentissage,0.0425,0,Faible,65.66,Faible,Aucune,Parcours CRM habituel,0
+C00979,Réguliers satisfaits,apprentissage,0.0425,0,Faible,299.37,Forte,Aucune,Parcours CRM habituel,0
+C00200,Occasionnels récents,apprentissage,0.0423,0,Faible,161.87,Faible,Aucune,Parcours CRM habituel,0
+C00692,Occasionnels récents,apprentissage,0.0423,0,Faible,52.17,Faible,Aucune,Parcours CRM habituel,0
+C01045,Fidèles premium,apprentissage,0.0423,0,Faible,1430.49,Forte,Aucune,Parcours CRM habituel,0
+C01300,Occasionnels récents,apprentissage,0.0423,0,Faible,246.18,Faible,Aucune,Parcours CRM habituel,0
+C01357,Réguliers satisfaits,apprentissage,0.042,0,Faible,301.24,Forte,Aucune,Parcours CRM habituel,0
+C00306,Réguliers satisfaits,apprentissage,0.0418,0,Faible,496.98,Forte,Aucune,Parcours CRM habituel,0
+C00943,Réguliers satisfaits,apprentissage,0.0418,0,Faible,1031.99,Forte,Aucune,Parcours CRM habituel,0
+C00093,Réguliers satisfaits,apprentissage,0.0416,0,Faible,453.1,Forte,Aucune,Parcours CRM habituel,0
+C00184,Réguliers satisfaits,apprentissage,0.0416,0,Faible,457.59,Forte,Aucune,Parcours CRM habituel,0
+C01074,Occasionnels récents,apprentissage,0.0416,0,Faible,136.43,Faible,Aucune,Parcours CRM habituel,0
+C01276,Réguliers satisfaits,apprentissage,0.0416,0,Faible,448.81,Forte,Aucune,Parcours CRM habituel,0
+C00885,Occasionnels récents,apprentissage,0.0415,0,Faible,175.98,Faible,Aucune,Parcours CRM habituel,0
+C00753,Réguliers satisfaits,apprentissage,0.0414,0,Faible,564.4,Forte,Aucune,Parcours CRM habituel,0
+C00296,Occasionnels récents,apprentissage,0.0413,0,Faible,150.07,Faible,Aucune,Parcours CRM habituel,0
+C00841,Fidèles premium,apprentissage,0.0411,0,Faible,1913.45,Forte,Aucune,Parcours CRM habituel,0
+C01216,Réguliers satisfaits,apprentissage,0.0411,0,Faible,541.36,Forte,Aucune,Parcours CRM habituel,0
+C01431,Occasionnels récents,apprentissage,0.0411,0,Faible,63.67,Faible,Aucune,Parcours CRM habituel,0
+C00912,Occasionnels récents,apprentissage,0.041,0,Faible,76.69,Faible,Aucune,Parcours CRM habituel,1
+C00949,Occasionnels récents,apprentissage,0.041,0,Faible,164.22,Faible,Aucune,Parcours CRM habituel,0
+C00554,Occasionnels récents,apprentissage,0.0409,0,Faible,191.32,Faible,Aucune,Parcours CRM habituel,0
+C00740,Réguliers satisfaits,apprentissage,0.0409,0,Faible,419.63,Forte,Aucune,Parcours CRM habituel,0
+C01285,Occasionnels récents,apprentissage,0.0409,0,Faible,79.88,Faible,Aucune,Parcours CRM habituel,0
+C00219,Nouveaux à activer,apprentissage,0.0408,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01188,Occasionnels récents,apprentissage,0.0408,0,Faible,130.21,Faible,Aucune,Parcours CRM habituel,0
+C00311,Réguliers satisfaits,test,0.0407,0,Faible,476.04,Forte,Aucune,Parcours CRM habituel,0
+C00522,Occasionnels récents,test,0.0406,0,Faible,304.95,Forte,Aucune,Parcours CRM habituel,0
+C00676,Réguliers satisfaits,apprentissage,0.0406,0,Faible,373.53,Forte,Aucune,Parcours CRM habituel,0
+C00441,Occasionnels récents,test,0.0405,0,Faible,154.39,Faible,Aucune,Parcours CRM habituel,1
+C01306,Occasionnels récents,apprentissage,0.0405,0,Faible,74.68,Faible,Aucune,Parcours CRM habituel,0
+C00725,Fidèles premium,apprentissage,0.0404,0,Faible,1699.42,Forte,Aucune,Parcours CRM habituel,0
+C00611,Réguliers satisfaits,apprentissage,0.0403,0,Faible,433.9,Forte,Aucune,Parcours CRM habituel,0
+C00436,Réguliers satisfaits,apprentissage,0.0401,0,Faible,315.77,Forte,Aucune,Parcours CRM habituel,0
+C01184,Réguliers satisfaits,apprentissage,0.0401,0,Faible,783.99,Forte,Aucune,Parcours CRM habituel,0
+C00209,Fidèles premium,apprentissage,0.0399,0,Faible,1374.77,Forte,Aucune,Parcours CRM habituel,0
+C01070,Réguliers satisfaits,apprentissage,0.0399,0,Faible,269.63,Forte,Aucune,Parcours CRM habituel,0
+C01462,Réguliers satisfaits,test,0.0398,0,Faible,381.23,Forte,Aucune,Parcours CRM habituel,0
+C00073,Occasionnels récents,apprentissage,0.0396,0,Faible,46.96,Faible,Aucune,Parcours CRM habituel,0
+C00757,Occasionnels récents,apprentissage,0.0396,0,Faible,156.27,Faible,Aucune,Parcours CRM habituel,0
+C01109,Occasionnels récents,test,0.0396,0,Faible,99.86,Faible,Aucune,Parcours CRM habituel,0
+C00679,Fidèles premium,apprentissage,0.0395,0,Faible,810.56,Forte,Aucune,Parcours CRM habituel,0
+C00321,Occasionnels récents,apprentissage,0.0393,0,Faible,97.47,Faible,Aucune,Parcours CRM habituel,0
+C00915,Occasionnels récents,test,0.0393,0,Faible,56.06,Faible,Aucune,Parcours CRM habituel,0
+C01412,Occasionnels récents,apprentissage,0.0393,0,Faible,124.67,Faible,Aucune,Parcours CRM habituel,0
+C00900,Occasionnels récents,apprentissage,0.0392,0,Faible,180.36,Faible,Aucune,Parcours CRM habituel,0
+C01426,Réguliers satisfaits,apprentissage,0.0392,0,Faible,391.37,Forte,Aucune,Parcours CRM habituel,0
+C00050,Réguliers satisfaits,apprentissage,0.0389,0,Faible,922.58,Forte,Aucune,Parcours CRM habituel,0
+C00514,Réguliers satisfaits,apprentissage,0.0389,0,Faible,369.47,Forte,Aucune,Parcours CRM habituel,0
+C01438,Réguliers satisfaits,apprentissage,0.0389,0,Faible,458.68,Forte,Aucune,Parcours CRM habituel,0
+C00556,Réguliers satisfaits,test,0.0388,0,Faible,599.8,Forte,Aucune,Parcours CRM habituel,0
+C01262,Réguliers satisfaits,apprentissage,0.0388,0,Faible,476.92,Forte,Aucune,Parcours CRM habituel,0
+C00914,Occasionnels récents,apprentissage,0.0387,0,Faible,69.35,Faible,Aucune,Parcours CRM habituel,0
+C00853,Occasionnels récents,apprentissage,0.0386,0,Faible,93.43,Faible,Aucune,Parcours CRM habituel,1
+C00854,Nouveaux à activer,test,0.0384,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C00193,Fidèles premium,apprentissage,0.0382,0,Faible,2026.92,Forte,Aucune,Parcours CRM habituel,0
+C00541,Occasionnels récents,test,0.0382,0,Faible,129.13,Faible,Aucune,Parcours CRM habituel,0
+C01378,Occasionnels récents,apprentissage,0.038,0,Faible,110.98,Faible,Aucune,Parcours CRM habituel,0
+C00165,Réguliers satisfaits,test,0.0378,0,Faible,432.57,Forte,Aucune,Parcours CRM habituel,0
+C00335,Fidèles premium,apprentissage,0.0378,0,Faible,1573.67,Forte,Aucune,Parcours CRM habituel,0
+C00028,Fidèles premium,apprentissage,0.0377,0,Faible,2129.16,Forte,Aucune,Parcours CRM habituel,0
+C00361,Occasionnels récents,test,0.0377,0,Faible,175.97,Faible,Aucune,Parcours CRM habituel,0
+C00249,Occasionnels récents,test,0.0376,0,Faible,193.08,Faible,Aucune,Parcours CRM habituel,0
+C00987,Réguliers satisfaits,test,0.0375,0,Faible,370.15,Forte,Aucune,Parcours CRM habituel,0
+C01046,Réguliers satisfaits,test,0.0375,0,Faible,395.14,Forte,Aucune,Parcours CRM habituel,0
+C00413,Fidèles premium,apprentissage,0.0374,0,Faible,1208.2,Forte,Aucune,Parcours CRM habituel,0
+C00138,Occasionnels récents,apprentissage,0.0373,0,Faible,188.21,Faible,Aucune,Parcours CRM habituel,0
+C00945,Réguliers satisfaits,test,0.0373,0,Faible,634.85,Forte,Aucune,Parcours CRM habituel,0
+C00562,Réguliers satisfaits,apprentissage,0.0371,0,Faible,303.72,Forte,Aucune,Parcours CRM habituel,0
+C00908,Réguliers satisfaits,apprentissage,0.0371,0,Faible,533.42,Forte,Aucune,Parcours CRM habituel,0
+C01013,Occasionnels récents,test,0.037,0,Faible,130.74,Faible,Aucune,Parcours CRM habituel,0
+C00261,Fidèles premium,apprentissage,0.0365,0,Faible,1524.51,Forte,Aucune,Parcours CRM habituel,0
+C01185,Réguliers satisfaits,apprentissage,0.0365,0,Faible,526.15,Forte,Aucune,Parcours CRM habituel,0
+C00530,Réguliers satisfaits,test,0.0364,0,Faible,259.65,Forte,Aucune,Parcours CRM habituel,0
+C00989,Réguliers satisfaits,apprentissage,0.0361,0,Faible,431.87,Forte,Aucune,Parcours CRM habituel,0
+C00348,Fidèles premium,apprentissage,0.036,0,Faible,549.97,Forte,Aucune,Parcours CRM habituel,0
+C00182,Occasionnels récents,apprentissage,0.0359,0,Faible,54.01,Faible,Aucune,Parcours CRM habituel,0
+C01474,Occasionnels récents,apprentissage,0.0359,0,Faible,245.13,Faible,Aucune,Parcours CRM habituel,0
+C01119,Réguliers satisfaits,apprentissage,0.0358,0,Faible,425.4,Forte,Aucune,Parcours CRM habituel,0
+C00270,Réguliers satisfaits,test,0.0356,0,Faible,787.86,Forte,Aucune,Parcours CRM habituel,0
+C00677,Occasionnels récents,apprentissage,0.0356,0,Faible,151.71,Faible,Aucune,Parcours CRM habituel,0
+C01458,Réguliers satisfaits,apprentissage,0.0352,0,Faible,638.55,Forte,Aucune,Parcours CRM habituel,0
+C00315,Occasionnels récents,apprentissage,0.0351,0,Faible,117.63,Faible,Aucune,Parcours CRM habituel,0
+C00023,Occasionnels récents,test,0.035,0,Faible,58.98,Faible,Aucune,Parcours CRM habituel,0
+C00804,Réguliers satisfaits,apprentissage,0.035,0,Faible,492.36,Forte,Aucune,Parcours CRM habituel,0
+C01290,Occasionnels récents,apprentissage,0.035,0,Faible,419.47,Forte,Aucune,Parcours CRM habituel,0
+C01407,Nouveaux à activer,apprentissage,0.0349,0,Faible,0.0,Faible,Aucune,Parcours CRM habituel,0
+C01170,Réguliers satisfaits,apprentissage,0.0347,0,Faible,737.83,Forte,Aucune,Parcours CRM habituel,0
+C00959,Réguliers satisfaits,apprentissage,0.0346,0,Faible,437.68,Forte,Aucune,Parcours CRM habituel,0
+C01244,Fidèles premium,apprentissage,0.0345,0,Faible,1615.81,Forte,Aucune,Parcours CRM habituel,0
+C01355,Occasionnels récents,test,0.0343,0,Faible,75.71,Faible,Aucune,Parcours CRM habituel,0
+C00463,Occasionnels récents,test,0.0339,0,Faible,203.97,Faible,Aucune,Parcours CRM habituel,0
+C00696,Réguliers satisfaits,apprentissage,0.0339,0,Faible,373.73,Forte,Aucune,Parcours CRM habituel,0
+C01281,Occasionnels récents,test,0.0339,0,Faible,189.83,Faible,Aucune,Parcours CRM habituel,0
+C00469,Réguliers satisfaits,apprentissage,0.0338,0,Faible,670.61,Forte,Aucune,Parcours CRM habituel,0
+C00289,Occasionnels récents,test,0.0334,0,Faible,307.9,Forte,Aucune,Parcours CRM habituel,0
+C00227,Fidèles premium,test,0.0332,0,Faible,1127.75,Forte,Aucune,Parcours CRM habituel,0
+C00818,Réguliers satisfaits,test,0.0332,0,Faible,367.21,Forte,Aucune,Parcours CRM habituel,0
+C00583,Réguliers satisfaits,apprentissage,0.0331,0,Faible,636.55,Forte,Aucune,Parcours CRM habituel,0
+C00767,Fidèles premium,apprentissage,0.0331,0,Faible,646.01,Forte,Aucune,Parcours CRM habituel,0
+C00060,Réguliers satisfaits,apprentissage,0.0329,0,Faible,1057.84,Forte,Aucune,Parcours CRM habituel,0
+C00444,Réguliers satisfaits,test,0.0329,0,Faible,467.94,Forte,Aucune,Parcours CRM habituel,0
+C00994,Réguliers satisfaits,apprentissage,0.0328,0,Faible,405.27,Forte,Aucune,Parcours CRM habituel,0
+C01373,Réguliers satisfaits,test,0.0328,0,Faible,543.85,Forte,Aucune,Parcours CRM habituel,0
+C00041,Réguliers satisfaits,test,0.0327,0,Faible,542.55,Forte,Aucune,Parcours CRM habituel,0
+C00069,Fidèles premium,apprentissage,0.0326,0,Faible,807.54,Forte,Aucune,Parcours CRM habituel,0
+C00651,Occasionnels récents,apprentissage,0.0326,0,Faible,245.05,Faible,Aucune,Parcours CRM habituel,0
+C00944,Occasionnels récents,apprentissage,0.0324,0,Faible,385.7,Forte,Aucune,Parcours CRM habituel,0
+C00733,Fidèles premium,apprentissage,0.0323,0,Faible,963.83,Forte,Aucune,Parcours CRM habituel,0
+C01467,Réguliers satisfaits,test,0.0322,0,Faible,502.53,Forte,Aucune,Parcours CRM habituel,0
+C00703,Fidèles premium,apprentissage,0.0321,0,Faible,1760.79,Forte,Aucune,Parcours CRM habituel,0
+C01482,Fidèles premium,apprentissage,0.0319,0,Faible,939.55,Forte,Aucune,Parcours CRM habituel,1
+C00775,Fidèles premium,apprentissage,0.0316,0,Faible,1276.35,Forte,Aucune,Parcours CRM habituel,0
+C00414,Occasionnels récents,apprentissage,0.0314,0,Faible,81.77,Faible,Aucune,Parcours CRM habituel,0
+C01061,Occasionnels récents,test,0.0312,0,Faible,71.72,Faible,Aucune,Parcours CRM habituel,0
+C01091,Occasionnels récents,apprentissage,0.0309,0,Faible,367.05,Forte,Aucune,Parcours CRM habituel,0
+C01171,Réguliers satisfaits,apprentissage,0.0309,0,Faible,194.58,Faible,Aucune,Parcours CRM habituel,0
+C00693,Réguliers satisfaits,test,0.0308,0,Faible,385.77,Forte,Aucune,Parcours CRM habituel,0
+C01471,Occasionnels récents,apprentissage,0.0308,0,Faible,193.26,Faible,Aucune,Parcours CRM habituel,0
+C00381,Réguliers satisfaits,apprentissage,0.0307,0,Faible,531.09,Forte,Aucune,Parcours CRM habituel,0
+C00742,Réguliers satisfaits,apprentissage,0.0307,0,Faible,695.81,Forte,Aucune,Parcours CRM habituel,0
+C00766,Réguliers satisfaits,apprentissage,0.0307,0,Faible,985.51,Forte,Aucune,Parcours CRM habituel,0
+C00274,Réguliers satisfaits,test,0.0305,0,Faible,659.57,Forte,Aucune,Parcours CRM habituel,0
+C01295,Occasionnels récents,apprentissage,0.0305,0,Faible,394.74,Forte,Aucune,Parcours CRM habituel,0
+C01443,Fidèles premium,apprentissage,0.0305,0,Faible,2081.75,Forte,Aucune,Parcours CRM habituel,0
+C00643,Fidèles premium,apprentissage,0.0304,0,Faible,1382.11,Forte,Aucune,Parcours CRM habituel,0
+C00375,Fidèles premium,test,0.0303,0,Faible,868.44,Forte,Aucune,Parcours CRM habituel,0
+C00589,Réguliers satisfaits,apprentissage,0.0303,0,Faible,660.44,Forte,Aucune,Parcours CRM habituel,0
+C00874,Réguliers satisfaits,test,0.0302,0,Faible,532.81,Forte,Aucune,Parcours CRM habituel,0
+C00995,Occasionnels récents,apprentissage,0.0302,0,Faible,116.38,Faible,Aucune,Parcours CRM habituel,0
+C00162,Occasionnels récents,apprentissage,0.0301,0,Faible,92.77,Faible,Aucune,Parcours CRM habituel,0
+C00082,Réguliers satisfaits,apprentissage,0.03,0,Faible,320.65,Forte,Aucune,Parcours CRM habituel,0
+C01002,Réguliers satisfaits,apprentissage,0.0299,0,Faible,545.85,Forte,Aucune,Parcours CRM habituel,0
+C01130,Occasionnels récents,apprentissage,0.0299,0,Faible,102.23,Faible,Aucune,Parcours CRM habituel,0
+C00085,Réguliers satisfaits,apprentissage,0.0298,0,Faible,930.95,Forte,Aucune,Parcours CRM habituel,0
+C00760,Réguliers satisfaits,test,0.0298,0,Faible,518.2,Forte,Aucune,Parcours CRM habituel,0
+C01040,Fidèles premium,apprentissage,0.0296,0,Faible,1527.95,Forte,Aucune,Parcours CRM habituel,0
+C01085,Occasionnels récents,apprentissage,0.0296,0,Faible,95.9,Faible,Aucune,Parcours CRM habituel,0
+C00136,Fidèles premium,test,0.0291,0,Faible,1747.91,Forte,Aucune,Parcours CRM habituel,0
+C01021,Occasionnels récents,apprentissage,0.0291,0,Faible,66.87,Faible,Aucune,Parcours CRM habituel,0
+C00635,Fidèles premium,apprentissage,0.029,0,Faible,1139.35,Forte,Aucune,Parcours CRM habituel,0
+C00938,Fidèles premium,apprentissage,0.029,0,Faible,669.88,Forte,Aucune,Parcours CRM habituel,0
+C00464,Occasionnels récents,apprentissage,0.0288,0,Faible,238.63,Faible,Aucune,Parcours CRM habituel,0
+C01165,Fidèles premium,apprentissage,0.0288,0,Faible,990.8,Forte,Aucune,Parcours CRM habituel,0
+C00510,Fidèles premium,apprentissage,0.0286,0,Faible,1383.63,Forte,Aucune,Parcours CRM habituel,0
+C01376,Fidèles premium,apprentissage,0.0284,0,Faible,980.72,Forte,Aucune,Parcours CRM habituel,0
+C00369,Réguliers satisfaits,apprentissage,0.0283,0,Faible,556.44,Forte,Aucune,Parcours CRM habituel,0
+C00827,Réguliers satisfaits,apprentissage,0.0283,0,Faible,411.39,Forte,Aucune,Parcours CRM habituel,0
+C01154,Réguliers satisfaits,apprentissage,0.0283,0,Faible,514.8,Forte,Aucune,Parcours CRM habituel,0
+C00940,Réguliers satisfaits,apprentissage,0.0279,0,Faible,718.92,Forte,Aucune,Parcours CRM habituel,0
+C00655,Occasionnels récents,apprentissage,0.0278,0,Faible,84.4,Faible,Aucune,Parcours CRM habituel,0
+C01478,Occasionnels récents,test,0.0278,0,Faible,130.04,Faible,Aucune,Parcours CRM habituel,0
+C00593,Réguliers satisfaits,apprentissage,0.0275,0,Faible,371.56,Forte,Aucune,Parcours CRM habituel,0
+C00473,Fidèles premium,apprentissage,0.0272,0,Faible,1284.33,Forte,Aucune,Parcours CRM habituel,0
+C01136,Réguliers satisfaits,test,0.0272,0,Faible,403.22,Forte,Aucune,Parcours CRM habituel,0
+C00803,Occasionnels récents,apprentissage,0.0269,0,Faible,93.43,Faible,Aucune,Parcours CRM habituel,0
+C01323,Fidèles premium,test,0.0269,0,Faible,1593.81,Forte,Aucune,Parcours CRM habituel,0
+C00681,Fidèles premium,apprentissage,0.0268,0,Faible,1984.05,Forte,Aucune,Parcours CRM habituel,0
+C00084,Fidèles premium,apprentissage,0.0267,0,Faible,1495.61,Forte,Aucune,Parcours CRM habituel,0
+C01330,Fidèles premium,test,0.0263,0,Faible,914.26,Forte,Aucune,Parcours CRM habituel,0
+C00821,Fidèles premium,apprentissage,0.0259,0,Faible,2243.65,Forte,Aucune,Parcours CRM habituel,0
+C01111,Réguliers satisfaits,apprentissage,0.0259,0,Faible,715.25,Forte,Aucune,Parcours CRM habituel,0
+C00237,Réguliers satisfaits,apprentissage,0.0257,0,Faible,352.42,Forte,Aucune,Parcours CRM habituel,0
+C00435,Réguliers satisfaits,apprentissage,0.0257,0,Faible,907.84,Forte,Aucune,Parcours CRM habituel,0
+C00269,Fidèles premium,test,0.0256,0,Faible,1294.02,Forte,Aucune,Parcours CRM habituel,0
+C00272,Fidèles premium,apprentissage,0.0254,0,Faible,737.54,Forte,Aucune,Parcours CRM habituel,0
+C00337,Fidèles premium,test,0.0254,0,Faible,1434.71,Forte,Aucune,Parcours CRM habituel,0
+C00869,Fidèles premium,test,0.0254,0,Faible,1083.65,Forte,Aucune,Parcours CRM habituel,0
+C01210,Réguliers satisfaits,test,0.0254,0,Faible,466.99,Forte,Aucune,Parcours CRM habituel,0
+C00265,Occasionnels récents,apprentissage,0.0253,0,Faible,136.2,Faible,Aucune,Parcours CRM habituel,0
+C00608,Fidèles premium,apprentissage,0.0253,0,Faible,1962.58,Forte,Aucune,Parcours CRM habituel,0
+C00946,Réguliers satisfaits,test,0.0252,0,Faible,458.61,Forte,Aucune,Parcours CRM habituel,0
+C01101,Fidèles premium,test,0.0251,0,Faible,1851.37,Forte,Aucune,Parcours CRM habituel,0
+C00580,Réguliers satisfaits,apprentissage,0.025,0,Faible,247.35,Faible,Aucune,Parcours CRM habituel,0
+C01470,Fidèles premium,apprentissage,0.025,0,Faible,1919.58,Forte,Aucune,Parcours CRM habituel,0
+C01100,Fidèles premium,apprentissage,0.0249,0,Faible,1952.45,Forte,Aucune,Parcours CRM habituel,0
+C00052,Réguliers satisfaits,apprentissage,0.0244,0,Faible,767.9,Forte,Aucune,Parcours CRM habituel,0
+C00455,Fidèles premium,apprentissage,0.0244,0,Faible,1187.25,Forte,Aucune,Parcours CRM habituel,0
+C00891,Réguliers satisfaits,apprentissage,0.0244,0,Faible,396.59,Forte,Aucune,Parcours CRM habituel,1
+C00005,Fidèles premium,apprentissage,0.0243,0,Faible,1750.88,Forte,Aucune,Parcours CRM habituel,0
+C00552,Fidèles premium,test,0.0243,0,Faible,1134.5,Forte,Aucune,Parcours CRM habituel,0
+C00845,Fidèles premium,apprentissage,0.0243,0,Faible,1977.94,Forte,Aucune,Parcours CRM habituel,0
+C00155,Fidèles premium,apprentissage,0.0242,0,Faible,1780.12,Forte,Aucune,Parcours CRM habituel,0
+C00973,Fidèles premium,apprentissage,0.0241,0,Faible,1392.88,Forte,Aucune,Parcours CRM habituel,0
+C01371,Fidèles premium,apprentissage,0.0241,0,Faible,836.24,Forte,Aucune,Parcours CRM habituel,0
+C00125,Fidèles premium,test,0.024,0,Faible,786.17,Forte,Aucune,Parcours CRM habituel,0
+C00626,Réguliers satisfaits,apprentissage,0.024,0,Faible,567.13,Forte,Aucune,Parcours CRM habituel,0
+C01309,Fidèles premium,apprentissage,0.0239,0,Faible,1114.78,Forte,Aucune,Parcours CRM habituel,0
+C00012,Occasionnels récents,apprentissage,0.0238,0,Faible,56.01,Faible,Aucune,Parcours CRM habituel,0
+C00217,Fidèles premium,apprentissage,0.0237,0,Faible,1374.49,Forte,Aucune,Parcours CRM habituel,0
+C00728,Fidèles premium,apprentissage,0.0237,0,Faible,1199.57,Forte,Aucune,Parcours CRM habituel,0
+C00948,Occasionnels récents,apprentissage,0.0237,0,Faible,115.88,Faible,Aucune,Parcours CRM habituel,0
+C00633,Réguliers satisfaits,apprentissage,0.0236,0,Faible,898.65,Forte,Aucune,Parcours CRM habituel,0
+C01166,Occasionnels récents,apprentissage,0.0236,0,Faible,48.95,Faible,Aucune,Parcours CRM habituel,0
+C00401,Réguliers satisfaits,apprentissage,0.0235,0,Faible,453.78,Forte,Aucune,Parcours CRM habituel,0
+C00422,Fidèles premium,apprentissage,0.0235,0,Faible,1521.71,Forte,Aucune,Parcours CRM habituel,1
+C01116,Fidèles premium,apprentissage,0.0232,0,Faible,897.22,Forte,Aucune,Parcours CRM habituel,0
+C01311,Réguliers satisfaits,test,0.0231,0,Faible,461.16,Forte,Aucune,Parcours CRM habituel,0
+C00098,Réguliers satisfaits,apprentissage,0.023,0,Faible,774.95,Forte,Aucune,Parcours CRM habituel,0
+C00115,Fidèles premium,apprentissage,0.023,0,Faible,1388.53,Forte,Aucune,Parcours CRM habituel,0
+C01491,Réguliers satisfaits,apprentissage,0.0228,0,Faible,834.95,Forte,Aucune,Parcours CRM habituel,0
+C00153,Fidèles premium,test,0.0227,0,Faible,1525.42,Forte,Aucune,Parcours CRM habituel,0
+C00164,Fidèles premium,apprentissage,0.0227,0,Faible,2238.93,Forte,Aucune,Parcours CRM habituel,0
+C00826,Fidèles premium,apprentissage,0.0227,0,Faible,1209.66,Forte,Aucune,Parcours CRM habituel,0
+C00726,Fidèles premium,apprentissage,0.0226,0,Faible,842.87,Forte,Aucune,Parcours CRM habituel,0
+C00998,Réguliers satisfaits,apprentissage,0.0225,0,Faible,1072.82,Forte,Aucune,Parcours CRM habituel,0
+C01156,Fidèles premium,apprentissage,0.0225,0,Faible,917.13,Forte,Aucune,Parcours CRM habituel,0
+C00808,Fidèles premium,apprentissage,0.0224,0,Faible,1480.86,Forte,Aucune,Parcours CRM habituel,0
+C00485,Fidèles premium,apprentissage,0.022,0,Faible,1544.82,Forte,Aucune,Parcours CRM habituel,0
+C01139,Fidèles premium,test,0.022,0,Faible,1031.31,Forte,Aucune,Parcours CRM habituel,0
+C00128,Fidèles premium,apprentissage,0.0219,0,Faible,1203.47,Forte,Aucune,Parcours CRM habituel,0
+C00350,Fidèles premium,test,0.0219,0,Faible,1693.28,Forte,Aucune,Parcours CRM habituel,0
+C00089,Fidèles premium,apprentissage,0.0214,0,Faible,1275.01,Forte,Aucune,Parcours CRM habituel,0
+C00404,Fidèles premium,apprentissage,0.0209,0,Faible,1510.1,Forte,Aucune,Parcours CRM habituel,0
+C00828,Réguliers satisfaits,apprentissage,0.0209,0,Faible,603.76,Forte,Aucune,Parcours CRM habituel,0
+C00865,Fidèles premium,apprentissage,0.0208,0,Faible,2026.02,Forte,Aucune,Parcours CRM habituel,0
+C01442,Fidèles premium,apprentissage,0.0208,0,Faible,1204.07,Forte,Aucune,Parcours CRM habituel,0
+C01267,Réguliers satisfaits,test,0.0207,0,Faible,876.01,Forte,Aucune,Parcours CRM habituel,0
+C00341,Fidèles premium,apprentissage,0.0204,0,Faible,1411.67,Forte,Aucune,Parcours CRM habituel,0
+C00762,Fidèles premium,test,0.0204,0,Faible,1386.61,Forte,Aucune,Parcours CRM habituel,0
+C01456,Fidèles premium,apprentissage,0.0204,0,Faible,1218.89,Forte,Aucune,Parcours CRM habituel,0
+C00747,Réguliers satisfaits,apprentissage,0.0203,0,Faible,442.23,Forte,Aucune,Parcours CRM habituel,0
+C01182,Fidèles premium,apprentissage,0.0203,0,Faible,1317.53,Forte,Aucune,Parcours CRM habituel,0
+C00927,Fidèles premium,apprentissage,0.0202,0,Faible,1926.01,Forte,Aucune,Parcours CRM habituel,0
+C00310,Fidèles premium,test,0.0198,0,Faible,985.01,Forte,Aucune,Parcours CRM habituel,0
+C00392,Fidèles premium,test,0.0198,0,Faible,1612.62,Forte,Aucune,Parcours CRM habituel,0
+C01253,Fidèles premium,apprentissage,0.0198,0,Faible,1469.04,Forte,Aucune,Parcours CRM habituel,0
+C01221,Fidèles premium,apprentissage,0.0196,0,Faible,1672.17,Forte,Aucune,Parcours CRM habituel,0
+C00058,Réguliers satisfaits,apprentissage,0.0194,0,Faible,570.46,Forte,Aucune,Parcours CRM habituel,0
+C00650,Fidèles premium,test,0.0194,0,Faible,2585.78,Forte,Aucune,Parcours CRM habituel,0
+C00188,Fidèles premium,apprentissage,0.0189,0,Faible,1627.78,Forte,Aucune,Parcours CRM habituel,0
+C00287,Fidèles premium,apprentissage,0.0189,0,Faible,1736.9,Forte,Aucune,Parcours CRM habituel,0
+C01041,Fidèles premium,apprentissage,0.0188,0,Faible,1502.21,Forte,Aucune,Parcours CRM habituel,0
+C01360,Fidèles premium,apprentissage,0.0188,0,Faible,1550.9,Forte,Aucune,Parcours CRM habituel,0
+C00140,Fidèles premium,apprentissage,0.0185,0,Faible,2347.3,Forte,Aucune,Parcours CRM habituel,1
+C00851,Réguliers satisfaits,apprentissage,0.0185,0,Faible,709.85,Forte,Aucune,Parcours CRM habituel,0
+C00099,Fidèles premium,apprentissage,0.0183,0,Faible,1672.78,Forte,Aucune,Parcours CRM habituel,0
+C00419,Réguliers satisfaits,apprentissage,0.0182,0,Faible,496.19,Forte,Aucune,Parcours CRM habituel,0
+C00423,Fidèles premium,test,0.0182,0,Faible,1288.5,Forte,Aucune,Parcours CRM habituel,0
+C00525,Fidèles premium,apprentissage,0.0182,0,Faible,2047.68,Forte,Aucune,Parcours CRM habituel,1
+C01423,Réguliers satisfaits,apprentissage,0.0182,0,Faible,419.72,Forte,Aucune,Parcours CRM habituel,0
+C00429,Fidèles premium,apprentissage,0.018,0,Faible,1135.73,Forte,Aucune,Parcours CRM habituel,0
+C00557,Réguliers satisfaits,apprentissage,0.018,0,Faible,461.55,Forte,Aucune,Parcours CRM habituel,0
+C00389,Fidèles premium,apprentissage,0.0179,0,Faible,1616.05,Forte,Aucune,Parcours CRM habituel,0
+C01463,Réguliers satisfaits,apprentissage,0.0178,0,Faible,507.54,Forte,Aucune,Parcours CRM habituel,0
+C00535,Fidèles premium,test,0.0177,0,Faible,612.53,Forte,Aucune,Parcours CRM habituel,0
+C00718,Fidèles premium,apprentissage,0.0177,0,Faible,2610.73,Forte,Aucune,Parcours CRM habituel,0
+C00735,Fidèles premium,apprentissage,0.0176,0,Faible,2645.88,Forte,Aucune,Parcours CRM habituel,0
+C01153,Fidèles premium,apprentissage,0.0176,0,Faible,1912.26,Forte,Aucune,Parcours CRM habituel,0
+C00037,Fidèles premium,apprentissage,0.0175,0,Faible,2076.92,Forte,Aucune,Parcours CRM habituel,0
+C00644,Réguliers satisfaits,apprentissage,0.0174,0,Faible,702.21,Forte,Aucune,Parcours CRM habituel,0
+C00109,Fidèles premium,apprentissage,0.0173,0,Faible,2057.62,Forte,Aucune,Parcours CRM habituel,0
+C01396,Fidèles premium,apprentissage,0.0173,0,Faible,943.0,Forte,Aucune,Parcours CRM habituel,0
+C00029,Fidèles premium,apprentissage,0.0171,0,Faible,1489.98,Forte,Aucune,Parcours CRM habituel,0
+C01473,Fidèles premium,apprentissage,0.0171,0,Faible,2742.46,Forte,Aucune,Parcours CRM habituel,0
+C00273,Fidèles premium,apprentissage,0.0167,0,Faible,1439.75,Forte,Aucune,Parcours CRM habituel,0
+C00372,Réguliers satisfaits,test,0.0167,0,Faible,472.6,Forte,Aucune,Parcours CRM habituel,0
+C00889,Fidèles premium,apprentissage,0.0167,0,Faible,1260.6,Forte,Aucune,Parcours CRM habituel,0
+C01157,Fidèles premium,apprentissage,0.0167,0,Faible,1231.38,Forte,Aucune,Parcours CRM habituel,0
+C00259,Fidèles premium,apprentissage,0.0165,0,Faible,849.88,Forte,Aucune,Parcours CRM habituel,0
+C00903,Fidèles premium,apprentissage,0.0165,0,Faible,2019.65,Forte,Aucune,Parcours CRM habituel,0
+C01428,Fidèles premium,test,0.0165,0,Faible,1074.37,Forte,Aucune,Parcours CRM habituel,0
+C00972,Fidèles premium,apprentissage,0.0163,0,Faible,1096.51,Forte,Aucune,Parcours CRM habituel,0
+C00797,Fidèles premium,test,0.0162,0,Faible,2250.34,Forte,Aucune,Parcours CRM habituel,0
+C00806,Fidèles premium,apprentissage,0.0162,0,Faible,3311.19,Forte,Aucune,Parcours CRM habituel,0
+C00264,Fidèles premium,apprentissage,0.0161,0,Faible,1785.67,Forte,Aucune,Parcours CRM habituel,0
+C00417,Fidèles premium,apprentissage,0.016,0,Faible,1788.87,Forte,Aucune,Parcours CRM habituel,0
+C00798,Fidèles premium,apprentissage,0.016,0,Faible,2661.69,Forte,Aucune,Parcours CRM habituel,0
+C00207,Fidèles premium,apprentissage,0.0159,0,Faible,1409.77,Forte,Aucune,Parcours CRM habituel,0
+C01236,Fidèles premium,apprentissage,0.0159,0,Faible,1194.5,Forte,Aucune,Parcours CRM habituel,0
+C01393,Fidèles premium,apprentissage,0.0156,0,Faible,1633.62,Forte,Aucune,Parcours CRM habituel,0
+C00741,Fidèles premium,apprentissage,0.0155,0,Faible,2742.61,Forte,Aucune,Parcours CRM habituel,0
+C00917,Fidèles premium,apprentissage,0.0154,0,Faible,1489.62,Forte,Aucune,Parcours CRM habituel,0
+C01382,Fidèles premium,test,0.0153,0,Faible,1954.71,Forte,Aucune,Parcours CRM habituel,0
+C00258,Occasionnels récents,apprentissage,0.0152,0,Faible,528.82,Forte,Aucune,Parcours CRM habituel,0
+C01394,Fidèles premium,apprentissage,0.0151,0,Faible,1252.32,Forte,Aucune,Parcours CRM habituel,0
+C00231,Fidèles premium,apprentissage,0.015,0,Faible,2423.84,Forte,Aucune,Parcours CRM habituel,0
+C01427,Fidèles premium,test,0.015,0,Faible,2051.8,Forte,Aucune,Parcours CRM habituel,0
+C00364,Fidèles premium,apprentissage,0.0149,0,Faible,1565.82,Forte,Aucune,Parcours CRM habituel,0
+C00732,Fidèles premium,test,0.0149,0,Faible,1520.38,Forte,Aucune,Parcours CRM habituel,0
+C01298,Fidèles premium,apprentissage,0.0149,0,Faible,1802.62,Forte,Aucune,Parcours CRM habituel,0
+C00671,Fidèles premium,apprentissage,0.0147,0,Faible,1212.11,Forte,Aucune,Parcours CRM habituel,0
+C00759,Fidèles premium,test,0.0144,0,Faible,1408.88,Forte,Aucune,Parcours CRM habituel,0
+C01315,Fidèles premium,apprentissage,0.0143,0,Faible,1718.75,Forte,Aucune,Parcours CRM habituel,0
+C00134,Réguliers satisfaits,apprentissage,0.0142,0,Faible,501.65,Forte,Aucune,Parcours CRM habituel,0
+C01275,Réguliers satisfaits,apprentissage,0.0142,0,Faible,654.98,Forte,Aucune,Parcours CRM habituel,0
+C01386,Fidèles premium,apprentissage,0.0141,0,Faible,746.28,Forte,Aucune,Parcours CRM habituel,0
+C00415,Fidèles premium,apprentissage,0.0139,0,Faible,1599.13,Forte,Aucune,Parcours CRM habituel,0
+C01364,Fidèles premium,test,0.0138,0,Faible,1911.45,Forte,Aucune,Parcours CRM habituel,0
+C01183,Fidèles premium,apprentissage,0.0136,0,Faible,2143.07,Forte,Aucune,Parcours CRM habituel,0
+C01105,Fidèles premium,apprentissage,0.0135,0,Faible,2372.33,Forte,Aucune,Parcours CRM habituel,0
+C01304,Réguliers satisfaits,apprentissage,0.0134,0,Faible,436.55,Forte,Aucune,Parcours CRM habituel,0
+C00018,Fidèles premium,apprentissage,0.0132,0,Faible,1517.84,Forte,Aucune,Parcours CRM habituel,0
+C00271,Fidèles premium,test,0.0132,0,Faible,1307.37,Forte,Aucune,Parcours CRM habituel,0
+C01240,Fidèles premium,apprentissage,0.0132,0,Faible,1721.07,Forte,Aucune,Parcours CRM habituel,0
+C00921,Fidèles premium,apprentissage,0.0131,0,Faible,1929.05,Forte,Aucune,Parcours CRM habituel,0
+C01189,Fidèles premium,apprentissage,0.0131,0,Faible,1503.55,Forte,Aucune,Parcours CRM habituel,0
+C00894,Fidèles premium,apprentissage,0.0129,0,Faible,1834.24,Forte,Aucune,Parcours CRM habituel,0
+C00175,Fidèles premium,test,0.0128,0,Faible,1595.21,Forte,Aucune,Parcours CRM habituel,0
+C00538,Fidèles premium,apprentissage,0.0127,0,Faible,2873.37,Forte,Aucune,Parcours CRM habituel,0
+C01390,Fidèles premium,test,0.0127,0,Faible,2039.42,Forte,Aucune,Parcours CRM habituel,0
+C00362,Fidèles premium,apprentissage,0.0126,0,Faible,2755.13,Forte,Aucune,Parcours CRM habituel,0
+C01124,Fidèles premium,test,0.0126,0,Faible,865.08,Forte,Aucune,Parcours CRM habituel,0
+C00683,Fidèles premium,apprentissage,0.0125,0,Faible,1751.08,Forte,Aucune,Parcours CRM habituel,0
+C00805,Fidèles premium,apprentissage,0.0123,0,Faible,1864.67,Forte,Aucune,Parcours CRM habituel,0
+C01230,Fidèles premium,apprentissage,0.0122,0,Faible,703.83,Forte,Aucune,Parcours CRM habituel,0
+C00513,Fidèles premium,apprentissage,0.0121,0,Faible,1690.9,Forte,Aucune,Parcours CRM habituel,0
+C00723,Fidèles premium,apprentissage,0.012,0,Faible,2039.76,Forte,Aucune,Parcours CRM habituel,0
+C00954,Fidèles premium,apprentissage,0.012,0,Faible,2134.96,Forte,Aucune,Parcours CRM habituel,0
+C01054,Fidèles premium,test,0.012,0,Faible,1407.64,Forte,Aucune,Parcours CRM habituel,0
+C00555,Fidèles premium,apprentissage,0.0119,0,Faible,1179.75,Forte,Aucune,Parcours CRM habituel,0
+C00763,Fidèles premium,test,0.0119,0,Faible,1742.95,Forte,Aucune,Parcours CRM habituel,0
+C00964,Fidèles premium,test,0.0119,0,Faible,1916.6,Forte,Aucune,Parcours CRM habituel,0
+C00230,Fidèles premium,apprentissage,0.0117,0,Faible,1330.64,Forte,Aucune,Parcours CRM habituel,0
+C00352,Fidèles premium,apprentissage,0.0117,0,Faible,1556.4,Forte,Aucune,Parcours CRM habituel,0
+C01444,Fidèles premium,apprentissage,0.0115,0,Faible,1691.22,Forte,Aucune,Parcours CRM habituel,0
+C00449,Fidèles premium,apprentissage,0.0114,0,Faible,1710.46,Forte,Aucune,Parcours CRM habituel,0
+C00985,Réguliers satisfaits,test,0.0114,0,Faible,774.33,Forte,Aucune,Parcours CRM habituel,0
+C00437,Fidèles premium,test,0.0113,0,Faible,2378.11,Forte,Aucune,Parcours CRM habituel,1
+C01122,Fidèles premium,apprentissage,0.0113,0,Faible,1511.59,Forte,Aucune,Parcours CRM habituel,0
+C01341,Fidèles premium,apprentissage,0.0113,0,Faible,1584.26,Forte,Aucune,Parcours CRM habituel,0
+C00925,Fidèles premium,apprentissage,0.0111,0,Faible,985.48,Forte,Aucune,Parcours CRM habituel,0
+C01069,Fidèles premium,apprentissage,0.0111,0,Faible,1625.54,Forte,Aucune,Parcours CRM habituel,0
+C01486,Fidèles premium,apprentissage,0.0111,0,Faible,2229.0,Forte,Aucune,Parcours CRM habituel,0
+C01408,Fidèles premium,apprentissage,0.011,0,Faible,1224.07,Forte,Aucune,Parcours CRM habituel,0
+C00376,Fidèles premium,apprentissage,0.0109,0,Faible,1670.38,Forte,Aucune,Parcours CRM habituel,0
+C00523,Fidèles premium,apprentissage,0.0108,0,Faible,1818.04,Forte,Aucune,Parcours CRM habituel,0
+C00794,Fidèles premium,apprentissage,0.0107,0,Faible,1209.26,Forte,Aucune,Parcours CRM habituel,0
+C00545,Fidèles premium,apprentissage,0.0106,0,Faible,1704.44,Forte,Aucune,Parcours CRM habituel,0
+C00302,Fidèles premium,apprentissage,0.0105,0,Faible,2095.29,Forte,Aucune,Parcours CRM habituel,0
+C01107,Fidèles premium,apprentissage,0.0105,0,Faible,1916.51,Forte,Aucune,Parcours CRM habituel,0
+C00091,Fidèles premium,test,0.0102,0,Faible,1859.62,Forte,Aucune,Parcours CRM habituel,0
+C00290,Fidèles premium,apprentissage,0.0101,0,Faible,2049.06,Forte,Aucune,Parcours CRM habituel,0
+C00086,Fidèles premium,apprentissage,0.01,0,Faible,2217.64,Forte,Aucune,Parcours CRM habituel,0
+C00424,Fidèles premium,apprentissage,0.0099,0,Faible,1763.88,Forte,Aucune,Parcours CRM habituel,0
+C00442,Réguliers satisfaits,apprentissage,0.0099,0,Faible,1146.31,Forte,Aucune,Parcours CRM habituel,0
+C00595,Fidèles premium,apprentissage,0.0099,0,Faible,2868.99,Forte,Aucune,Parcours CRM habituel,0
+C00218,Fidèles premium,test,0.0096,0,Faible,1067.42,Forte,Aucune,Parcours CRM habituel,0
+C00988,Fidèles premium,apprentissage,0.0096,0,Faible,1868.64,Forte,Aucune,Parcours CRM habituel,0
+C01164,Fidèles premium,apprentissage,0.0093,0,Faible,1747.31,Forte,Aucune,Parcours CRM habituel,1
+C01261,Fidèles premium,test,0.0093,0,Faible,2390.97,Forte,Aucune,Parcours CRM habituel,0
+C00539,Fidèles premium,apprentissage,0.0091,0,Faible,1711.6,Forte,Aucune,Parcours CRM habituel,0
+C01278,Fidèles premium,test,0.0091,0,Faible,1595.03,Forte,Aucune,Parcours CRM habituel,0
+C00195,Fidèles premium,apprentissage,0.0088,0,Faible,1245.95,Forte,Aucune,Parcours CRM habituel,0
+C00204,Fidèles premium,test,0.0086,0,Faible,2347.12,Forte,Aucune,Parcours CRM habituel,0
+C00395,Fidèles premium,test,0.0083,0,Faible,1989.4,Forte,Aucune,Parcours CRM habituel,0
+C00619,Fidèles premium,apprentissage,0.0083,0,Faible,2040.2,Forte,Aucune,Parcours CRM habituel,1
+C00548,Fidèles premium,apprentissage,0.0082,0,Faible,1997.32,Forte,Aucune,Parcours CRM habituel,0
+C00647,Fidèles premium,apprentissage,0.0081,0,Faible,1305.02,Forte,Aucune,Parcours CRM habituel,0
+C00968,Fidèles premium,apprentissage,0.0081,0,Faible,2987.82,Forte,Aucune,Parcours CRM habituel,1
+C01016,Fidèles premium,apprentissage,0.008,0,Faible,1664.86,Forte,Aucune,Parcours CRM habituel,0
+C01004,Fidèles premium,apprentissage,0.0079,0,Faible,1852.82,Forte,Aucune,Parcours CRM habituel,0
+C01433,Fidèles premium,apprentissage,0.0079,0,Faible,2070.87,Forte,Aucune,Parcours CRM habituel,0
+C00664,Fidèles premium,test,0.0078,0,Faible,1960.0,Forte,Aucune,Parcours CRM habituel,0
+C01252,Fidèles premium,test,0.0078,0,Faible,1040.9,Forte,Aucune,Parcours CRM habituel,0
+C00872,Fidèles premium,apprentissage,0.0077,0,Faible,1253.54,Forte,Aucune,Parcours CRM habituel,0
+C00587,Fidèles premium,apprentissage,0.0076,0,Faible,1617.75,Forte,Aucune,Parcours CRM habituel,0
+C01356,Fidèles premium,test,0.0076,0,Faible,2105.42,Forte,Aucune,Parcours CRM habituel,0
+C01434,Fidèles premium,apprentissage,0.0075,0,Faible,2536.94,Forte,Aucune,Parcours CRM habituel,0
+C01255,Fidèles premium,test,0.0073,0,Faible,2310.56,Forte,Aucune,Parcours CRM habituel,0
+C00474,Fidèles premium,test,0.0072,0,Faible,1202.98,Forte,Aucune,Parcours CRM habituel,0
+C01158,Fidèles premium,test,0.0072,0,Faible,1745.67,Forte,Aucune,Parcours CRM habituel,0
+C00451,Fidèles premium,apprentissage,0.0071,0,Faible,1921.97,Forte,Aucune,Parcours CRM habituel,0
+C00768,Fidèles premium,apprentissage,0.0069,0,Faible,1996.89,Forte,Aucune,Parcours CRM habituel,0
+C00239,Fidèles premium,apprentissage,0.0068,0,Faible,1987.86,Forte,Aucune,Parcours CRM habituel,0
+C00009,Fidèles premium,apprentissage,0.0067,0,Faible,2074.11,Forte,Aucune,Parcours CRM habituel,0
+C00059,Fidèles premium,apprentissage,0.0067,0,Faible,1735.42,Forte,Aucune,Parcours CRM habituel,0
+C01206,Fidèles premium,apprentissage,0.0066,0,Faible,1890.46,Forte,Aucune,Parcours CRM habituel,0
+C01225,Fidèles premium,test,0.0066,0,Faible,1651.4,Forte,Aucune,Parcours CRM habituel,0
+C00240,Fidèles premium,apprentissage,0.0065,0,Faible,1916.3,Forte,Aucune,Parcours CRM habituel,0
+C00462,Fidèles premium,apprentissage,0.0063,0,Faible,1461.58,Forte,Aucune,Parcours CRM habituel,0
+C00778,Fidèles premium,apprentissage,0.006,0,Faible,1517.31,Forte,Aucune,Parcours CRM habituel,0
+C00266,Fidèles premium,test,0.0056,0,Faible,2159.69,Forte,Aucune,Parcours CRM habituel,0
+C01314,Fidèles premium,apprentissage,0.0056,0,Faible,2015.35,Forte,Aucune,Parcours CRM habituel,0
+C00196,Fidèles premium,test,0.0052,0,Faible,1821.08,Forte,Aucune,Parcours CRM habituel,0
+C00131,Fidèles premium,apprentissage,0.0051,0,Faible,2204.26,Forte,Aucune,Parcours CRM habituel,0
+C01415,Fidèles premium,apprentissage,0.0051,0,Faible,1984.39,Forte,Aucune,Parcours CRM habituel,0
+C01001,Fidèles premium,apprentissage,0.0045,0,Faible,2055.93,Forte,Aucune,Parcours CRM habituel,0
+C00590,Fidèles premium,apprentissage,0.0044,0,Faible,1187.44,Forte,Aucune,Parcours CRM habituel,0
+C00815,Fidèles premium,apprentissage,0.0028,0,Faible,2028.07,Forte,Aucune,Parcours CRM habituel,0

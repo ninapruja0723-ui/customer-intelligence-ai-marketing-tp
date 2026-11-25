@@ -1,0 +1,701 @@
+review_id,customer_id,review_text,date
+R00001,C00326,Commande incomplète et remboursement compliqué,2025-01-15
+R00002,C00314,Conforme à mes attentes,2025-02-02
+R00003,C00972,J'adore cette marque et les nouveautés,2025-04-10
+R00004,C00210,"Service client très réactif, expérience parfaite",2025-06-07
+R00005,C00536,"Produit correct, sans plus",2025-12-04
+R00006,C01311,Conforme à mes attentes,2025-07-21
+R00007,C00375,Conforme à mes attentes,2025-09-28
+R00008,C00923,Commande incomplète et remboursement compliqué,2025-01-27
+R00009,C01390,"Déçu par la qualité, je ne rachèterai pas",2025-04-08
+R00010,C01029,"Colis arrivé en retard, expérience frustrante",2025-11-19
+R00011,C01214,"Colis arrivé en retard, expérience frustrante",2025-08-13
+R00012,C00840,"Déçu par la qualité, je ne rachèterai pas",2025-12-18
+R00013,C01488,Conforme à mes attentes,2025-01-27
+R00014,C00713,La navigation du site est compliquée,2025-06-14
+R00015,C01009,"Produit correct, sans plus",2025-07-03
+R00016,C00590,"Très bon produit, livraison rapide et je recommande",2025-12-03
+R00017,C00333,"Déçu par la qualité, je ne rachèterai pas",2025-02-10
+R00018,C01216,Bon rapport qualité prix,2025-10-20
+R00019,C01455,"Très bon produit, livraison rapide et je recommande",2025-11-22
+R00020,C01295,La navigation du site est compliquée,2025-10-26
+R00021,C01059,"Très bon produit, livraison rapide et je recommande",2025-11-29
+R00022,C01366,J'adore cette marque et les nouveautés,2025-01-16
+R00023,C01460,J'adore cette marque et les nouveautés,2025-07-25
+R00024,C00431,"Produit correct, sans plus",2025-10-18
+R00025,C00566,Conforme à mes attentes,2025-07-01
+R00026,C00950,"Produit correct, sans plus",2025-06-18
+R00027,C01486,Bon rapport qualité prix,2025-04-23
+R00028,C00833,"Service client très réactif, expérience parfaite",2025-07-03
+R00029,C00233,"Produit correct, sans plus",2025-02-11
+R00030,C01085,"Produit correct, sans plus",2025-07-19
+R00031,C00205,Bon rapport qualité prix,2025-12-12
+R00032,C00998,Commande incomplète et remboursement compliqué,2025-10-30
+R00033,C01225,Conforme à mes attentes,2025-06-25
+R00034,C00632,Bon rapport qualité prix,2025-02-21
+R00035,C00933,Conforme à mes attentes,2025-10-15
+R00036,C00510,Commande incomplète et remboursement compliqué,2025-10-05
+R00037,C01065,"Colis arrivé en retard, expérience frustrante",2025-10-26
+R00038,C00713,Commande incomplète et remboursement compliqué,2025-09-23
+R00039,C01279,"Très bon produit, livraison rapide et je recommande",2025-07-02
+R00040,C00304,J'adore cette marque et les nouveautés,2025-02-23
+R00041,C01224,"Colis arrivé en retard, expérience frustrante",2025-01-06
+R00042,C01486,Commande incomplète et remboursement compliqué,2025-09-08
+R00043,C00442,"Service client très réactif, expérience parfaite",2025-05-02
+R00044,C00898,"Déçu par la qualité, je ne rachèterai pas",2025-10-12
+R00045,C00075,J'adore cette marque et les nouveautés,2025-11-12
+R00046,C00766,"Produit correct, sans plus",2025-07-05
+R00047,C00027,Commande incomplète et remboursement compliqué,2025-03-30
+R00048,C00583,J'adore cette marque et les nouveautés,2025-02-13
+R00049,C00363,Conforme à mes attentes,2025-03-23
+R00050,C00345,Conforme à mes attentes,2025-07-24
+R00051,C01453,J'adore cette marque et les nouveautés,2025-12-15
+R00052,C00068,"Produit correct, sans plus",2025-10-21
+R00053,C00057,Commande incomplète et remboursement compliqué,2025-02-21
+R00054,C01272,"Service client très réactif, expérience parfaite",2025-04-14
+R00055,C00105,La navigation du site est compliquée,2025-07-06
+R00056,C00975,Conforme à mes attentes,2025-07-04
+R00057,C00890,"Colis arrivé en retard, expérience frustrante",2025-04-03
+R00058,C00085,J'adore cette marque et les nouveautés,2025-04-01
+R00059,C01387,Bon rapport qualité prix,2025-06-05
+R00060,C00682,Commande incomplète et remboursement compliqué,2025-02-15
+R00061,C00693,Conforme à mes attentes,2025-02-11
+R00062,C00306,"Très bon produit, livraison rapide et je recommande",2025-09-04
+R00063,C00786,"Colis arrivé en retard, expérience frustrante",2025-03-02
+R00064,C01459,Conforme à mes attentes,2025-12-12
+R00065,C00148,Commande incomplète et remboursement compliqué,2025-02-13
+R00066,C00745,"Très bon produit, livraison rapide et je recommande",2025-11-25
+R00067,C00769,Bon rapport qualité prix,2025-10-01
+R00068,C00935,"Produit correct, sans plus",2025-07-28
+R00069,C00700,Commande incomplète et remboursement compliqué,2025-09-29
+R00070,C00408,Commande incomplète et remboursement compliqué,2025-12-13
+R00071,C00909,"Produit correct, sans plus",2025-07-13
+R00072,C00122,"Colis arrivé en retard, expérience frustrante",2025-03-19
+R00073,C01450,Conforme à mes attentes,2025-03-01
+R00074,C00387,J'adore cette marque et les nouveautés,2025-07-26
+R00075,C00050,Commande incomplète et remboursement compliqué,2025-12-13
+R00076,C01428,Conforme à mes attentes,2025-06-21
+R00077,C01500,Bon rapport qualité prix,2025-03-11
+R00078,C01204,"Déçu par la qualité, je ne rachèterai pas",2025-04-30
+R00079,C00316,"Déçu par la qualité, je ne rachèterai pas",2025-09-09
+R00080,C00461,"Colis arrivé en retard, expérience frustrante",2025-12-23
+R00081,C00623,Conforme à mes attentes,2025-03-26
+R00082,C01127,La navigation du site est compliquée,2025-10-03
+R00083,C00447,"Service client très réactif, expérience parfaite",2025-01-30
+R00084,C00068,J'adore cette marque et les nouveautés,2025-11-07
+R00085,C00917,"Colis arrivé en retard, expérience frustrante",2025-03-01
+R00086,C00406,"Service client très réactif, expérience parfaite",2025-11-12
+R00087,C00835,Conforme à mes attentes,2025-02-08
+R00088,C00435,Conforme à mes attentes,2025-08-28
+R00089,C00674,"Service client très réactif, expérience parfaite",2025-01-14
+R00090,C01013,"Produit correct, sans plus",2025-11-18
+R00091,C01471,Conforme à mes attentes,2025-12-20
+R00092,C00393,"Produit correct, sans plus",2025-03-01
+R00093,C00060,"Déçu par la qualité, je ne rachèterai pas",2025-09-16
+R00094,C00763,"Colis arrivé en retard, expérience frustrante",2025-05-05
+R00095,C00639,J'adore cette marque et les nouveautés,2025-08-02
+R00096,C01357,"Déçu par la qualité, je ne rachèterai pas",2025-06-29
+R00097,C01416,Commande incomplète et remboursement compliqué,2025-02-02
+R00098,C00813,"Service client très réactif, expérience parfaite",2025-09-07
+R00099,C00057,"Produit correct, sans plus",2025-09-10
+R00100,C00024,Commande incomplète et remboursement compliqué,2025-12-09
+R00101,C00424,La navigation du site est compliquée,2025-08-11
+R00102,C00673,La navigation du site est compliquée,2025-01-31
+R00103,C00538,"Produit correct, sans plus",2025-10-25
+R00104,C01425,"Très bon produit, livraison rapide et je recommande",2025-05-10
+R00105,C00465,"Colis arrivé en retard, expérience frustrante",2025-01-09
+R00106,C01113,Commande incomplète et remboursement compliqué,2025-04-18
+R00107,C01235,"Déçu par la qualité, je ne rachèterai pas",2025-09-10
+R00108,C01005,"Service client très réactif, expérience parfaite",2025-03-23
+R00109,C00742,Commande incomplète et remboursement compliqué,2025-03-11
+R00110,C00273,Commande incomplète et remboursement compliqué,2025-11-21
+R00111,C01221,"Déçu par la qualité, je ne rachèterai pas",2025-04-15
+R00112,C01280,J'adore cette marque et les nouveautés,2025-12-24
+R00113,C00445,"Produit correct, sans plus",2025-09-29
+R00114,C00448,Conforme à mes attentes,2025-05-21
+R00115,C00394,La navigation du site est compliquée,2025-07-25
+R00116,C00764,"Colis arrivé en retard, expérience frustrante",2025-08-02
+R00117,C00711,J'adore cette marque et les nouveautés,2025-05-20
+R00118,C01173,"Très bon produit, livraison rapide et je recommande",2025-05-10
+R00119,C00738,"Très bon produit, livraison rapide et je recommande",2025-10-27
+R00120,C00893,Commande incomplète et remboursement compliqué,2025-12-14
+R00121,C01434,Commande incomplète et remboursement compliqué,2025-11-23
+R00122,C00107,J'adore cette marque et les nouveautés,2025-07-27
+R00123,C01048,Conforme à mes attentes,2025-03-22
+R00124,C01259,La navigation du site est compliquée,2025-09-30
+R00125,C01081,"Déçu par la qualité, je ne rachèterai pas",2025-11-12
+R00126,C01029,"Produit correct, sans plus",2025-11-14
+R00127,C00994,Bon rapport qualité prix,2025-06-02
+R00128,C00406,"Déçu par la qualité, je ne rachèterai pas",2025-08-07
+R00129,C00466,Bon rapport qualité prix,2025-05-20
+R00130,C00526,"Service client très réactif, expérience parfaite",2025-08-25
+R00131,C00964,"Très bon produit, livraison rapide et je recommande",2025-01-23
+R00132,C01109,Conforme à mes attentes,2025-12-23
+R00133,C00614,"Colis arrivé en retard, expérience frustrante",2025-06-25
+R00134,C01079,"Déçu par la qualité, je ne rachèterai pas",2025-02-21
+R00135,C01462,La navigation du site est compliquée,2025-04-05
+R00136,C00052,"Colis arrivé en retard, expérience frustrante",2025-05-06
+R00137,C00932,"Service client très réactif, expérience parfaite",2025-10-15
+R00138,C00259,"Très bon produit, livraison rapide et je recommande",2025-08-25
+R00139,C01314,"Produit correct, sans plus",2025-10-15
+R00140,C01458,Bon rapport qualité prix,2025-06-02
+R00141,C00175,Commande incomplète et remboursement compliqué,2025-02-05
+R00142,C00445,"Service client très réactif, expérience parfaite",2025-04-07
+R00143,C00578,Commande incomplète et remboursement compliqué,2025-09-13
+R00144,C00531,"Déçu par la qualité, je ne rachèterai pas",2025-07-30
+R00145,C00550,Conforme à mes attentes,2025-07-27
+R00146,C00019,"Produit correct, sans plus",2025-04-15
+R00147,C00681,"Service client très réactif, expérience parfaite",2025-03-09
+R00148,C00713,Bon rapport qualité prix,2025-02-02
+R00149,C00766,"Colis arrivé en retard, expérience frustrante",2025-03-21
+R00150,C01143,Commande incomplète et remboursement compliqué,2025-09-01
+R00151,C01385,Commande incomplète et remboursement compliqué,2025-07-11
+R00152,C00515,Bon rapport qualité prix,2025-09-27
+R00153,C01302,J'adore cette marque et les nouveautés,2025-01-29
+R00154,C00348,Conforme à mes attentes,2025-11-03
+R00155,C00921,"Colis arrivé en retard, expérience frustrante",2025-05-03
+R00156,C01089,La navigation du site est compliquée,2025-04-30
+R00157,C01428,"Déçu par la qualité, je ne rachèterai pas",2025-12-22
+R00158,C00477,"Déçu par la qualité, je ne rachèterai pas",2025-03-25
+R00159,C00238,"Service client très réactif, expérience parfaite",2025-09-24
+R00160,C00910,Bon rapport qualité prix,2025-06-08
+R00161,C01108,Conforme à mes attentes,2025-01-22
+R00162,C00256,J'adore cette marque et les nouveautés,2025-05-28
+R00163,C01345,"Colis arrivé en retard, expérience frustrante",2025-10-27
+R00164,C01157,"Produit correct, sans plus",2025-08-14
+R00165,C01288,J'adore cette marque et les nouveautés,2025-08-16
+R00166,C00594,"Service client très réactif, expérience parfaite",2025-05-27
+R00167,C00218,La navigation du site est compliquée,2025-06-24
+R00168,C01431,J'adore cette marque et les nouveautés,2025-10-16
+R00169,C00083,"Service client très réactif, expérience parfaite",2025-02-16
+R00170,C00610,"Très bon produit, livraison rapide et je recommande",2025-09-28
+R00171,C01065,Commande incomplète et remboursement compliqué,2025-07-13
+R00172,C01237,"Produit correct, sans plus",2025-05-12
+R00173,C00424,J'adore cette marque et les nouveautés,2025-05-14
+R00174,C00912,"Très bon produit, livraison rapide et je recommande",2025-07-07
+R00175,C00925,"Colis arrivé en retard, expérience frustrante",2025-02-17
+R00176,C00049,La navigation du site est compliquée,2025-07-17
+R00177,C00228,"Service client très réactif, expérience parfaite",2025-03-04
+R00178,C00950,"Colis arrivé en retard, expérience frustrante",2025-10-14
+R00179,C00928,Conforme à mes attentes,2025-07-01
+R00180,C01219,Bon rapport qualité prix,2025-05-31
+R00181,C00102,"Produit correct, sans plus",2025-01-06
+R00182,C01300,La navigation du site est compliquée,2025-05-08
+R00183,C00126,Conforme à mes attentes,2025-12-16
+R00184,C00784,J'adore cette marque et les nouveautés,2025-09-29
+R00185,C00718,"Service client très réactif, expérience parfaite",2025-03-25
+R00186,C00625,Commande incomplète et remboursement compliqué,2025-06-02
+R00187,C01221,Bon rapport qualité prix,2025-11-10
+R00188,C00268,Bon rapport qualité prix,2025-09-20
+R00189,C00030,Bon rapport qualité prix,2025-03-12
+R00190,C00458,J'adore cette marque et les nouveautés,2025-10-14
+R00191,C00368,Bon rapport qualité prix,2025-01-07
+R00192,C01355,"Service client très réactif, expérience parfaite",2025-11-27
+R00193,C01263,J'adore cette marque et les nouveautés,2025-07-26
+R00194,C00231,Conforme à mes attentes,2025-07-01
+R00195,C00187,"Déçu par la qualité, je ne rachèterai pas",2025-02-26
+R00196,C01417,"Très bon produit, livraison rapide et je recommande",2025-09-15
+R00197,C01226,"Produit correct, sans plus",2025-07-26
+R00198,C00727,"Produit correct, sans plus",2025-06-05
+R00199,C01261,"Produit correct, sans plus",2025-12-21
+R00200,C01105,"Déçu par la qualité, je ne rachèterai pas",2025-01-24
+R00201,C01449,Bon rapport qualité prix,2025-09-22
+R00202,C01425,J'adore cette marque et les nouveautés,2025-10-09
+R00203,C01433,Bon rapport qualité prix,2025-07-17
+R00204,C01350,La navigation du site est compliquée,2025-06-20
+R00205,C00973,Bon rapport qualité prix,2025-12-28
+R00206,C01086,Commande incomplète et remboursement compliqué,2025-12-04
+R00207,C00212,"Très bon produit, livraison rapide et je recommande",2025-04-30
+R00208,C00659,Commande incomplète et remboursement compliqué,2025-11-11
+R00209,C00539,"Très bon produit, livraison rapide et je recommande",2025-02-23
+R00210,C00406,Bon rapport qualité prix,2025-04-02
+R00211,C00133,Commande incomplète et remboursement compliqué,2025-12-05
+R00212,C00516,"Très bon produit, livraison rapide et je recommande",2025-07-13
+R00213,C00078,"Très bon produit, livraison rapide et je recommande",2025-12-24
+R00214,C00047,J'adore cette marque et les nouveautés,2025-05-18
+R00215,C00011,"Colis arrivé en retard, expérience frustrante",2025-07-28
+R00216,C00972,"Service client très réactif, expérience parfaite",2025-09-27
+R00217,C00569,"Produit correct, sans plus",2025-08-21
+R00218,C00594,Bon rapport qualité prix,2025-10-25
+R00219,C01196,"Service client très réactif, expérience parfaite",2025-05-16
+R00220,C01496,Commande incomplète et remboursement compliqué,2025-09-30
+R00221,C00855,"Colis arrivé en retard, expérience frustrante",2025-03-15
+R00222,C00928,"Produit correct, sans plus",2025-01-23
+R00223,C01463,"Colis arrivé en retard, expérience frustrante",2025-12-30
+R00224,C01073,La navigation du site est compliquée,2025-09-03
+R00225,C00967,J'adore cette marque et les nouveautés,2025-03-29
+R00226,C00835,J'adore cette marque et les nouveautés,2025-02-04
+R00227,C00480,"Service client très réactif, expérience parfaite",2025-09-08
+R00228,C00320,"Colis arrivé en retard, expérience frustrante",2025-10-17
+R00229,C00908,J'adore cette marque et les nouveautés,2025-05-05
+R00230,C00868,"Colis arrivé en retard, expérience frustrante",2025-04-30
+R00231,C01281,Conforme à mes attentes,2025-12-19
+R00232,C00129,Bon rapport qualité prix,2025-10-24
+R00233,C00594,"Service client très réactif, expérience parfaite",2025-06-02
+R00234,C01202,"Produit correct, sans plus",2025-07-29
+R00235,C00288,J'adore cette marque et les nouveautés,2025-10-19
+R00236,C01001,"Colis arrivé en retard, expérience frustrante",2025-06-29
+R00237,C01006,Commande incomplète et remboursement compliqué,2025-07-22
+R00238,C01071,"Produit correct, sans plus",2025-02-26
+R00239,C00638,Conforme à mes attentes,2025-12-25
+R00240,C00195,J'adore cette marque et les nouveautés,2025-08-26
+R00241,C01281,J'adore cette marque et les nouveautés,2025-11-02
+R00242,C01152,"Service client très réactif, expérience parfaite",2025-07-24
+R00243,C00627,"Produit correct, sans plus",2025-09-05
+R00244,C01315,Commande incomplète et remboursement compliqué,2025-11-16
+R00245,C00716,"Service client très réactif, expérience parfaite",2025-12-28
+R00246,C00674,La navigation du site est compliquée,2025-01-01
+R00247,C01369,"Service client très réactif, expérience parfaite",2025-09-15
+R00248,C01163,Bon rapport qualité prix,2025-02-18
+R00249,C01013,J'adore cette marque et les nouveautés,2025-02-04
+R00250,C00403,J'adore cette marque et les nouveautés,2025-12-21
+R00251,C00457,"Service client très réactif, expérience parfaite",2025-11-20
+R00252,C01419,Commande incomplète et remboursement compliqué,2025-07-10
+R00253,C00332,"Déçu par la qualité, je ne rachèterai pas",2025-03-03
+R00254,C00037,La navigation du site est compliquée,2025-09-29
+R00255,C00817,"Produit correct, sans plus",2025-10-30
+R00256,C00428,Conforme à mes attentes,2025-12-05
+R00257,C01227,Conforme à mes attentes,2025-02-15
+R00258,C00051,"Déçu par la qualité, je ne rachèterai pas",2025-11-23
+R00259,C00459,Conforme à mes attentes,2025-07-11
+R00260,C00588,J'adore cette marque et les nouveautés,2025-12-22
+R00261,C00347,Conforme à mes attentes,2025-07-20
+R00262,C00131,"Déçu par la qualité, je ne rachèterai pas",2025-11-07
+R00263,C00020,La navigation du site est compliquée,2025-07-18
+R00264,C00845,"Déçu par la qualité, je ne rachèterai pas",2025-04-30
+R00265,C01108,J'adore cette marque et les nouveautés,2025-01-31
+R00266,C00514,"Produit correct, sans plus",2025-05-24
+R00267,C01379,Conforme à mes attentes,2025-08-27
+R00268,C00579,Bon rapport qualité prix,2025-08-19
+R00269,C00511,"Produit correct, sans plus",2025-10-16
+R00270,C00529,La navigation du site est compliquée,2025-04-03
+R00271,C01419,"Produit correct, sans plus",2025-10-09
+R00272,C00931,"Service client très réactif, expérience parfaite",2025-10-27
+R00273,C01372,"Colis arrivé en retard, expérience frustrante",2025-12-08
+R00274,C00905,"Service client très réactif, expérience parfaite",2025-03-25
+R00275,C00118,Commande incomplète et remboursement compliqué,2025-08-22
+R00276,C00767,"Colis arrivé en retard, expérience frustrante",2025-07-02
+R00277,C00129,Conforme à mes attentes,2025-08-01
+R00278,C00973,"Déçu par la qualité, je ne rachèterai pas",2025-06-04
+R00279,C00271,"Déçu par la qualité, je ne rachèterai pas",2025-02-15
+R00280,C01370,Bon rapport qualité prix,2025-04-28
+R00281,C00070,"Colis arrivé en retard, expérience frustrante",2025-03-03
+R00282,C01422,"Déçu par la qualité, je ne rachèterai pas",2025-04-23
+R00283,C00219,Bon rapport qualité prix,2025-03-07
+R00284,C00289,"Service client très réactif, expérience parfaite",2025-03-17
+R00285,C00629,"Service client très réactif, expérience parfaite",2025-03-09
+R00286,C00547,J'adore cette marque et les nouveautés,2025-08-16
+R00287,C01365,J'adore cette marque et les nouveautés,2025-08-15
+R00288,C01257,Commande incomplète et remboursement compliqué,2025-03-14
+R00289,C00674,La navigation du site est compliquée,2025-08-30
+R00290,C00322,Bon rapport qualité prix,2025-07-22
+R00291,C00255,"Service client très réactif, expérience parfaite",2025-11-18
+R00292,C00278,Bon rapport qualité prix,2025-03-13
+R00293,C00517,"Très bon produit, livraison rapide et je recommande",2025-03-30
+R00294,C00607,Bon rapport qualité prix,2025-12-20
+R00295,C01336,J'adore cette marque et les nouveautés,2025-02-04
+R00296,C00488,Conforme à mes attentes,2025-05-25
+R00297,C00654,J'adore cette marque et les nouveautés,2025-04-25
+R00298,C00629,"Déçu par la qualité, je ne rachèterai pas",2025-06-22
+R00299,C01171,"Déçu par la qualité, je ne rachèterai pas",2025-03-07
+R00300,C00483,"Très bon produit, livraison rapide et je recommande",2025-04-27
+R00301,C01389,"Service client très réactif, expérience parfaite",2025-08-06
+R00302,C00778,"Déçu par la qualité, je ne rachèterai pas",2025-04-19
+R00303,C01403,Conforme à mes attentes,2025-08-02
+R00304,C00201,"Colis arrivé en retard, expérience frustrante",2025-10-31
+R00305,C00431,"Très bon produit, livraison rapide et je recommande",2025-07-19
+R00306,C01089,"Service client très réactif, expérience parfaite",2025-03-10
+R00307,C00095,La navigation du site est compliquée,2025-05-02
+R00308,C01478,"Produit correct, sans plus",2025-09-18
+R00309,C00759,Conforme à mes attentes,2025-12-09
+R00310,C00043,"Produit correct, sans plus",2025-03-16
+R00311,C01026,"Colis arrivé en retard, expérience frustrante",2025-03-18
+R00312,C00981,"Service client très réactif, expérience parfaite",2025-01-12
+R00313,C01447,La navigation du site est compliquée,2025-10-23
+R00314,C00246,Conforme à mes attentes,2025-03-20
+R00315,C00358,La navigation du site est compliquée,2025-09-14
+R00316,C00446,J'adore cette marque et les nouveautés,2025-06-06
+R00317,C01332,"Produit correct, sans plus",2025-07-16
+R00318,C01006,"Produit correct, sans plus",2025-02-19
+R00319,C00820,"Colis arrivé en retard, expérience frustrante",2025-08-14
+R00320,C00464,"Déçu par la qualité, je ne rachèterai pas",2025-06-13
+R00321,C00866,"Très bon produit, livraison rapide et je recommande",2025-11-06
+R00322,C00968,Conforme à mes attentes,2025-04-18
+R00323,C00975,Bon rapport qualité prix,2025-01-13
+R00324,C01496,"Très bon produit, livraison rapide et je recommande",2025-11-15
+R00325,C00476,"Produit correct, sans plus",2025-02-03
+R00326,C00139,"Service client très réactif, expérience parfaite",2025-02-07
+R00327,C01178,La navigation du site est compliquée,2025-10-16
+R00328,C00554,"Très bon produit, livraison rapide et je recommande",2025-08-14
+R00329,C00474,J'adore cette marque et les nouveautés,2025-05-29
+R00330,C01270,Bon rapport qualité prix,2025-12-19
+R00331,C00413,Bon rapport qualité prix,2025-11-28
+R00332,C01148,Commande incomplète et remboursement compliqué,2025-05-16
+R00333,C00765,J'adore cette marque et les nouveautés,2025-09-24
+R00334,C00812,"Très bon produit, livraison rapide et je recommande",2025-03-16
+R00335,C01192,"Déçu par la qualité, je ne rachèterai pas",2025-07-17
+R00336,C01004,"Colis arrivé en retard, expérience frustrante",2025-01-01
+R00337,C00482,Conforme à mes attentes,2025-02-12
+R00338,C01273,Commande incomplète et remboursement compliqué,2025-12-21
+R00339,C01282,Bon rapport qualité prix,2025-04-25
+R00340,C00015,Bon rapport qualité prix,2025-12-06
+R00341,C00990,La navigation du site est compliquée,2025-12-07
+R00342,C00484,J'adore cette marque et les nouveautés,2025-07-16
+R00343,C01417,"Très bon produit, livraison rapide et je recommande",2025-07-05
+R00344,C00906,"Très bon produit, livraison rapide et je recommande",2025-07-08
+R00345,C01154,Conforme à mes attentes,2025-04-10
+R00346,C00659,"Très bon produit, livraison rapide et je recommande",2025-10-28
+R00347,C01266,Bon rapport qualité prix,2025-10-31
+R00348,C01209,J'adore cette marque et les nouveautés,2025-10-30
+R00349,C00214,"Déçu par la qualité, je ne rachèterai pas",2025-03-27
+R00350,C01287,Conforme à mes attentes,2025-01-18
+R00351,C00056,Conforme à mes attentes,2025-10-08
+R00352,C00967,J'adore cette marque et les nouveautés,2025-09-26
+R00353,C01051,La navigation du site est compliquée,2025-07-17
+R00354,C01450,J'adore cette marque et les nouveautés,2025-10-14
+R00355,C00912,Commande incomplète et remboursement compliqué,2025-04-19
+R00356,C01078,La navigation du site est compliquée,2025-02-12
+R00357,C01473,Bon rapport qualité prix,2025-09-23
+R00358,C01171,La navigation du site est compliquée,2025-11-23
+R00359,C00546,J'adore cette marque et les nouveautés,2025-06-20
+R00360,C01044,Conforme à mes attentes,2025-02-21
+R00361,C00117,"Colis arrivé en retard, expérience frustrante",2025-11-25
+R00362,C00109,"Colis arrivé en retard, expérience frustrante",2025-12-07
+R00363,C01452,La navigation du site est compliquée,2025-05-09
+R00364,C00761,"Produit correct, sans plus",2025-10-02
+R00365,C00808,La navigation du site est compliquée,2025-07-17
+R00366,C00281,"Déçu par la qualité, je ne rachèterai pas",2025-08-27
+R00367,C00221,"Produit correct, sans plus",2025-02-08
+R00368,C01340,Commande incomplète et remboursement compliqué,2025-03-29
+R00369,C00395,J'adore cette marque et les nouveautés,2025-10-26
+R00370,C00518,Commande incomplète et remboursement compliqué,2025-06-19
+R00371,C01246,J'adore cette marque et les nouveautés,2025-06-27
+R00372,C00707,Commande incomplète et remboursement compliqué,2025-04-18
+R00373,C01166,Commande incomplète et remboursement compliqué,2025-12-23
+R00374,C01466,"Très bon produit, livraison rapide et je recommande",2025-09-26
+R00375,C00579,"Service client très réactif, expérience parfaite",2025-09-05
+R00376,C00508,"Colis arrivé en retard, expérience frustrante",2025-07-10
+R00377,C01361,Commande incomplète et remboursement compliqué,2025-11-07
+R00378,C00288,"Service client très réactif, expérience parfaite",2025-12-31
+R00379,C00884,Conforme à mes attentes,2025-09-12
+R00380,C00927,"Service client très réactif, expérience parfaite",2025-09-10
+R00381,C01104,"Service client très réactif, expérience parfaite",2025-05-18
+R00382,C00069,J'adore cette marque et les nouveautés,2025-02-17
+R00383,C01223,Commande incomplète et remboursement compliqué,2025-07-27
+R00384,C01204,La navigation du site est compliquée,2025-10-07
+R00385,C01134,La navigation du site est compliquée,2025-10-30
+R00386,C00591,"Colis arrivé en retard, expérience frustrante",2025-06-29
+R00387,C00993,J'adore cette marque et les nouveautés,2025-07-19
+R00388,C00592,"Déçu par la qualité, je ne rachèterai pas",2025-08-09
+R00389,C00166,"Très bon produit, livraison rapide et je recommande",2025-12-08
+R00390,C00872,La navigation du site est compliquée,2025-02-13
+R00391,C01159,"Service client très réactif, expérience parfaite",2025-09-24
+R00392,C00099,"Service client très réactif, expérience parfaite",2025-12-05
+R00393,C00987,Bon rapport qualité prix,2025-11-15
+R00394,C00163,"Produit correct, sans plus",2025-01-16
+R00395,C00911,Conforme à mes attentes,2025-09-28
+R00396,C00165,"Colis arrivé en retard, expérience frustrante",2025-10-19
+R00397,C01190,Bon rapport qualité prix,2025-07-08
+R00398,C00472,Commande incomplète et remboursement compliqué,2025-04-08
+R00399,C00260,"Très bon produit, livraison rapide et je recommande",2025-06-08
+R00400,C00673,"Produit correct, sans plus",2025-06-15
+R00401,C01010,"Service client très réactif, expérience parfaite",2025-06-12
+R00402,C00884,J'adore cette marque et les nouveautés,2025-06-30
+R00403,C00722,J'adore cette marque et les nouveautés,2025-05-19
+R00404,C01022,J'adore cette marque et les nouveautés,2025-11-15
+R00405,C00257,"Très bon produit, livraison rapide et je recommande",2025-02-14
+R00406,C01241,"Très bon produit, livraison rapide et je recommande",2025-03-22
+R00407,C00466,"Service client très réactif, expérience parfaite",2025-11-11
+R00408,C00158,Commande incomplète et remboursement compliqué,2025-11-04
+R00409,C01070,Conforme à mes attentes,2025-06-26
+R00410,C00065,Conforme à mes attentes,2025-01-01
+R00411,C00286,Bon rapport qualité prix,2025-01-22
+R00412,C00675,"Très bon produit, livraison rapide et je recommande",2025-08-31
+R00413,C00641,"Produit correct, sans plus",2025-02-23
+R00414,C01418,"Colis arrivé en retard, expérience frustrante",2025-04-25
+R00415,C01340,"Colis arrivé en retard, expérience frustrante",2025-01-24
+R00416,C01344,"Très bon produit, livraison rapide et je recommande",2025-04-25
+R00417,C00750,"Service client très réactif, expérience parfaite",2025-01-14
+R00418,C00018,"Produit correct, sans plus",2025-09-08
+R00419,C00912,La navigation du site est compliquée,2025-03-08
+R00420,C00994,La navigation du site est compliquée,2025-11-05
+R00421,C00600,Conforme à mes attentes,2025-12-22
+R00422,C00880,La navigation du site est compliquée,2025-08-19
+R00423,C01291,"Produit correct, sans plus",2025-01-20
+R00424,C00151,"Produit correct, sans plus",2025-01-10
+R00425,C00987,Conforme à mes attentes,2025-06-17
+R00426,C00138,Conforme à mes attentes,2025-12-06
+R00427,C00229,"Produit correct, sans plus",2025-04-18
+R00428,C01211,"Produit correct, sans plus",2025-11-15
+R00429,C00625,"Déçu par la qualité, je ne rachèterai pas",2025-05-30
+R00430,C00836,J'adore cette marque et les nouveautés,2025-12-31
+R00431,C00724,"Service client très réactif, expérience parfaite",2025-04-11
+R00432,C00598,"Déçu par la qualité, je ne rachèterai pas",2025-01-15
+R00433,C00693,Bon rapport qualité prix,2025-06-11
+R00434,C00780,J'adore cette marque et les nouveautés,2025-12-02
+R00435,C01188,J'adore cette marque et les nouveautés,2025-10-27
+R00436,C01206,"Très bon produit, livraison rapide et je recommande",2025-10-26
+R00437,C00105,Commande incomplète et remboursement compliqué,2025-01-03
+R00438,C01051,"Très bon produit, livraison rapide et je recommande",2025-07-19
+R00439,C00795,"Colis arrivé en retard, expérience frustrante",2025-06-14
+R00440,C01144,"Colis arrivé en retard, expérience frustrante",2025-06-18
+R00441,C01381,J'adore cette marque et les nouveautés,2025-11-29
+R00442,C01356,Commande incomplète et remboursement compliqué,2025-05-05
+R00443,C01401,"Colis arrivé en retard, expérience frustrante",2025-11-21
+R00444,C00010,"Déçu par la qualité, je ne rachèterai pas",2025-03-05
+R00445,C00350,Bon rapport qualité prix,2025-12-27
+R00446,C00255,"Service client très réactif, expérience parfaite",2025-01-26
+R00447,C00465,Conforme à mes attentes,2025-10-28
+R00448,C00240,J'adore cette marque et les nouveautés,2025-03-23
+R00449,C00161,"Très bon produit, livraison rapide et je recommande",2025-10-21
+R00450,C00240,Commande incomplète et remboursement compliqué,2025-06-03
+R00451,C00981,"Service client très réactif, expérience parfaite",2025-02-17
+R00452,C01007,"Service client très réactif, expérience parfaite",2025-10-03
+R00453,C01460,Conforme à mes attentes,2025-09-17
+R00454,C01241,"Service client très réactif, expérience parfaite",2025-08-22
+R00455,C01148,Conforme à mes attentes,2025-10-22
+R00456,C01212,J'adore cette marque et les nouveautés,2025-04-17
+R00457,C00322,"Très bon produit, livraison rapide et je recommande",2025-07-27
+R00458,C00745,Commande incomplète et remboursement compliqué,2025-06-25
+R00459,C01256,"Déçu par la qualité, je ne rachèterai pas",2025-03-26
+R00460,C00228,"Très bon produit, livraison rapide et je recommande",2025-01-12
+R00461,C00557,Conforme à mes attentes,2025-10-17
+R00462,C01377,"Produit correct, sans plus",2025-08-22
+R00463,C00172,"Service client très réactif, expérience parfaite",2025-03-04
+R00464,C00044,J'adore cette marque et les nouveautés,2025-10-24
+R00465,C01365,"Service client très réactif, expérience parfaite",2025-02-13
+R00466,C01313,La navigation du site est compliquée,2025-07-09
+R00467,C01349,"Produit correct, sans plus",2025-10-25
+R00468,C00499,J'adore cette marque et les nouveautés,2025-01-27
+R00469,C01461,Conforme à mes attentes,2025-11-15
+R00470,C00644,"Très bon produit, livraison rapide et je recommande",2025-04-15
+R00471,C00070,"Produit correct, sans plus",2025-07-17
+R00472,C00372,J'adore cette marque et les nouveautés,2025-07-27
+R00473,C00957,J'adore cette marque et les nouveautés,2025-03-27
+R00474,C00487,"Déçu par la qualité, je ne rachèterai pas",2025-01-07
+R00475,C00399,Commande incomplète et remboursement compliqué,2025-04-27
+R00476,C00787,"Très bon produit, livraison rapide et je recommande",2025-01-13
+R00477,C00396,"Produit correct, sans plus",2025-08-18
+R00478,C00846,Conforme à mes attentes,2025-10-21
+R00479,C00543,"Déçu par la qualité, je ne rachèterai pas",2025-10-25
+R00480,C01386,"Colis arrivé en retard, expérience frustrante",2025-12-06
+R00481,C00993,Bon rapport qualité prix,2025-05-06
+R00482,C01483,La navigation du site est compliquée,2025-11-12
+R00483,C00254,"Colis arrivé en retard, expérience frustrante",2025-11-30
+R00484,C01196,"Très bon produit, livraison rapide et je recommande",2025-04-08
+R00485,C00892,Bon rapport qualité prix,2025-02-12
+R00486,C01404,Conforme à mes attentes,2025-04-23
+R00487,C01276,"Déçu par la qualité, je ne rachèterai pas",2025-06-09
+R00488,C01237,Commande incomplète et remboursement compliqué,2025-08-27
+R00489,C01075,"Produit correct, sans plus",2025-01-31
+R00490,C00908,J'adore cette marque et les nouveautés,2025-09-03
+R00491,C01190,"Service client très réactif, expérience parfaite",2025-05-01
+R00492,C01059,J'adore cette marque et les nouveautés,2025-01-15
+R00493,C00766,Conforme à mes attentes,2025-01-04
+R00494,C00389,J'adore cette marque et les nouveautés,2025-11-16
+R00495,C00008,"Déçu par la qualité, je ne rachèterai pas",2025-09-22
+R00496,C00299,"Très bon produit, livraison rapide et je recommande",2025-05-15
+R00497,C01205,La navigation du site est compliquée,2025-08-08
+R00498,C01008,"Produit correct, sans plus",2025-04-22
+R00499,C01040,La navigation du site est compliquée,2025-08-02
+R00500,C00947,J'adore cette marque et les nouveautés,2025-07-29
+R00501,C00643,Commande incomplète et remboursement compliqué,2025-04-19
+R00502,C00459,Bon rapport qualité prix,2025-01-06
+R00503,C00003,"Très bon produit, livraison rapide et je recommande",2025-07-10
+R00504,C00432,Commande incomplète et remboursement compliqué,2025-01-10
+R00505,C00506,Commande incomplète et remboursement compliqué,2025-10-18
+R00506,C00975,"Colis arrivé en retard, expérience frustrante",2025-08-13
+R00507,C01159,"Service client très réactif, expérience parfaite",2025-10-25
+R00508,C00478,La navigation du site est compliquée,2025-04-13
+R00509,C00244,"Service client très réactif, expérience parfaite",2025-11-17
+R00510,C01240,Conforme à mes attentes,2025-01-16
+R00511,C01221,Conforme à mes attentes,2025-01-25
+R00512,C00376,"Très bon produit, livraison rapide et je recommande",2025-06-27
+R00513,C00963,"Colis arrivé en retard, expérience frustrante",2025-09-11
+R00514,C00569,"Produit correct, sans plus",2025-07-26
+R00515,C00039,"Déçu par la qualité, je ne rachèterai pas",2025-10-17
+R00516,C01474,"Déçu par la qualité, je ne rachèterai pas",2025-07-21
+R00517,C01242,J'adore cette marque et les nouveautés,2025-03-17
+R00518,C00700,J'adore cette marque et les nouveautés,2025-07-02
+R00519,C01483,Conforme à mes attentes,2025-05-29
+R00520,C00403,"Colis arrivé en retard, expérience frustrante",2025-05-21
+R00521,C00112,"Produit correct, sans plus",2025-03-26
+R00522,C01075,Bon rapport qualité prix,2025-01-25
+R00523,C00205,La navigation du site est compliquée,2025-03-01
+R00524,C00234,"Très bon produit, livraison rapide et je recommande",2025-03-12
+R00525,C00659,La navigation du site est compliquée,2025-03-13
+R00526,C00371,"Très bon produit, livraison rapide et je recommande",2025-05-31
+R00527,C00722,"Produit correct, sans plus",2025-03-15
+R00528,C00727,"Déçu par la qualité, je ne rachèterai pas",2025-01-21
+R00529,C00472,La navigation du site est compliquée,2025-08-27
+R00530,C00058,Commande incomplète et remboursement compliqué,2025-08-10
+R00531,C00190,Commande incomplète et remboursement compliqué,2025-07-31
+R00532,C00695,"Très bon produit, livraison rapide et je recommande",2025-03-10
+R00533,C01312,"Colis arrivé en retard, expérience frustrante",2025-11-24
+R00534,C01440,Conforme à mes attentes,2025-07-10
+R00535,C01354,La navigation du site est compliquée,2025-04-11
+R00536,C00595,"Déçu par la qualité, je ne rachèterai pas",2025-08-28
+R00537,C00974,"Déçu par la qualité, je ne rachèterai pas",2025-04-29
+R00538,C00573,"Produit correct, sans plus",2025-09-27
+R00539,C00713,"Colis arrivé en retard, expérience frustrante",2025-08-19
+R00540,C00687,La navigation du site est compliquée,2025-02-19
+R00541,C00026,J'adore cette marque et les nouveautés,2025-08-31
+R00542,C00970,"Colis arrivé en retard, expérience frustrante",2025-02-16
+R00543,C00269,"Produit correct, sans plus",2025-07-21
+R00544,C00784,"Très bon produit, livraison rapide et je recommande",2025-06-07
+R00545,C01106,"Déçu par la qualité, je ne rachèterai pas",2025-11-02
+R00546,C00781,J'adore cette marque et les nouveautés,2025-05-11
+R00547,C00018,"Service client très réactif, expérience parfaite",2025-06-24
+R00548,C00047,J'adore cette marque et les nouveautés,2025-04-30
+R00549,C00359,J'adore cette marque et les nouveautés,2025-08-05
+R00550,C01395,"Produit correct, sans plus",2025-03-04
+R00551,C00483,"Très bon produit, livraison rapide et je recommande",2025-10-20
+R00552,C00945,Conforme à mes attentes,2025-08-11
+R00553,C01485,Bon rapport qualité prix,2025-12-10
+R00554,C00528,Commande incomplète et remboursement compliqué,2025-02-05
+R00555,C00999,"Déçu par la qualité, je ne rachèterai pas",2025-01-26
+R00556,C00717,La navigation du site est compliquée,2025-11-30
+R00557,C00832,La navigation du site est compliquée,2025-06-06
+R00558,C01446,"Déçu par la qualité, je ne rachèterai pas",2025-08-23
+R00559,C00215,"Produit correct, sans plus",2025-11-09
+R00560,C01003,"Très bon produit, livraison rapide et je recommande",2025-03-19
+R00561,C00146,Commande incomplète et remboursement compliqué,2025-10-21
+R00562,C00651,"Produit correct, sans plus",2025-12-11
+R00563,C00991,"Déçu par la qualité, je ne rachèterai pas",2025-07-27
+R00564,C00983,Commande incomplète et remboursement compliqué,2025-10-21
+R00565,C00359,"Colis arrivé en retard, expérience frustrante",2025-09-05
+R00566,C01369,J'adore cette marque et les nouveautés,2025-09-18
+R00567,C00457,"Service client très réactif, expérience parfaite",2025-09-10
+R00568,C01388,"Colis arrivé en retard, expérience frustrante",2025-09-13
+R00569,C01213,"Colis arrivé en retard, expérience frustrante",2025-09-11
+R00570,C00637,"Colis arrivé en retard, expérience frustrante",2025-08-17
+R00571,C00997,"Service client très réactif, expérience parfaite",2025-05-02
+R00572,C00861,Conforme à mes attentes,2025-10-15
+R00573,C00292,J'adore cette marque et les nouveautés,2025-09-03
+R00574,C00223,Commande incomplète et remboursement compliqué,2025-12-16
+R00575,C00568,"Très bon produit, livraison rapide et je recommande",2025-02-15
+R00576,C00645,Bon rapport qualité prix,2025-07-16
+R00577,C00657,La navigation du site est compliquée,2025-06-30
+R00578,C01390,J'adore cette marque et les nouveautés,2025-06-05
+R00579,C00478,"Service client très réactif, expérience parfaite",2025-07-19
+R00580,C01288,Bon rapport qualité prix,2025-07-14
+R00581,C01403,"Produit correct, sans plus",2025-09-03
+R00582,C00981,"Très bon produit, livraison rapide et je recommande",2025-10-08
+R00583,C00237,Bon rapport qualité prix,2025-07-05
+R00584,C01403,Bon rapport qualité prix,2025-11-14
+R00585,C01177,Bon rapport qualité prix,2025-05-09
+R00586,C00052,J'adore cette marque et les nouveautés,2025-02-14
+R00587,C01441,"Service client très réactif, expérience parfaite",2025-04-01
+R00588,C01211,"Colis arrivé en retard, expérience frustrante",2025-01-11
+R00589,C00003,"Déçu par la qualité, je ne rachèterai pas",2025-08-07
+R00590,C01396,Bon rapport qualité prix,2025-11-01
+R00591,C01205,Bon rapport qualité prix,2025-12-02
+R00592,C00190,J'adore cette marque et les nouveautés,2025-08-19
+R00593,C01361,"Colis arrivé en retard, expérience frustrante",2025-07-13
+R00594,C00774,Commande incomplète et remboursement compliqué,2025-05-09
+R00595,C01426,Conforme à mes attentes,2025-11-24
+R00596,C00026,Conforme à mes attentes,2025-08-18
+R00597,C00850,"Produit correct, sans plus",2025-06-15
+R00598,C01229,Conforme à mes attentes,2025-10-11
+R00599,C00179,Commande incomplète et remboursement compliqué,2025-03-07
+R00600,C00067,Conforme à mes attentes,2025-09-22
+R00601,C01109,J'adore cette marque et les nouveautés,2025-12-28
+R00602,C00887,"Produit correct, sans plus",2025-01-04
+R00603,C00408,"Colis arrivé en retard, expérience frustrante",2025-10-28
+R00604,C00457,"Colis arrivé en retard, expérience frustrante",2025-06-16
+R00605,C01052,J'adore cette marque et les nouveautés,2025-12-21
+R00606,C00915,"Produit correct, sans plus",2025-05-16
+R00607,C00373,J'adore cette marque et les nouveautés,2025-03-29
+R00608,C01003,Bon rapport qualité prix,2025-10-15
+R00609,C00545,Bon rapport qualité prix,2025-10-13
+R00610,C00009,"Service client très réactif, expérience parfaite",2025-03-22
+R00611,C00995,Commande incomplète et remboursement compliqué,2025-09-26
+R00612,C00330,Bon rapport qualité prix,2025-10-14
+R00613,C01306,"Produit correct, sans plus",2025-01-09
+R00614,C01035,Bon rapport qualité prix,2025-06-27
+R00615,C00402,La navigation du site est compliquée,2025-05-15
+R00616,C00721,"Colis arrivé en retard, expérience frustrante",2025-04-14
+R00617,C00150,Commande incomplète et remboursement compliqué,2025-01-13
+R00618,C00668,"Déçu par la qualité, je ne rachèterai pas",2025-01-05
+R00619,C00296,Commande incomplète et remboursement compliqué,2025-10-03
+R00620,C01277,La navigation du site est compliquée,2025-07-16
+R00621,C00585,J'adore cette marque et les nouveautés,2025-02-18
+R00622,C00375,"Service client très réactif, expérience parfaite",2025-08-04
+R00623,C01461,"Très bon produit, livraison rapide et je recommande",2025-02-13
+R00624,C00500,"Colis arrivé en retard, expérience frustrante",2025-11-06
+R00625,C01409,Commande incomplète et remboursement compliqué,2025-11-29
+R00626,C00222,Bon rapport qualité prix,2025-08-04
+R00627,C00454,J'adore cette marque et les nouveautés,2025-01-14
+R00628,C00578,"Très bon produit, livraison rapide et je recommande",2025-09-26
+R00629,C01434,"Déçu par la qualité, je ne rachèterai pas",2025-04-15
+R00630,C00074,Commande incomplète et remboursement compliqué,2025-01-14
+R00631,C00210,J'adore cette marque et les nouveautés,2025-08-20
+R00632,C00347,"Colis arrivé en retard, expérience frustrante",2025-12-28
+R00633,C00128,"Colis arrivé en retard, expérience frustrante",2025-02-21
+R00634,C00749,"Colis arrivé en retard, expérience frustrante",2025-07-21
+R00635,C00168,"Produit correct, sans plus",2025-04-05
+R00636,C00775,"Déçu par la qualité, je ne rachèterai pas",2025-01-26
+R00637,C00755,Bon rapport qualité prix,2025-04-15
+R00638,C00059,"Service client très réactif, expérience parfaite",2025-01-15
+R00639,C00753,Commande incomplète et remboursement compliqué,2025-02-16
+R00640,C01454,Bon rapport qualité prix,2025-09-02
+R00641,C01027,La navigation du site est compliquée,2025-12-04
+R00642,C01221,J'adore cette marque et les nouveautés,2025-10-13
+R00643,C00094,"Colis arrivé en retard, expérience frustrante",2025-06-04
+R00644,C01307,"Déçu par la qualité, je ne rachèterai pas",2025-09-14
+R00645,C00504,La navigation du site est compliquée,2025-07-18
+R00646,C00716,"Service client très réactif, expérience parfaite",2025-01-10
+R00647,C01303,"Colis arrivé en retard, expérience frustrante",2025-08-13
+R00648,C01151,La navigation du site est compliquée,2025-01-23
+R00649,C00457,"Produit correct, sans plus",2025-02-13
+R00650,C00015,"Service client très réactif, expérience parfaite",2025-03-17
+R00651,C00388,Commande incomplète et remboursement compliqué,2025-09-22
+R00652,C00082,"Service client très réactif, expérience parfaite",2025-09-15
+R00653,C01455,"Déçu par la qualité, je ne rachèterai pas",2025-06-06
+R00654,C00357,"Très bon produit, livraison rapide et je recommande",2025-04-28
+R00655,C01002,"Produit correct, sans plus",2025-04-26
+R00656,C01392,"Colis arrivé en retard, expérience frustrante",2025-03-11
+R00657,C00252,Bon rapport qualité prix,2025-04-06
+R00658,C00147,J'adore cette marque et les nouveautés,2025-02-25
+R00659,C00145,La navigation du site est compliquée,2025-02-22
+R00660,C00706,Bon rapport qualité prix,2025-05-06
+R00661,C01342,La navigation du site est compliquée,2025-02-13
+R00662,C01387,"Produit correct, sans plus",2025-02-18
+R00663,C00290,"Produit correct, sans plus",2025-02-24
+R00664,C00975,La navigation du site est compliquée,2025-02-15
+R00665,C00474,"Colis arrivé en retard, expérience frustrante",2025-12-03
+R00666,C00168,"Colis arrivé en retard, expérience frustrante",2025-12-27
+R00667,C01462,"Très bon produit, livraison rapide et je recommande",2025-04-28
+R00668,C00815,Commande incomplète et remboursement compliqué,2025-03-27
+R00669,C00269,J'adore cette marque et les nouveautés,2025-07-04
+R00670,C00351,"Très bon produit, livraison rapide et je recommande",2025-01-23
+R00671,C01412,Commande incomplète et remboursement compliqué,2025-01-16
+R00672,C00756,Commande incomplète et remboursement compliqué,2025-03-14
+R00673,C01172,Commande incomplète et remboursement compliqué,2025-12-05
+R00674,C00270,"Très bon produit, livraison rapide et je recommande",2025-07-10
+R00675,C00294,Bon rapport qualité prix,2025-05-10
+R00676,C00990,"Produit correct, sans plus",2025-03-25
+R00677,C00205,"Service client très réactif, expérience parfaite",2025-03-19
+R00678,C01125,Conforme à mes attentes,2025-12-02
+R00679,C00740,Conforme à mes attentes,2025-03-03
+R00680,C01481,Bon rapport qualité prix,2025-03-15
+R00681,C00596,Bon rapport qualité prix,2025-12-05
+R00682,C00985,"Service client très réactif, expérience parfaite",2025-01-31
+R00683,C00636,Conforme à mes attentes,2025-06-29
+R00684,C00346,Bon rapport qualité prix,2025-09-29
+R00685,C00666,"Déçu par la qualité, je ne rachèterai pas",2025-05-03
+R00686,C00864,"Produit correct, sans plus",2025-08-09
+R00687,C01400,"Service client très réactif, expérience parfaite",2025-08-29
+R00688,C00234,"Déçu par la qualité, je ne rachèterai pas",2025-05-28
+R00689,C01359,Conforme à mes attentes,2025-03-29
+R00690,C00494,J'adore cette marque et les nouveautés,2025-10-17
+R00691,C00694,Bon rapport qualité prix,2025-05-08
+R00692,C00627,Conforme à mes attentes,2025-11-21
+R00693,C00669,"Très bon produit, livraison rapide et je recommande",2025-07-18
+R00694,C00094,"Très bon produit, livraison rapide et je recommande",2025-07-26
+R00695,C00306,Bon rapport qualité prix,2025-11-25
+R00696,C00077,"Service client très réactif, expérience parfaite",2025-06-06
+R00697,C00675,"Déçu par la qualité, je ne rachèterai pas",2025-01-14
+R00698,C00963,La navigation du site est compliquée,2025-01-12
+R00699,C00443,Conforme à mes attentes,2025-07-04
+R00700,C00606,Commande incomplète et remboursement compliqué,2025-08-16
